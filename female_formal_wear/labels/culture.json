@@ -1,0 +1,344 @@
+{
+  "description_en": "cultural and regional wedding traditions for bridal and formal wear.",
+  "description_zh": "婚纱与正式礼服文化传统与地区影响按文化传承与地区影响组织。",
+  "category_name_en": "Cultural / Regional Style",
+  "category_name_zh": "文化风格",
+  "attributes": [
+    {
+      "id": "culture_001",
+      "name_en": "Western Traditional",
+      "name_zh": "西方传统",
+      "description_en": "Classic Western wedding traditions featuring white gowns, veils, and formal evening wear.",
+      "description_zh": "经典西方婚礼传统，以白色礼服、面纱和正式晚装为特色。",
+      "ai_tags": [
+        "traditional",
+        "classic",
+        "elegant",
+        "western",
+        "bridal"
+      ]
+    },
+    {
+      "id": "culture_002",
+      "name_en": "Chinese Traditional",
+      "name_zh": "中国传统",
+      "description_en": "Traditional Chinese wedding attire.",
+      "description_zh": "中国传统婚礼服装。",
+      "ai_tags": [
+        "traditional",
+        "cultural",
+        "elegant",
+        "chinese",
+        "ceremonial"
+      ]
+    },
+    {
+      "id": "culture_003",
+      "name_en": "Indian Traditional",
+      "name_zh": "印度传统",
+      "description_en": "Traditional Indian wedding wear including sarees, lehengas, and ornate bridal attire.",
+      "description_zh": "传统印度婚礼服装，包括纱丽、lehenga和华丽的婚礼服装。",
+      "ai_tags": [
+        "traditional",
+        "cultural",
+        "ornate",
+        "indian",
+        "vibrant"
+      ]
+    },
+    {
+      "id": "culture_004",
+      "name_en": "Middle Eastern Traditional",
+      "name_zh": "中东传统",
+      "description_en": "Traditional Middle Eastern wedding attire including abayas, kaftans, and ornate ceremonial dress.",
+      "description_zh": "传统中东婚礼服装，包括长袍、卡夫坦和华丽的仪式服装。",
+      "ai_tags": [
+        "traditional",
+        "cultural",
+        "elegant",
+        "middle_eastern",
+        "ornate"
+      ]
+    },
+    {
+      "id": "culture_005",
+      "name_en": "African Traditional",
+      "name_zh": "非洲传统",
+      "description_en": "Traditional African wedding attire including dashikis, kente cloth, and vibrant ceremonial dress.",
+      "description_zh": "传统非洲婚礼服装，包括达希基、肯特布和鲜艳的仪式服装。",
+      "ai_tags": [
+        "traditional",
+        "cultural",
+        "vibrant",
+        "african",
+        "colorful"
+      ]
+    },
+    {
+      "id": "culture_006",
+      "name_en": "European Traditional",
+      "name_zh": "欧洲传统",
+      "description_en": "Traditional European wedding attire including ball gowns, evening wear, and regional folk costumes.",
+      "description_zh": "传统欧洲婚礼服装，包括舞会礼服、晚装和地区民俗服装。",
+      "ai_tags": [
+        "traditional",
+        "cultural",
+        "elegant",
+        "european",
+        "formal"
+      ]
+    },
+    {
+      "id": "culture_007",
+      "name_en": "Japanese Traditional",
+      "name_zh": "日本传统",
+      "description_en": "Traditional Japanese wedding attire including kimono, uchikake, and shiromuku.",
+      "description_zh": "传统日本婚礼服装，包括和服、打褂和白无垢。",
+      "ai_tags": [
+        "traditional",
+        "cultural",
+        "elegant",
+        "japanese",
+        "ceremonial"
+      ]
+    },
+    {
+      "id": "culture_008",
+      "name_en": "Korean Traditional",
+      "name_zh": "韩国传统",
+      "description_en": "Traditional Korean wedding attire including hanbok and ceremonial dress.",
+      "description_zh": "传统韩国婚礼服装，包括韩服和仪式服装。",
+      "ai_tags": [
+        "traditional",
+        "cultural",
+        "elegant",
+        "korean",
+        "ceremonial"
+      ]
+    },
+    {
+      "id": "culture_009",
+      "name_en": "Latin American Traditional",
+      "name_zh": "拉丁美洲传统",
+      "description_en": "Traditional Latin American wedding attire including flamenco, folkloric, and vibrant ceremonial dress.",
+      "description_zh": "传统拉丁美洲婚礼服装，包括弗拉门戈、民俗和鲜艳的仪式服装。",
+      "ai_tags": [
+        "traditional",
+        "cultural",
+        "vibrant",
+        "latin_american",
+        "passionate"
+      ]
+    },
+    {
+      "id": "culture_010",
+      "name_en": "Native American Cultural",
+      "name_zh": "美洲原住民文化",
+      "description_en": "Traditional Native American ceremonial attire including regalia and traditional dress.",
+      "description_zh": "传统美洲原住民仪式服装，包括盛装和传统服装。",
+      "ai_tags": [
+        "traditional",
+        "cultural",
+        "ceremonial",
+        "native_american",
+        "spiritual"
+      ]
+    },
+    {
+      "id": "culture_011",
+      "name_en": "Mediterranean",
+      "name_zh": "地中海",
+      "description_en": "Mediterranean wedding traditions including Greek, Italian, and Spanish influences.",
+      "description_zh": "地中海婚礼传统，包括希腊、意大利和西班牙影响。",
+      "ai_tags": [
+        "traditional",
+        "cultural",
+        "elegant",
+        "mediterranean",
+        "romantic"
+      ]
+    },
+    {
+      "id": "culture_012",
+      "name_en": "Scandinavian",
+      "name_zh": "斯堪的纳维亚",
+      "description_en": "Scandinavian wedding traditions featuring minimalist design and folk influences.",
+      "description_zh": "斯堪的纳维亚婚礼传统，以极简设计和民俗影响为特色。",
+      "ai_tags": [
+        "traditional",
+        "cultural",
+        "minimalist",
+        "scandinavian",
+        "clean"
+      ]
+    },
+    {
+      "id": "culture_013",
+      "name_en": "Eastern European",
+      "name_zh": "东欧",
+      "description_en": "Eastern European wedding traditions including Russian, Polish, and Slavic influences.",
+      "description_zh": "东欧婚礼传统，包括俄罗斯、波兰和斯拉夫影响。",
+      "ai_tags": [
+        "traditional",
+        "cultural",
+        "elegant",
+        "eastern_european",
+        "ornate"
+      ]
+    },
+    {
+      "id": "culture_014",
+      "name_en": "Southeast Asian",
+      "name_zh": "东南亚",
+      "description_en": "Southeast Asian wedding traditions including Thai, Vietnamese, and Indonesian influences.",
+      "description_zh": "东南亚婚礼传统，包括泰国、越南和印度尼西亚影响。",
+      "ai_tags": [
+        "traditional",
+        "cultural",
+        "elegant",
+        "southeast_asian",
+        "colorful"
+      ]
+    },
+    {
+      "id": "culture_015",
+      "name_en": "South Asian",
+      "name_zh": "南亚",
+      "description_en": "South Asian wedding traditions including Pakistani, Bangladeshi, and Sri Lankan influences.",
+      "description_zh": "南亚婚礼传统，包括巴基斯坦、孟加拉国和斯里兰卡影响。",
+      "ai_tags": [
+        "traditional",
+        "cultural",
+        "ornate",
+        "south_asian",
+        "vibrant"
+      ]
+    },
+    {
+      "id": "culture_016",
+      "name_en": "Fusion Cultural",
+      "name_zh": "融合文化",
+      "description_en": "Modern fusion styles combining elements from multiple cultural traditions.",
+      "description_zh": "融合多种文化传统元素的现代融合风格。",
+      "ai_tags": [
+        "modern",
+        "fusion",
+        "multicultural",
+        "contemporary",
+        "innovative"
+      ]
+    },
+    {
+      "id": "culture_017",
+      "name_en": "Contemporary Cultural",
+      "name_zh": "当代文化",
+      "description_en": "Modern interpretations of traditional cultural elements in contemporary design.",
+      "description_zh": "传统文化元素在当代设计中的现代诠释。",
+      "ai_tags": [
+        "modern",
+        "contemporary",
+        "cultural",
+        "innovative",
+        "stylish"
+      ]
+    },
+    {
+      "id": "culture_018",
+      "name_en": "Global Cultural",
+      "name_zh": "全球文化",
+      "description_en": "Internationally influenced styles that draw from global fashion trends.",
+      "description_zh": "受国际影响的风格，汲取全球时尚趋势。",
+      "ai_tags": [
+        "global",
+        "international",
+        "modern",
+        "trendy",
+        "cosmopolitan"
+      ]
+    },
+    {
+      "id": "culture_019",
+      "name_en": "Religious Ceremonial",
+      "name_zh": "宗教仪式",
+      "description_en": "Attire for religious ceremonies and spiritual celebrations across cultures.",
+      "description_zh": "跨文化宗教仪式和精神庆典服装。",
+      "ai_tags": [
+        "religious",
+        "ceremonial",
+        "spiritual",
+        "traditional",
+        "sacred"
+      ]
+    },
+    {
+      "id": "culture_020",
+      "name_en": "Royal Ceremonial",
+      "name_zh": "皇室仪式",
+      "description_en": "Formal ceremonial attire inspired by royal traditions and court dress.",
+      "description_zh": "受皇室传统和宫廷服装启发的正式仪式服装。",
+      "ai_tags": [
+        "royal",
+        "ceremonial",
+        "formal",
+        "luxurious",
+        "regal"
+      ]
+    },
+    {
+      "id": "culture_021",
+      "name_en": "Vintage Cultural",
+      "name_zh": "复古文化",
+      "description_en": "Historical cultural styles from specific eras and periods.",
+      "description_zh": "特定时代和时期的历史文化风格。",
+      "ai_tags": [
+        "vintage",
+        "historical",
+        "retro",
+        "nostalgic",
+        "timeless"
+      ]
+    },
+    {
+      "id": "culture_022",
+      "name_en": "Artistic Cultural",
+      "name_zh": "艺术文化",
+      "description_en": "Artistic and avant-garde cultural expressions in formal wear.",
+      "description_zh": "正式服装中的艺术和前卫文化表达。",
+      "ai_tags": [
+        "artistic",
+        "avant_garde",
+        "creative",
+        "unique",
+        "expressive"
+      ]
+    },
+    {
+      "id": "culture_023",
+      "name_en": "Minimalist Cultural",
+      "name_zh": "极简文化",
+      "description_en": "Clean, simple cultural styles with minimal decorative elements.",
+      "description_zh": "简洁干净的文化风格，装饰元素最少。",
+      "ai_tags": [
+        "minimalist",
+        "clean",
+        "simple",
+        "modern",
+        "sophisticated"
+      ]
+    },
+    {
+      "id": "culture_024",
+      "name_en": "Luxury Cultural",
+      "name_zh": "奢华文化",
+      "description_en": "High-end cultural styles featuring luxurious materials and craftsmanship.",
+      "description_zh": "以奢华材料和工艺为特色的高端文化风格。",
+      "ai_tags": [
+        "luxury",
+        "high_end",
+        "opulent",
+        "premium",
+        "exclusive"
+      ]
+    }
+  ]
+}

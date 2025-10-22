@@ -1,0 +1,599 @@
+{
+  "description_en": "fabric materials used in bridal and formal wear.",
+  "description_zh": "用于婚纱及正式礼服。",
+  "category_name_en": "Fabric Material",
+  "category_name_zh": "面料材质",
+  "attributes": [
+    {
+      "id": "fabric_001",
+      "name_en": "Satin",
+      "name_zh": "缎面",
+      "description_en": "Smooth, glossy fabric with formal sheen, widely used for bridal and evening gowns.",
+      "description_zh": "光滑亮泽的正式面料，广泛用于婚纱与晚礼服。",
+      "ai_tags": [
+        "glossy",
+        "formal",
+        "elegant"
+      ]
+    },
+    {
+      "id": "fabric_002",
+      "name_en": "Chiffon",
+      "name_zh": "雪纺",
+      "description_en": "Sheer and airy fabric with soft drape, perfect for flowing designs.",
+      "description_zh": "轻薄透明，柔软飘逸，适合流动感设计。",
+      "ai_tags": [
+        "lightweight",
+        "flowy",
+        "feminine"
+      ]
+    },
+    {
+      "id": "fabric_003",
+      "name_en": "Polyester Chiffon",
+      "name_zh": "聚酯雪纺",
+      "description_en": "Affordable chiffon alternative with good drape and easy care.",
+      "description_zh": "价格实惠的雪纺替代品，垂感良好且易于护理。",
+      "ai_tags": [
+        "affordable",
+        "flowy",
+        "easy_care"
+      ]
+    },
+    {
+      "id": "fabric_004",
+      "name_en": "Lace",
+      "name_zh": "蕾丝",
+      "description_en": "Delicate openwork textile with intricate patterns, iconic for romantic designs.",
+      "description_zh": "精致的镂空织物，具有复杂花纹，是浪漫风格代表。",
+      "ai_tags": [
+        "romantic",
+        "vintage",
+        "delicate",
+        "intricate"
+      ]
+    },
+    {
+      "id": "fabric_005",
+      "name_en": "Tulle",
+      "name_zh": "薄纱",
+      "description_en": "Fine netting fabric used for veils and voluminous skirts.",
+      "description_zh": "精细网状织物，用于面纱与蓬松裙摆。",
+      "ai_tags": [
+        "dreamy",
+        "voluminous",
+        "layered"
+      ]
+    },
+    {
+      "id": "fabric_006",
+      "name_en": "Organza",
+      "name_zh": "欧根纱",
+      "description_en": "Crisp, transparent fabric used for volume and structure.",
+      "description_zh": "挺括透明的面料，用于营造体积感与结构感。",
+      "ai_tags": [
+        "structured",
+        "sheer",
+        "light"
+      ]
+    },
+    {
+      "id": "fabric_007",
+      "name_en": "Mulberry Silk",
+      "name_zh": "桑蚕丝",
+      "description_en": "Premium silk from mulberry-fed silkworms, known for its softness, luster and smooth texture.",
+      "description_zh": "桑蚕喂养的优质真丝，以其柔软、光泽和光滑质感著称。",
+      "ai_tags": [
+        "luxury",
+        "natural",
+        "soft",
+        "premium"
+      ]
+    },
+    {
+      "id": "fabric_008",
+      "name_en": "Silk Chiffon",
+      "name_zh": "真丝雪纺",
+      "description_en": "Premium chiffon made from silk, offering superior drape and luxury feel.",
+      "description_zh": "由真丝制成的优质雪纺，具有卓越的垂感和奢华触感。",
+      "ai_tags": [
+        "luxury",
+        "silky",
+        "flowy",
+        "premium"
+      ]
+    },
+    {
+      "id": "fabric_009",
+      "name_en": "Charmeuse",
+      "name_zh": "柔光缎",
+      "description_en": "Silky, smooth fabric with excellent drape used for bias-cut gowns and flowing designs.",
+      "description_zh": "光滑柔顺、垂感极佳的面料，常用于斜裁礼服和流动感设计。",
+      "ai_tags": [
+        "silky",
+        "draped",
+        "sensual",
+        "elegant"
+      ]
+    },
+    {
+      "id": "fabric_010",
+      "name_en": "Crepe",
+      "name_zh": "绉布",
+      "description_en": "Textured surface fabric with graceful drape and movement.",
+      "description_zh": "表面有细褶纹理，垂感优雅富有动感。",
+      "ai_tags": [
+        "textured",
+        "draped",
+        "elegant"
+      ]
+    },
+    {
+      "id": "fabric_011",
+      "name_en": "Crepe de Chine",
+      "name_zh": "双绉",
+      "description_en": "Lightweight silk crepe with a slightly pebbled texture, perfect for elegant draping.",
+      "description_zh": "轻盈的丝质绉布，带有轻微鹅卵石纹理，完美适合优雅垂坠。",
+      "ai_tags": [
+        "textured",
+        "draped",
+        "elegant",
+        "versatile"
+      ]
+    },
+    {
+      "id": "fabric_012",
+      "name_en": "Duchess Satin",
+      "name_zh": "公爵缎",
+      "description_en": "Heavy, luxurious satin with excellent structure and formal appearance.",
+      "description_zh": "厚重奢华的缎面，结构优良，外观正式。",
+      "ai_tags": [
+        "luxury",
+        "structured",
+        "formal"
+      ]
+    },
+    {
+      "id": "fabric_013",
+      "name_en": "Charmeuse Satin",
+      "name_zh": "柔光缎面",
+      "description_en": "Satin with a soft, flowing drape, perfect for elegant gowns.",
+      "description_zh": "具有柔软流动垂感的缎面，适合优雅礼服。",
+      "ai_tags": [
+        "soft",
+        "flowing",
+        "elegant"
+      ]
+    },
+    {
+      "id": "fabric_014",
+      "name_en": "Stretch Satin",
+      "name_zh": "弹力缎",
+      "description_en": "Satin blended with elastane for comfortable body-hugging silhouettes.",
+      "description_zh": "与弹性纤维混纺的缎面，适合贴身剪裁的礼服。",
+      "ai_tags": [
+        "stretch",
+        "fitted",
+        "comfortable"
+      ]
+    },
+    {
+      "id": "fabric_015",
+      "name_en": "Mikado",
+      "name_zh": "米卡多",
+      "description_en": "Thick silk-blend satin with structure and luster, ideal for sculptural gowns.",
+      "description_zh": "厚实的丝绸混纺缎，挺括有光泽，适合雕塑型礼服。",
+      "ai_tags": [
+        "structured",
+        "luxury",
+        "sculptural"
+      ]
+    },
+    {
+      "id": "fabric_016",
+      "name_en": "Chantilly Lace",
+      "name_zh": "尚蒂伊蕾丝",
+      "description_en": "Delicate French lace with fine floral patterns, highly prized for bridal wear.",
+      "description_zh": "精致的法式蕾丝，具有精美的花卉图案，在婚纱中备受推崇。",
+      "ai_tags": [
+        "romantic",
+        "delicate",
+        "french",
+        "bridal"
+      ]
+    },
+    {
+      "id": "fabric_017",
+      "name_en": "Alençon Lace",
+      "name_zh": "阿朗松蕾丝",
+      "description_en": "Heavy French lace with raised patterns, perfect for structured gowns.",
+      "description_zh": "厚重的法式蕾丝，具有凸起图案，适合结构化礼服。",
+      "ai_tags": [
+        "structured",
+        "french",
+        "formal",
+        "elegant"
+      ]
+    },
+    {
+      "id": "fabric_018",
+      "name_en": "Guipure Lace",
+      "name_zh": "吉普蕾丝",
+      "description_en": "Heavy lace without net backing, creating bold geometric patterns.",
+      "description_zh": "无网底的重型蕾丝，创造出大胆的几何图案。",
+      "ai_tags": [
+        "bold",
+        "geometric",
+        "structured",
+        "modern"
+      ]
+    },
+    {
+      "id": "fabric_019",
+      "name_en": "Velvet",
+      "name_zh": "天鹅绒",
+      "description_en": "Rich pile fabric with deep texture, ideal for winter formal wear.",
+      "description_zh": "绒面丰厚、质感深邃，适合冬季礼服。",
+      "ai_tags": [
+        "luxurious",
+        "textured",
+        "warm"
+      ]
+    },
+    {
+      "id": "fabric_020",
+      "name_en": "Silk Velvet",
+      "name_zh": "真丝天鹅绒",
+      "description_en": "Luxurious velvet made from silk, offering the finest texture and drape.",
+      "description_zh": "由真丝制成的奢华天鹅绒，提供最精致的质感和垂感。",
+      "ai_tags": [
+        "luxury",
+        "silky",
+        "textured",
+        "premium"
+      ]
+    },
+    {
+      "id": "fabric_021",
+      "name_en": "Crushed Velvet",
+      "name_zh": "压花天鹅绒",
+      "description_en": "Velvet with a crushed appearance, creating a unique textured effect.",
+      "description_zh": "具有压花外观的天鹅绒，创造出独特的纹理效果。",
+      "ai_tags": [
+        "textured",
+        "unique",
+        "modern",
+        "luxury"
+      ]
+    },
+    {
+      "id": "fabric_022",
+      "name_en": "Velour / Velvet Blend",
+      "name_zh": "丝绒变体 / Velour",
+      "description_en": "Softer velvet-like fabric often used for less formal luxurious pieces.",
+      "description_zh": "类似天鹅绒但更柔软的面料，常用于非正式的奢华单品。",
+      "ai_tags": [
+        "soft",
+        "luxury",
+        "cozy"
+      ]
+    },
+    {
+      "id": "fabric_023",
+      "name_en": "Taffeta",
+      "name_zh": "塔夫绸",
+      "description_en": "Crisp, rustling fabric with subtle sheen, used for structured gowns.",
+      "description_zh": "挺括带响的面料，微光泽，常用于结构化婚纱。",
+      "ai_tags": [
+        "crisp",
+        "formal",
+        "structured"
+      ]
+    },
+    {
+      "id": "fabric_024",
+      "name_en": "Foil / Foil-printed Taffeta",
+      "name_zh": "镀膜 / 金属印花塔夫",
+      "description_en": "Taffeta or similar base with metallic foil or print for dramatic shine.",
+      "description_zh": "在塔夫等基布上做金属镀层或印花，产生强烈光泽效果。",
+      "ai_tags": [
+        "dramatic",
+        "metallic",
+        "evening"
+      ]
+    },
+    {
+      "id": "fabric_025",
+      "name_en": "Tussah Silk",
+      "name_zh": "柞蚕丝",
+      "description_en": "Wild silk with natural golden color and slightly rougher texture than mulberry silk.",
+      "description_zh": "野生蚕丝，具有天然金黄色和比桑蚕丝略粗糙的质感。",
+      "ai_tags": [
+        "natural",
+        "golden",
+        "textured",
+        "wild"
+      ]
+    },
+    {
+      "id": "fabric_026",
+      "name_en": "Dupioni Silk",
+      "name_zh": "杜邦丝",
+      "description_en": "Silk with slub texture producing natural irregularities and shine, good for structured gowns.",
+      "description_zh": "具有天然丝节纹理和光泽，适合结构化礼服。",
+      "ai_tags": [
+        "textured",
+        "structured",
+        "traditional"
+      ]
+    },
+    {
+      "id": "fabric_027",
+      "name_en": "Shantung",
+      "name_zh": "香云纱",
+      "description_en": "Silk-like fabric with slubby texture, vintage and textured appearance.",
+      "description_zh": "类似真丝的面料，带有丝节感，复古且有纹理感。",
+      "ai_tags": [
+        "textured",
+        "vintage",
+        "elegant"
+      ]
+    },
+    {
+      "id": "fabric_028",
+      "name_en": "Gazar",
+      "name_zh": "加扎布",
+      "description_en": "Very crisp, high-twist silk or silk-blend fabric used in couture for architectural silhouettes.",
+      "description_zh": "极为挺括的高捻丝或混纺面料，用于高级时装的建筑型廓形。",
+      "ai_tags": [
+        "architectural",
+        "crisp",
+        "couture"
+      ]
+    },
+    {
+      "id": "fabric_029",
+      "name_en": "Banarasi Silk",
+      "name_zh": "巴纳拉西丝",
+      "description_en": "Handwoven Indian silk with rich brocade patterns, used in South Asian bridalwear.",
+      "description_zh": "印度手工织锦丝，图案华美，常用于南亚婚礼礼服。",
+      "ai_tags": [
+        "traditional",
+        "brocade",
+        "south_asia",
+        "luxury"
+      ]
+    },
+    {
+      "id": "fabric_030",
+      "name_en": "Kanchipuram Silk",
+      "name_zh": "坎奇布拉姆丝",
+      "description_en": "South Indian heavy silk with distinctive borders, used in ceremonial bridal sarees.",
+      "description_zh": "南印浓重丝织，边饰显著，常用于仪式性婚礼纱丽。",
+      "ai_tags": [
+        "ceremonial",
+        "traditional",
+        "south_asia",
+        "luxury"
+      ]
+    },
+    {
+      "id": "fabric_031",
+      "name_en": "Rayon / Viscose",
+      "name_zh": "人造丝 / 人造纤维",
+      "description_en": "Semi-synthetic fiber mimicking silk sheen and drape at lower cost.",
+      "description_zh": "半合成纤维，模仿真丝光泽与垂感，但成本较低。",
+      "ai_tags": [
+        "silky",
+        "affordable",
+        "smooth"
+      ]
+    },
+    {
+      "id": "fabric_032",
+      "name_en": "Tencel / Lyocell",
+      "name_zh": "天丝 / 莱赛尔",
+      "description_en": "Eco-friendly regenerated fiber with silky touch and good drape.",
+      "description_zh": "环保再生纤维，手感光滑，垂感良好。",
+      "ai_tags": [
+        "eco",
+        "smooth",
+        "sustainable"
+      ]
+    },
+    {
+      "id": "fabric_033",
+      "name_en": "Neoprene / Scuba",
+      "name_zh": "潜水布 / Scuba",
+      "description_en": "Thick, structured synthetic fabric used for sculptural modern gowns.",
+      "description_zh": "厚实富有弹性的合成面料，常用于现代雕塑型礼服。",
+      "ai_tags": [
+        "structured",
+        "modern",
+        "sculptural"
+      ]
+    },
+    {
+      "id": "fabric_034",
+      "name_en": "Jersey / Stretch Knit",
+      "name_zh": "针织弹力 / 平针",
+      "description_en": "Soft stretch knit used for minimalist or comfortable gowns.",
+      "description_zh": "柔软有弹力的针织面料，适用于极简或舒适款礼服。",
+      "ai_tags": [
+        "minimalist",
+        "stretch",
+        "comfort"
+      ]
+    },
+    {
+      "id": "fabric_035",
+      "name_en": "Jacquard",
+      "name_zh": "提花布",
+      "description_en": "Woven fabric with intricate raised patterns, elegant and structured.",
+      "description_zh": "机织浮花面料，复杂优雅且富结构感。",
+      "ai_tags": [
+        "patterned",
+        "structured",
+        "elegant"
+      ]
+    },
+    {
+      "id": "fabric_036",
+      "name_en": "Brocade",
+      "name_zh": "锦缎",
+      "description_en": "Heavy jacquard often woven with metallic threads for opulent looks.",
+      "description_zh": "厚重提花织物，常掺金银线，营造华丽质感。",
+      "ai_tags": [
+        "royal",
+        "traditional",
+        "luxurious"
+      ]
+    },
+    {
+      "id": "fabric_037",
+      "name_en": "Damask",
+      "name_zh": "花缎",
+      "description_en": "Reversible jacquard with contrasting matte and shiny areas.",
+      "description_zh": "可逆的提花织物，具有对比的哑光和光泽区域。",
+      "ai_tags": [
+        "reversible",
+        "contrast",
+        "elegant",
+        "traditional"
+      ]
+    },
+    {
+      "id": "fabric_038",
+      "name_en": "Mesh / Net",
+      "name_zh": "网布 / 网纱",
+      "description_en": "Net fabrics used for overlays, illusion effects and structural layers.",
+      "description_zh": "网状面料，用作覆盖层、透视效果以及结构层。",
+      "ai_tags": [
+        "breathable",
+        "illusion",
+        "overlay"
+      ]
+    },
+    {
+      "id": "fabric_039",
+      "name_en": "Power Mesh",
+      "name_zh": "强力网布",
+      "description_en": "Stretchy mesh fabric used for support and structure in modern gowns.",
+      "description_zh": "弹性网布面料，用于现代礼服中的支撑和结构。",
+      "ai_tags": [
+        "stretchy",
+        "supportive",
+        "modern",
+        "structured"
+      ]
+    },
+    {
+      "id": "fabric_040",
+      "name_en": "Laser-cut Tulle / Laser-cut Net",
+      "name_zh": "激光切割薄纱 / 网纱",
+      "description_en": "Tulle/net with laser-cut edges or patterns for precision decorative motifs.",
+      "description_zh": "通过激光切割形成精细边缘或图案的薄纱/网纱，装饰效果精确。",
+      "ai_tags": [
+        "precision",
+        "modern",
+        "decorative"
+      ]
+    },
+    {
+      "id": "fabric_041",
+      "name_en": "Sequined Fabric",
+      "name_zh": "亮片布",
+      "description_en": "Decorative fabric with sewn sequins for sparkle and glamour.",
+      "description_zh": "镶嵌亮片的装饰性面料，增加闪耀感与华丽度。",
+      "ai_tags": [
+        "sparkling",
+        "glamorous",
+        "party"
+      ]
+    },
+    {
+      "id": "fabric_042",
+      "name_en": "Embroidered Fabric",
+      "name_zh": "刺绣布",
+      "description_en": "Base fabric with decorative embroidery, often couture or handmade.",
+      "description_zh": "底布绣花的装饰面料，经常用于高定或手工工艺。",
+      "ai_tags": [
+        "detailed",
+        "ornate",
+        "couture"
+      ]
+    },
+    {
+      "id": "fabric_043",
+      "name_en": "Lurex / Metallic Fabric",
+      "name_zh": "金属丝面料",
+      "description_en": "Fabric woven with metallic yarns or threads giving shimmer, common in evening wear.",
+      "description_zh": "掺金属纱的织物，闪耀光泽，常见于晚礼服。",
+      "ai_tags": [
+        "shiny",
+        "glamorous",
+        "evening"
+      ]
+    },
+    {
+      "id": "fabric_044",
+      "name_en": "Georgette",
+      "name_zh": "乔其纱",
+      "description_en": "Lightweight crepe-like fabric with slightly rough texture.",
+      "description_zh": "轻盈略粗糙的面料，比雪纺更具弹性与垂度。",
+      "ai_tags": [
+        "lightweight",
+        "textured",
+        "flowy"
+      ]
+    },
+    {
+      "id": "fabric_045",
+      "name_en": "Seersucker",
+      "name_zh": "泡泡纱",
+      "description_en": "Light puckered cotton fabric ideal for warm climates and casual weddings.",
+      "description_zh": "轻盈有褶皱的棉质面料，适合热带或休闲婚礼。",
+      "ai_tags": [
+        "textured",
+        "breathable",
+        "casual"
+      ]
+    },
+    {
+      "id": "fabric_046",
+      "name_en": "Broderie Anglaise / Dotted Swiss",
+      "name_zh": "英式刺绣 / 点纹纱",
+      "description_en": "Embroidered cotton varieties with holes or dots, used for vintage or pastoral looks.",
+      "description_zh": "带孔或点纹的棉质刺绣面料，常用于复古或田园风格。",
+      "ai_tags": [
+        "vintage",
+        "embroidered",
+        "pastoral"
+      ]
+    },
+    {
+      "id": "fabric_047",
+      "name_en": "Eco Blends / Recycled Fabrics",
+      "name_zh": "环保混纺 / 再生面料",
+      "description_en": "Recycled polyester blends, organic cotton blends and other sustainable fabric options.",
+      "description_zh": "再生聚酯混纺、有机棉混纺等可持续面料选择。",
+      "ai_tags": [
+        "sustainable",
+        "eco",
+        "recycled"
+      ]
+    },
+    {
+      "id": "fabric_048",
+      "name_en": "3D Printed Fabrics / Tech Fabrics",
+      "name_zh": "3D 打印面料 / 技术面料",
+      "description_en": "Advanced materials used in concept and couture, including 3D printed elements.",
+      "description_zh": "概念与高定中使用的先进材料，包含3D打印元素与高科技织物。",
+      "ai_tags": [
+        "experimental",
+        "concept",
+        "couture"
+      ]
+    }
+  ]
+}

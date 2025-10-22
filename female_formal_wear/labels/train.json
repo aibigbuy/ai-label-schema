@@ -1,0 +1,294 @@
+{
+  "description_en": "train styles and volumes for bridal and formal wear.",
+  "description_zh": "婚纱与正式礼服拖尾风格与体积。",
+  "category_name_en": "Train",
+  "category_name_zh": "拖尾",
+  "attributes": [
+    {
+      "id": "train_001",
+      "name_en": "No Train",
+      "name_zh": "无拖尾",
+      "description_en": "Gown without a train, creating a clean, modern look.",
+      "description_zh": "无拖尾的礼服，营造简洁现代外观。",
+      "ai_tags": [
+        "modern",
+        "minimalist",
+        "practical",
+        "versatile"
+      ]
+    },
+    {
+      "id": "train_002",
+      "name_en": "Sweep Train",
+      "name_zh": "扫尾拖尾",
+      "description_en": "Short train that just touches the ground, creating a subtle, elegant effect.",
+      "description_zh": "仅触及地面的短拖尾，营造微妙优雅效果。",
+      "ai_tags": [
+        "elegant",
+        "subtle",
+        "versatile",
+        "practical"
+      ]
+    },
+    {
+      "id": "train_003",
+      "name_en": "Chapel Train",
+      "name_zh": "教堂拖尾",
+      "description_en": "Medium-length train that extends 1-2 feet behind the gown.",
+      "description_zh": "中等长度拖尾，延伸至礼服后方1-2英尺。",
+      "ai_tags": [
+        "elegant",
+        "formal",
+        "traditional",
+        "sophisticated"
+      ]
+    },
+    {
+      "id": "train_004",
+      "name_en": "Cathedral Train",
+      "name_zh": "大教堂拖尾",
+      "description_en": "Long train that extends 3-4 feet behind the gown, creating a dramatic, formal look.",
+      "description_zh": "长拖尾，延伸至礼服后方3-4英尺，营造戏剧性正式外观。",
+      "ai_tags": [
+        "dramatic",
+        "formal",
+        "elegant",
+        "luxurious"
+      ]
+    },
+    {
+      "id": "train_005",
+      "name_en": "Royal Train",
+      "name_zh": "皇家拖尾",
+      "description_en": "Very long train that extends 5+ feet behind the gown, creating a regal, luxurious look.",
+      "description_zh": "超长拖尾，延伸至礼服后方5+英尺，营造皇家奢华外观。",
+      "ai_tags": [
+        "royal",
+        "luxurious",
+        "dramatic",
+        "opulent"
+      ]
+    },
+    {
+      "id": "train_006",
+      "name_en": "Bustle Train",
+      "name_zh": "蓬蓬拖尾",
+      "description_en": "Train that can be bustled up for dancing or movement, creating a versatile, practical option.",
+      "description_zh": "可蓬起用于跳舞或活动的拖尾，营造多功能实用选择。",
+      "ai_tags": [
+        "versatile",
+        "practical",
+        "functional",
+        "elegant"
+      ]
+    },
+    {
+      "id": "train_018",
+      "name_en": "Minimalist Train",
+      "name_zh": "极简拖尾",
+      "description_en": "Clean, simple train with minimal details, focusing on form and fabric.",
+      "description_zh": "简洁干净的拖尾，细节最少，专注于形状与面料。",
+      "ai_tags": [
+        "minimalist",
+        "clean",
+        "modern",
+        "sophisticated"
+      ]
+    },
+    {
+      "id": "train_007",
+      "name_en": "Asymmetric Train",
+      "name_zh": "不对称拖尾",
+      "description_en": "Train that is uneven or off-center, creating visual interest and modern appeal.",
+      "description_zh": "不均匀或偏心的拖尾，营造视觉趣味与现代感。",
+      "ai_tags": [
+        "modern",
+        "artistic",
+        "unique",
+        "fashion_forward"
+      ]
+    },
+    {
+      "id": "train_008",
+      "name_en": "Tiered Train",
+      "name_zh": "分层拖尾",
+      "description_en": "Train with multiple layers or tiers, creating a cascading, voluminous effect.",
+      "description_zh": "带有多层或分层的拖尾，营造层叠丰满效果。",
+      "ai_tags": [
+        "layered",
+        "voluminous",
+        "romantic",
+        "dramatic"
+      ]
+    },
+    {
+      "id": "train_009",
+      "name_en": "Ruching Train",
+      "name_zh": "褶皱拖尾",
+      "description_en": "Train with gathered or pleated fabric, creating texture and volume.",
+      "description_zh": "带有收褶或打褶面料的拖尾，营造质感与体积。",
+      "ai_tags": [
+        "textured",
+        "romantic",
+        "elegant",
+        "flattering"
+      ]
+    },
+    {
+      "id": "train_010",
+      "name_en": "Lace Train",
+      "name_zh": "蕾丝拖尾",
+      "description_en": "Train covered with lace fabric, creating a romantic, feminine look.",
+      "description_zh": "覆盖蕾丝面料的拖尾，营造浪漫女性化外观。",
+      "ai_tags": [
+        "romantic",
+        "feminine",
+        "elegant",
+        "delicate"
+      ]
+    },
+    {
+      "id": "train_011",
+      "name_en": "Beaded Train",
+      "name_zh": "珠饰拖尾",
+      "description_en": "Train with decorative beading or embellishments, creating a glamorous, luxurious look.",
+      "description_zh": "带有装饰性珠饰或装饰的拖尾，营造华丽奢华外观。",
+      "ai_tags": [
+        "glamorous",
+        "luxurious",
+        "decorative",
+        "elegant"
+      ]
+    },
+    {
+      "id": "train_012",
+      "name_en": "Embroidered Train",
+      "name_zh": "刺绣拖尾",
+      "description_en": "Train with decorative embroidery, creating an ornate, elegant look.",
+      "description_zh": "带有装饰性刺绣的拖尾，营造华丽优雅外观。",
+      "ai_tags": [
+        "ornate",
+        "elegant",
+        "decorative",
+        "sophisticated"
+      ]
+    },
+    {
+      "id": "train_013",
+      "name_en": "Cutout Train",
+      "name_zh": "镂空拖尾",
+      "description_en": "Train with decorative cutouts or openings, creating visual interest.",
+      "description_zh": "带有装饰性镂空或开口的拖尾，营造视觉趣味。",
+      "ai_tags": [
+        "modern",
+        "artistic",
+        "unique",
+        "eye_catching"
+      ]
+    },
+    {
+      "id": "train_014",
+      "name_en": "Illusion Train",
+      "name_zh": "透视拖尾",
+      "description_en": "Train with sheer fabric or mesh overlay, creating a see-through effect.",
+      "description_zh": "带有透明面料或网纱覆盖的拖尾，营造透视效果。",
+      "ai_tags": [
+        "sexy",
+        "modern",
+        "artistic",
+        "unique"
+      ]
+    },
+    {
+      "id": "train_015",
+      "name_en": "Cowl Train",
+      "name_zh": "垂坠拖尾",
+      "description_en": "Train with soft, draped fabric that creates flowing, elegant folds.",
+      "description_zh": "带有柔软垂坠面料的拖尾，营造流动优雅的褶皱。",
+      "ai_tags": [
+        "elegant",
+        "flowing",
+        "sophisticated",
+        "draped"
+      ]
+    },
+    {
+      "id": "train_016",
+      "name_en": "Wrap Train",
+      "name_zh": "裹身拖尾",
+      "description_en": "Train that wraps around the body, often with overlapping panels.",
+      "description_zh": "包裹身体的拖尾，常带有重叠面板。",
+      "ai_tags": [
+        "versatile",
+        "flattering",
+        "modern",
+        "elegant"
+      ]
+    },
+    {
+      "id": "train_017",
+      "name_en": "Peplum Train",
+      "name_zh": "荷叶边拖尾",
+      "description_en": "Train with a short overskirt or ruffle that creates a flared effect.",
+      "description_zh": "带有短罩裙或荷叶边的拖尾，营造展开效果。",
+      "ai_tags": [
+        "feminine",
+        "flirty",
+        "vintage",
+        "elegant"
+      ]
+    },
+    {
+      "id": "train_019",
+      "name_en": "Architectural Train",
+      "name_zh": "建筑型拖尾",
+      "description_en": "Structured, geometric train with sharp lines and defined shapes.",
+      "description_zh": "结构化几何拖尾，线条锐利形状明确。",
+      "ai_tags": [
+        "structured",
+        "geometric",
+        "modern",
+        "artistic"
+      ]
+    },
+    {
+      "id": "train_020",
+      "name_en": "Deconstructed Train",
+      "name_zh": "解构型拖尾",
+      "description_en": "Non-traditional train with exposed seams, raw edges, or unconventional construction.",
+      "description_zh": "非传统拖尾，带有外露缝线、毛边或非常规结构。",
+      "ai_tags": [
+        "avant_garde",
+        "artistic",
+        "modern",
+        "unique"
+      ]
+    },
+    {
+      "id": "train_021",
+      "name_en": "Couture Train",
+      "name_zh": "高定拖尾",
+      "description_en": "One-of-a-kind train created through advanced draping and construction techniques.",
+      "description_zh": "通过高级垂坠和结构技术创造的独一无二拖尾。",
+      "ai_tags": [
+        "couture",
+        "unique",
+        "luxury",
+        "artistic"
+      ]
+    },
+    {
+      "id": "train_022",
+      "name_en": "Transformable Train",
+      "name_zh": "可变拖尾",
+      "description_en": "Train that can be altered or adjusted, such as detachable panels or convertible elements.",
+      "description_zh": "可改变或调整的拖尾，如可拆卸面板或可变元素。",
+      "ai_tags": [
+        "versatile",
+        "innovative",
+        "practical",
+        "modern"
+      ]
+    }
+  ]
+}

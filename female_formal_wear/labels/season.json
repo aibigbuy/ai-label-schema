@@ -1,0 +1,320 @@
+{
+  "description_en": "seasonal recommendations and fabric weight options for bridal and formal wear.",
+  "description_zh": "婚纱与正式礼服季节推荐与面料厚度选项。",
+  "category_name_en": "Season / Fabric Weight",
+  "category_name_zh": "季节 / 面料厚度",
+  "attributes": [
+    {
+      "id": "season_001",
+      "name_en": "Spring",
+      "name_zh": "春季",
+      "description_en": "Light, airy fabrics perfect for spring weather and blooming season.",
+      "description_zh": "轻盈透气的面料，完美适合春季天气和开花季节。",
+      "ai_tags": [
+        "light",
+        "airy",
+        "fresh",
+        "romantic"
+      ]
+    },
+    {
+      "id": "season_002",
+      "name_en": "Summer",
+      "name_zh": "夏季",
+      "description_en": "Lightweight, breathable fabrics perfect for hot summer weather.",
+      "description_zh": "轻盈透气的面料，完美适合炎热夏季天气。",
+      "ai_tags": [
+        "lightweight",
+        "breathable",
+        "cool",
+        "comfortable"
+      ]
+    },
+    {
+      "id": "season_003",
+      "name_en": "Fall",
+      "name_zh": "秋季",
+      "description_en": "Medium-weight fabrics perfect for cooler fall weather.",
+      "description_zh": "中等厚度面料，完美适合凉爽秋季天气。",
+      "ai_tags": [
+        "medium_weight",
+        "warm",
+        "elegant",
+        "sophisticated"
+      ]
+    },
+    {
+      "id": "season_004",
+      "name_en": "Winter",
+      "name_zh": "冬季",
+      "description_en": "Heavy, warm fabrics perfect for cold winter weather.",
+      "description_zh": "厚重保暖面料，完美适合寒冷冬季天气。",
+      "ai_tags": [
+        "heavy",
+        "warm",
+        "cozy",
+        "luxurious"
+      ]
+    },
+    {
+      "id": "season_005",
+      "name_en": "All Season",
+      "name_zh": "四季",
+      "description_en": "Versatile fabrics suitable for any season and weather condition.",
+      "description_zh": "多功能面料，适合任何季节和天气条件。",
+      "ai_tags": [
+        "versatile",
+        "practical",
+        "elegant",
+        "classic"
+      ]
+    },
+    {
+      "id": "season_006",
+      "name_en": "Lightweight",
+      "name_zh": "轻薄",
+      "description_en": "Very light fabrics perfect for warm weather and outdoor events.",
+      "description_zh": "极轻面料，完美适合温暖天气和户外活动。",
+      "ai_tags": [
+        "lightweight",
+        "breathable",
+        "comfortable",
+        "versatile"
+      ]
+    },
+    {
+      "id": "season_007",
+      "name_en": "Medium Weight",
+      "name_zh": "中等厚度",
+      "description_en": "Medium-weight fabrics perfect for moderate weather conditions.",
+      "description_zh": "中等厚度面料，完美适合温和天气条件。",
+      "ai_tags": [
+        "medium_weight",
+        "versatile",
+        "elegant",
+        "practical"
+      ]
+    },
+    {
+      "id": "season_008",
+      "name_en": "Heavy Weight",
+      "name_zh": "厚重",
+      "description_en": "Heavy fabrics perfect for cold weather and formal occasions.",
+      "description_zh": "厚重面料，完美适合寒冷天气和正式场合。",
+      "ai_tags": [
+        "heavy",
+        "warm",
+        "formal",
+        "luxurious"
+      ]
+    },
+    {
+      "id": "season_009",
+      "name_en": "Breathable",
+      "name_zh": "透气",
+      "description_en": "Fabrics that allow air circulation, perfect for warm weather.",
+      "description_zh": "允许空气流通的面料，完美适合温暖天气。",
+      "ai_tags": [
+        "breathable",
+        "comfortable",
+        "cool",
+        "practical"
+      ]
+    },
+    {
+      "id": "season_010",
+      "name_en": "Insulated",
+      "name_zh": "保暖",
+      "description_en": "Fabrics with insulation properties, perfect for cold weather.",
+      "description_zh": "具有保暖性能的面料，完美适合寒冷天气。",
+      "ai_tags": [
+        "insulated",
+        "warm",
+        "cozy",
+        "practical"
+      ]
+    },
+    {
+      "id": "season_011",
+      "name_en": "Asymmetric Season",
+      "name_zh": "不对称季节",
+      "description_en": "Seasonal recommendations with uneven or off-center design elements.",
+      "description_zh": "带有不均匀或偏心设计元素的季节推荐。",
+      "ai_tags": [
+        "modern",
+        "artistic",
+        "unique",
+        "fashion_forward"
+      ]
+    },
+    {
+      "id": "season_012",
+      "name_en": "Illusion Season",
+      "name_zh": "透视季节",
+      "description_en": "Seasonal recommendations with sheer fabric or mesh overlay.",
+      "description_zh": "带有透明面料或网纱覆盖的季节推荐。",
+      "ai_tags": [
+        "sexy",
+        "modern",
+        "artistic",
+        "unique"
+      ]
+    },
+    {
+      "id": "season_013",
+      "name_en": "Cutout Season",
+      "name_zh": "镂空季节",
+      "description_en": "Seasonal recommendations with decorative cutouts or openings.",
+      "description_zh": "带有装饰性镂空或开口的季节推荐。",
+      "ai_tags": [
+        "modern",
+        "artistic",
+        "unique",
+        "eye_catching"
+      ]
+    },
+    {
+      "id": "season_014",
+      "name_en": "Cowl Season",
+      "name_zh": "垂坠季节",
+      "description_en": "Seasonal recommendations with soft, draped fabric.",
+      "description_zh": "带有柔软垂坠面料的季节推荐。",
+      "ai_tags": [
+        "elegant",
+        "flowing",
+        "sophisticated",
+        "draped"
+      ]
+    },
+    {
+      "id": "season_015",
+      "name_en": "Tiered Season",
+      "name_zh": "分层季节",
+      "description_en": "Seasonal recommendations with multiple layers or tiers.",
+      "description_zh": "带有多层或分层的季节推荐。",
+      "ai_tags": [
+        "layered",
+        "voluminous",
+        "romantic",
+        "dramatic"
+      ]
+    },
+    {
+      "id": "season_016",
+      "name_en": "Ruching Season",
+      "name_zh": "褶皱季节",
+      "description_en": "Seasonal recommendations with gathered or pleated fabric.",
+      "description_zh": "带有收褶或打褶面料的季节推荐。",
+      "ai_tags": [
+        "textured",
+        "romantic",
+        "elegant",
+        "flattering"
+      ]
+    },
+    {
+      "id": "season_017",
+      "name_en": "Belted Season",
+      "name_zh": "腰带季节",
+      "description_en": "Seasonal recommendations with belt or sash elements.",
+      "description_zh": "带有腰带或饰带元素的季节推荐。",
+      "ai_tags": [
+        "elegant",
+        "structured",
+        "versatile",
+        "flattering"
+      ]
+    },
+    {
+      "id": "season_018",
+      "name_en": "Wrap Season",
+      "name_zh": "裹身季节",
+      "description_en": "Seasonal recommendations that wrap around the body.",
+      "description_zh": "包裹身体的季节推荐。",
+      "ai_tags": [
+        "versatile",
+        "flattering",
+        "modern",
+        "elegant"
+      ]
+    },
+    {
+      "id": "season_019",
+      "name_en": "Peplum Season",
+      "name_zh": "荷叶边季节",
+      "description_en": "Seasonal recommendations with short overskirt or ruffle elements.",
+      "description_zh": "带有短罩裙或荷叶边元素的季节推荐。",
+      "ai_tags": [
+        "feminine",
+        "flirty",
+        "vintage",
+        "elegant"
+      ]
+    },
+    {
+      "id": "season_020",
+      "name_en": "Minimalist Season",
+      "name_zh": "极简季节",
+      "description_en": "Clean, simple seasonal recommendations with minimal details.",
+      "description_zh": "简洁干净的季节推荐，细节最少。",
+      "ai_tags": [
+        "minimalist",
+        "clean",
+        "modern",
+        "sophisticated"
+      ]
+    },
+    {
+      "id": "season_021",
+      "name_en": "Architectural Season",
+      "name_zh": "建筑型季节",
+      "description_en": "Structured, geometric seasonal recommendations with sharp lines.",
+      "description_zh": "结构化几何季节推荐，线条锐利。",
+      "ai_tags": [
+        "structured",
+        "geometric",
+        "modern",
+        "artistic"
+      ]
+    },
+    {
+      "id": "season_022",
+      "name_en": "Deconstructed Season",
+      "name_zh": "解构型季节",
+      "description_en": "Non-traditional seasonal recommendations with unconventional construction.",
+      "description_zh": "非传统季节推荐，带有非常规结构。",
+      "ai_tags": [
+        "avant_garde",
+        "artistic",
+        "modern",
+        "unique"
+      ]
+    },
+    {
+      "id": "season_023",
+      "name_en": "Couture Season",
+      "name_zh": "高定季节",
+      "description_en": "One-of-a-kind seasonal recommendations created through advanced techniques.",
+      "description_zh": "通过高级技术创造的独一无二季节推荐。",
+      "ai_tags": [
+        "couture",
+        "unique",
+        "luxury",
+        "artistic"
+      ]
+    },
+    {
+      "id": "season_024",
+      "name_en": "Transformable Season",
+      "name_zh": "可变季节",
+      "description_en": "Seasonal recommendations that can be altered or adjusted.",
+      "description_zh": "可改变或调整的季节推荐。",
+      "ai_tags": [
+        "versatile",
+        "innovative",
+        "practical",
+        "modern"
+      ]
+    }
+  ]
+}

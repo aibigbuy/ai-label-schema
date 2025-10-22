@@ -1,0 +1,320 @@
+{
+  "description_en": "sustainability and eco-friendly options for bridal and formal wear.",
+  "description_zh": "婚纱与正式礼服可持续性与环保选项。",
+  "category_name_en": "Sustainability / Material Origin",
+  "category_name_zh": "可持续性 / 来源",
+  "attributes": [
+    {
+      "id": "sustainability_001",
+      "name_en": "Organic Cotton",
+      "name_zh": "有机棉",
+      "description_en": "Cotton grown without synthetic pesticides or fertilizers, creating a sustainable option.",
+      "description_zh": "不使用合成杀虫剂或肥料种植的棉花，营造可持续选择。",
+      "ai_tags": [
+        "organic",
+        "sustainable",
+        "natural",
+        "eco_friendly"
+      ]
+    },
+    {
+      "id": "sustainability_002",
+      "name_en": "Recycled Polyester",
+      "name_zh": "再生聚酯",
+      "description_en": "Polyester made from recycled plastic bottles, creating a sustainable option.",
+      "description_zh": "由再生塑料瓶制成的聚酯，营造可持续选择。",
+      "ai_tags": [
+        "recycled",
+        "sustainable",
+        "eco_friendly",
+        "versatile"
+      ]
+    },
+    {
+      "id": "sustainability_003",
+      "name_en": "Tencel / Lyocell",
+      "name_zh": "天丝 / 莱赛尔",
+      "description_en": "Eco-friendly regenerated fiber made from wood pulp, creating a sustainable option.",
+      "description_zh": "由木浆制成的环保再生纤维，营造可持续选择。",
+      "ai_tags": [
+        "eco_friendly",
+        "sustainable",
+        "soft",
+        "versatile"
+      ]
+    },
+    {
+      "id": "sustainability_004",
+      "name_en": "Hemp",
+      "name_zh": "大麻",
+      "description_en": "Natural fiber from hemp plants, creating a sustainable and durable option.",
+      "description_zh": "来自大麻植物的天然纤维，营造可持续耐用选择。",
+      "ai_tags": [
+        "natural",
+        "sustainable",
+        "durable",
+        "eco_friendly"
+      ]
+    },
+    {
+      "id": "sustainability_005",
+      "name_en": "Linen",
+      "name_zh": "亚麻",
+      "description_en": "Natural fiber from flax plants, creating a sustainable and breathable option.",
+      "description_zh": "来自亚麻植物的天然纤维，营造可持续透气选择。",
+      "ai_tags": [
+        "natural",
+        "sustainable",
+        "breathable",
+        "eco_friendly"
+      ]
+    },
+    {
+      "id": "sustainability_006",
+      "name_en": "Bamboo",
+      "name_zh": "竹子",
+      "description_en": "Natural fiber from bamboo plants, creating a sustainable and soft option.",
+      "description_zh": "来自竹子植物的天然纤维，营造可持续柔软选择。",
+      "ai_tags": [
+        "natural",
+        "sustainable",
+        "soft",
+        "eco_friendly"
+      ]
+    },
+    {
+      "id": "sustainability_007",
+      "name_en": "Wool",
+      "name_zh": "羊毛",
+      "description_en": "Natural fiber from sheep, creating a sustainable and warm option.",
+      "description_zh": "来自绵羊的天然纤维，营造可持续保暖选择。",
+      "ai_tags": [
+        "natural",
+        "sustainable",
+        "warm",
+        "eco_friendly"
+      ]
+    },
+    {
+      "id": "sustainability_008",
+      "name_en": "Silk",
+      "name_zh": "真丝",
+      "description_en": "Natural fiber from silkworms, creating a sustainable and luxurious option.",
+      "description_zh": "来自蚕的天然纤维，营造可持续奢华选择。",
+      "ai_tags": [
+        "natural",
+        "sustainable",
+        "luxurious",
+        "eco_friendly"
+      ]
+    },
+    {
+      "id": "sustainability_009",
+      "name_en": "Cork",
+      "name_zh": "软木",
+      "description_en": "Natural material from cork oak trees, creating a sustainable and unique option.",
+      "description_zh": "来自软木橡树的天然材料，营造可持续独特选择。",
+      "ai_tags": [
+        "natural",
+        "sustainable",
+        "unique",
+        "eco_friendly"
+      ]
+    },
+    {
+      "id": "sustainability_010",
+      "name_en": "Coconut",
+      "name_zh": "椰子",
+      "description_en": "Natural fiber from coconut husks, creating a sustainable and durable option.",
+      "description_zh": "来自椰子壳的天然纤维，营造可持续耐用选择。",
+      "ai_tags": [
+        "natural",
+        "sustainable",
+        "durable",
+        "eco_friendly"
+      ]
+    },
+    {
+      "id": "sustainability_011",
+      "name_en": "Asymmetric Sustainability",
+      "name_zh": "不对称可持续性",
+      "description_en": "Sustainability options with uneven or off-center design elements.",
+      "description_zh": "带有不均匀或偏心设计元素的可持续性选项。",
+      "ai_tags": [
+        "modern",
+        "artistic",
+        "unique",
+        "fashion_forward"
+      ]
+    },
+    {
+      "id": "sustainability_012",
+      "name_en": "Illusion Sustainability",
+      "name_zh": "透视可持续性",
+      "description_en": "Sustainability options with sheer fabric or mesh overlay.",
+      "description_zh": "带有透明面料或网纱覆盖的可持续性选项。",
+      "ai_tags": [
+        "sexy",
+        "modern",
+        "artistic",
+        "unique"
+      ]
+    },
+    {
+      "id": "sustainability_013",
+      "name_en": "Cutout Sustainability",
+      "name_zh": "镂空可持续性",
+      "description_en": "Sustainability options with decorative cutouts or openings.",
+      "description_zh": "带有装饰性镂空或开口的可持续性选项。",
+      "ai_tags": [
+        "modern",
+        "artistic",
+        "unique",
+        "eye_catching"
+      ]
+    },
+    {
+      "id": "sustainability_014",
+      "name_en": "Cowl Sustainability",
+      "name_zh": "垂坠可持续性",
+      "description_en": "Sustainability options with soft, draped fabric.",
+      "description_zh": "带有柔软垂坠面料的可持续性选项。",
+      "ai_tags": [
+        "elegant",
+        "flowing",
+        "sophisticated",
+        "draped"
+      ]
+    },
+    {
+      "id": "sustainability_015",
+      "name_en": "Tiered Sustainability",
+      "name_zh": "分层可持续性",
+      "description_en": "Sustainability options with multiple layers or tiers.",
+      "description_zh": "带有多层或分层的可持续性选项。",
+      "ai_tags": [
+        "layered",
+        "voluminous",
+        "romantic",
+        "dramatic"
+      ]
+    },
+    {
+      "id": "sustainability_016",
+      "name_en": "Ruching Sustainability",
+      "name_zh": "褶皱可持续性",
+      "description_en": "Sustainability options with gathered or pleated fabric.",
+      "description_zh": "带有收褶或打褶面料的可持续性选项。",
+      "ai_tags": [
+        "textured",
+        "romantic",
+        "elegant",
+        "flattering"
+      ]
+    },
+    {
+      "id": "sustainability_017",
+      "name_en": "Belted Sustainability",
+      "name_zh": "腰带可持续性",
+      "description_en": "Sustainability options with belt or sash elements.",
+      "description_zh": "带有腰带或饰带元素的可持续性选项。",
+      "ai_tags": [
+        "elegant",
+        "structured",
+        "versatile",
+        "flattering"
+      ]
+    },
+    {
+      "id": "sustainability_018",
+      "name_en": "Wrap Sustainability",
+      "name_zh": "裹身可持续性",
+      "description_en": "Sustainability options that wrap around the body.",
+      "description_zh": "包裹身体的可持续性选项。",
+      "ai_tags": [
+        "versatile",
+        "flattering",
+        "modern",
+        "elegant"
+      ]
+    },
+    {
+      "id": "sustainability_019",
+      "name_en": "Peplum Sustainability",
+      "name_zh": "荷叶边可持续性",
+      "description_en": "Sustainability options with short overskirt or ruffle elements.",
+      "description_zh": "带有短罩裙或荷叶边元素的可持续性选项。",
+      "ai_tags": [
+        "feminine",
+        "flirty",
+        "vintage",
+        "elegant"
+      ]
+    },
+    {
+      "id": "sustainability_020",
+      "name_en": "Minimalist Sustainability",
+      "name_zh": "极简可持续性",
+      "description_en": "Clean, simple sustainability options with minimal details.",
+      "description_zh": "简洁干净的可持续性选项，细节最少。",
+      "ai_tags": [
+        "minimalist",
+        "clean",
+        "modern",
+        "sophisticated"
+      ]
+    },
+    {
+      "id": "sustainability_021",
+      "name_en": "Architectural Sustainability",
+      "name_zh": "建筑型可持续性",
+      "description_en": "Structured, geometric sustainability options with sharp lines.",
+      "description_zh": "结构化几何可持续性选项，线条锐利。",
+      "ai_tags": [
+        "structured",
+        "geometric",
+        "modern",
+        "artistic"
+      ]
+    },
+    {
+      "id": "sustainability_022",
+      "name_en": "Deconstructed Sustainability",
+      "name_zh": "解构型可持续性",
+      "description_en": "Non-traditional sustainability options with unconventional construction.",
+      "description_zh": "非传统可持续性选项，带有非常规结构。",
+      "ai_tags": [
+        "avant_garde",
+        "artistic",
+        "modern",
+        "unique"
+      ]
+    },
+    {
+      "id": "sustainability_023",
+      "name_en": "Couture Sustainability",
+      "name_zh": "高定可持续性",
+      "description_en": "One-of-a-kind sustainability options created through advanced techniques.",
+      "description_zh": "通过高级技术创造的独一无二可持续性选项。",
+      "ai_tags": [
+        "couture",
+        "unique",
+        "luxury",
+        "artistic"
+      ]
+    },
+    {
+      "id": "sustainability_024",
+      "name_en": "Transformable Sustainability",
+      "name_zh": "可变可持续性",
+      "description_en": "Sustainability options that can be altered or adjusted.",
+      "description_zh": "可改变或调整的可持续性选项。",
+      "ai_tags": [
+        "versatile",
+        "innovative",
+        "practical",
+        "modern"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,238 @@
+{
+  "metadata": {
+    "title_en": "Global Female Formal Wear & Bridal Dress AI Attribute Taxonomy v1.0",
+    "title_zh": "全球女性礼服与婚纱AI属性标准体系 v1.0",
+    "description_en": "The world's most comprehensive AI-ready attribute taxonomy for female formal wear and bridal dresses, powering next-generation AI applications in fashion, e-commerce, and design.",
+    "description_zh": "全球最全面的女性礼服与婚纱AI就绪属性分类体系，为时尚、电商和设计领域的下一代AI应用提供动力。",
+    "schema_version": "1.0",
+    "version": "1.0",
+    "last_updated": "2025-01-27",
+    "total_categories": 25,
+    "total_attributes": 450,
+    "ai_powered_by": "AIBigBuy.com - Leading AI Solutions for Fashion & E-commerce",
+    "ai_capabilities": {
+      "image_annotation": "Advanced AI image recognition and labeling for wedding dresses and formal wear",
+      "product_generation": "AI-powered design generation and style recommendation systems",
+      "cost_calculation": "Intelligent pricing and cost estimation based on material and design complexity",
+      "style_classification": "Deep learning-based style analysis and trend prediction",
+      "recommendation_systems": "Personalized styling and product recommendation engines",
+      "virtual_try_on": "AI-powered virtual fitting and styling simulation",
+      "trend_analysis": "Real-time fashion trend analysis and market insights"
+    },
+    "coverage_analysis": {
+      "cultural_coverage": [
+        "Western", "Chinese", "Indian", "Japanese", "Korean", "Middle Eastern",
+        "African", "Latin American", "European", "Southeast Asian", "Eastern European"
+      ],
+      "ai_applications": [
+        "image_annotation", "product_generation", "cost_calculation", "style_classification",
+        "recommendation_systems", "virtual_try_on", "trend_analysis", "quality_assessment"
+      ],
+      "market_coverage": {
+        "global_reach": "Worldwide coverage of bridal and formal wear markets",
+        "price_tiers": "From budget-friendly to luxury couture",
+        "seasons": "All-season and climate-specific designs",
+        "occasions": "Weddings, galas, proms, ceremonies, and special events"
+      }
+    },
+    "technical_specifications": {
+      "ai_ready": true,
+      "machine_learning_optimized": true,
+      "api_compatible": true,
+      "real_time_processing": true,
+      "scalable_architecture": true,
+      "multi_language_support": ["English", "Chinese"],
+    },
+    "copyright": {
+      "license": "MIT",
+      "author": "AIBigBuy Team",
+      "website": "https://aibigbuy.com",
+      "ai_platform": "https://aibigbuy.com/ai-solutions",
+      "attribution": "Powered by AIBigBuy's advanced AI technology and comprehensive fashion industry expertise",
+      "data_sources": [
+        "International fashion industry standards and design guidelines",
+        "Cultural wedding dress traditions and ceremonial attire worldwide",
+        "AI training datasets and machine learning model requirements",
+        "Professional fashion designers and industry experts consultation",
+        "Global fashion trend analysis and market research data",
+        "AIBigBuy proprietary fashion AI research and development"
+      ],
+      "ai_technology": {
+        "computer_vision": "Advanced image recognition and analysis",
+        "natural_language_processing": "Multi-language text understanding and generation",
+        "machine_learning": "Predictive modeling and pattern recognition",
+        "deep_learning": "Neural network-based feature extraction and classification"
+      }
+    }
+  },
+  "categories": [
+    {
+      "id": "fabric_material",
+      "name_en": "Fabric Material",
+      "name_zh": "面料材质",
+      "importance": "core",
+      "description_en": "Primary and secondary fabrics used in wedding and formal gowns",
+      "description_zh": "婚纱与礼服所用主要和次要面料"
+    },
+    {
+      "id": "silhouette",
+      "name_en": "Silhouette / Cut",
+      "name_zh": "版型 / 剪裁",
+      "importance": "core",
+      "description_en": "Gown shape and cut",
+      "description_zh": "礼服整体轮廓与剪裁"
+    },
+    {
+      "id": "neckline",
+      "name_en": "Neckline",
+      "name_zh": "领型",
+      "importance": "core",
+      "description_en": "Neckline shape and style",
+      "description_zh": "领口形状与设计"
+    },
+    {
+      "id": "waistline",
+      "name_en": "Waistline",
+      "name_zh": "腰线",
+      "importance": "optional",
+      "description_en": "Position and style of waistline",
+      "description_zh": "腰线位置及设计"
+    },
+    {
+      "id": "bodice",
+      "name_en": "Bodice / Upper Body",
+      "name_zh": "上身结构",
+      "importance": "core",
+      "description_en": "Neckline, shoulder, and bodice support",
+      "description_zh": "上身剪裁，肩部设计与支撑结构"
+    },
+    {
+      "id": "sleeve",
+      "name_en": "Sleeve Type",
+      "name_zh": "袖型",
+      "importance": "core",
+      "description_en": "Sleeve length and shape",
+      "description_zh": "袖长与袖型"
+    },
+    {
+      "id": "back_design",
+      "name_en": "Back Design",
+      "name_zh": "后背设计",
+      "importance": "optional",
+      "description_en": "Gown back styling, open/closed, closure types",
+      "description_zh": "礼服后背设计，开合类型"
+    },
+    {
+      "id": "train",
+      "name_en": "Train",
+      "name_zh": "拖尾",
+      "importance": "optional",
+      "description_en": "Train style and volume",
+      "description_zh": "裙摆拖尾类型"
+    },
+    {
+      "id": "lining",
+      "name_en": "Lining / Inner Construction",
+      "name_zh": "内衬 / 内部结构",
+      "importance": "core",
+      "description_en": "Inner layers, support, shaping construction",
+      "description_zh": "内衬、支撑结构及塑形层"
+    },
+    {
+      "id": "closure",
+      "name_en": "Closure / Fastening",
+      "name_zh": "开合方式",
+      "importance": "optional",
+      "description_en": "Zipper, buttons, ties, corset etc.",
+      "description_zh": "拉链、纽扣、绑带、紧身背心等"
+    },
+    {
+      "id": "embellishment",
+      "name_en": "Embellishment / Decoration",
+      "name_zh": "装饰工艺",
+      "importance": "core",
+      "description_en": "Beading, sequins, embroidery, applique, crystals, feathers",
+      "description_zh": "珠片、亮片、刺绣、贴花、水晶、羽毛等装饰"
+    },
+    {
+      "id": "pattern",
+      "name_en": "Pattern / Print",
+      "name_zh": "图案 / 印花",
+      "importance": "optional",
+      "description_en": "Surface patterns, embroidery, prints, lace motifs",
+      "description_zh": "面料表面图案，包括刺绣、印花、蕾丝花纹"
+    },
+    {
+      "id": "straps",
+      "name_en": "Straps / Shoulder Design",
+      "name_zh": "肩带 / 背带类型",
+      "importance": "optional",
+      "description_en": "Strap types, removable support, or built-in padding options",
+      "description_zh": "肩带类型，可拆卸支撑或内置胸垫选项"
+    },
+    {
+      "id": "color",
+      "name_en": "Color",
+      "name_zh": "颜色",
+      "importance": "core",
+      "description_en": "Main and accent colors for gowns, culturally relevant",
+      "description_zh": "礼服主色与辅色，考虑文化差异"
+    },
+    {
+      "id": "size",
+      "name_en": "Size / Fit",
+      "name_zh": "尺码与合身度",
+      "importance": "core",
+      "description_en": "Size standards and fit type",
+      "description_zh": "尺码标准与合身类型"
+    },
+    {
+      "id": "season",
+      "name_en": "Season / Fabric Weight",
+      "name_zh": "季节 / 面料厚度",
+      "importance": "optional",
+      "description_en": "Recommended season and fabric thickness",
+      "description_zh": "季节推荐及面料厚度"
+    },
+    {
+      "id": "sustainability",
+      "name_en": "Sustainability / Material Origin",
+      "name_zh": "可持续性 / 来源",
+      "importance": "optional",
+      "description_en": "Eco-friendly or certified fabrics",
+      "description_zh": "环保或认证面料"
+    },
+    {
+      "id": "occasion",
+      "name_en": "Occasion / Use",
+      "name_zh": "场合",
+      "importance": "optional",
+      "description_en": "Target event or purpose",
+      "description_zh": "适用场合"
+    },
+    {
+      "id": "culture",
+      "name_en": "Cultural / Regional Style",
+      "name_zh": "文化风格",
+      "importance": "optional",
+      "description_en": "Cultural styling elements",
+      "description_zh": "文化风格元素"
+    },
+    {
+      "id": "price_tier",
+      "name_en": "Price Tier / Luxury Level",
+      "name_zh": "价格档 / 奢华程度",
+      "importance": "optional",
+      "description_en": "High-end, mid-range or affordable",
+      "description_zh": "高端、中端或平价"
+    },
+    {
+      "id": "accessories",
+      "name_en": "Accessories",
+      "name_zh": "配件",
+      "importance": "optional",
+      "description_en": "Veil, belt, shawl, gloves, headpieces etc.",
+      "description_zh": "面纱、腰带、披肩、手套、头饰等"
+    }
+  ]
+}

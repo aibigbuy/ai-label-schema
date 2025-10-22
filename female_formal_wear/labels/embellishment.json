@@ -1,0 +1,320 @@
+{
+  "description_en": "embellishment and decoration options for bridal and formal wear.",
+  "description_zh": "婚纱与正式礼服装饰工艺与装饰选项。",
+  "category_name_en": "Embellishment / Decoration",
+  "category_name_zh": "装饰工艺",
+  "attributes": [
+    {
+      "id": "embellishment_001",
+      "name_en": "Beading",
+      "name_zh": "珠饰",
+      "description_en": "Decorative beads sewn onto fabric, creating sparkle and texture.",
+      "description_zh": "缝制在面料上的装饰性珠子，营造闪耀与质感。",
+      "ai_tags": [
+        "sparkling",
+        "decorative",
+        "elegant",
+        "glamorous"
+      ]
+    },
+    {
+      "id": "embellishment_002",
+      "name_en": "Sequins",
+      "name_zh": "亮片",
+      "description_en": "Small, flat discs sewn onto fabric for sparkle and shine.",
+      "description_zh": "缝制在面料上的小平面圆片，营造闪耀光泽。",
+      "ai_tags": [
+        "sparkling",
+        "glamorous",
+        "party",
+        "eye_catching"
+      ]
+    },
+    {
+      "id": "embellishment_003",
+      "name_en": "Embroidery",
+      "name_zh": "刺绣",
+      "description_en": "Decorative stitching on fabric, creating intricate patterns and designs.",
+      "description_zh": "面料上的装饰性缝线，营造复杂图案与设计。",
+      "ai_tags": [
+        "ornate",
+        "elegant",
+        "traditional",
+        "sophisticated"
+      ]
+    },
+    {
+      "id": "embellishment_004",
+      "name_en": "Appliqué",
+      "name_zh": "贴花",
+      "description_en": "Decorative fabric pieces sewn onto the main fabric, creating layered designs.",
+      "description_zh": "缝制在主面料上的装饰性面料片，营造分层设计。",
+      "ai_tags": [
+        "layered",
+        "decorative",
+        "artistic",
+        "unique"
+      ]
+    },
+    {
+      "id": "embellishment_005",
+      "name_en": "Crystals",
+      "name_zh": "水晶",
+      "description_en": "Decorative crystals sewn onto fabric, creating luxury and sparkle.",
+      "description_zh": "缝制在面料上的装饰性水晶，营造奢华与闪耀。",
+      "ai_tags": [
+        "luxury",
+        "sparkling",
+        "glamorous",
+        "high_end"
+      ]
+    },
+    {
+      "id": "embellishment_006",
+      "name_en": "Pearls",
+      "name_zh": "珍珠",
+      "description_en": "Decorative pearls sewn onto fabric, creating elegance and sophistication.",
+      "description_zh": "缝制在面料上的装饰性珍珠，营造优雅与精致。",
+      "ai_tags": [
+        "elegant",
+        "sophisticated",
+        "classic",
+        "luxury"
+      ]
+    },
+    {
+      "id": "embellishment_007",
+      "name_en": "Lace",
+      "name_zh": "蕾丝",
+      "description_en": "Decorative lace fabric used as overlay or trim, creating romantic, feminine designs.",
+      "description_zh": "用作覆盖层或装饰的装饰性蕾丝面料，营造浪漫女性化设计。",
+      "ai_tags": [
+        "romantic",
+        "feminine",
+        "delicate",
+        "elegant"
+      ]
+    },
+    {
+      "id": "embellishment_008",
+      "name_en": "Ribbon",
+      "name_zh": "丝带",
+      "description_en": "Decorative ribbon used as trim or accent, creating soft, elegant details.",
+      "description_zh": "用作装饰或点缀的装饰性丝带，营造柔软优雅细节。",
+      "ai_tags": [
+        "soft",
+        "elegant",
+        "feminine",
+        "versatile"
+      ]
+    },
+    {
+      "id": "embellishment_009",
+      "name_en": "Feathers",
+      "name_zh": "羽毛",
+      "description_en": "Decorative feathers used as trim or accent, creating dramatic, luxurious effects.",
+      "description_zh": "用作装饰或点缀的装饰性羽毛，营造戏剧性奢华效果。",
+      "ai_tags": [
+        "dramatic",
+        "luxurious",
+        "unique",
+        "glamorous"
+      ]
+    },
+    {
+      "id": "embellishment_010",
+      "name_en": "Rhinestones",
+      "name_zh": "水钻",
+      "description_en": "Decorative rhinestones sewn onto fabric, creating sparkle and glamour.",
+      "description_zh": "缝制在面料上的装饰性水钻，营造闪耀与华丽。",
+      "ai_tags": [
+        "sparkling",
+        "glamorous",
+        "decorative",
+        "eye_catching"
+      ]
+    },
+    {
+      "id": "embellishment_011",
+      "name_en": "Asymmetric Embellishment",
+      "name_zh": "不对称装饰",
+      "description_en": "Uneven or off-center decorative elements, creating visual interest.",
+      "description_zh": "不均匀或偏心的装饰元素，营造视觉趣味。",
+      "ai_tags": [
+        "modern",
+        "artistic",
+        "unique",
+        "fashion_forward"
+      ]
+    },
+    {
+      "id": "embellishment_012",
+      "name_en": "Illusion Embellishment",
+      "name_zh": "透视装饰",
+      "description_en": "Decorative elements with sheer fabric or mesh overlay, creating a see-through effect.",
+      "description_zh": "带有透明面料或网纱覆盖的装饰元素，营造透视效果。",
+      "ai_tags": [
+        "sexy",
+        "modern",
+        "artistic",
+        "unique"
+      ]
+    },
+    {
+      "id": "embellishment_013",
+      "name_en": "Cutout Embellishment",
+      "name_zh": "镂空装饰",
+      "description_en": "Decorative cutouts or openings in fabric, creating visual interest.",
+      "description_zh": "面料中的装饰性镂空或开口，营造视觉趣味。",
+      "ai_tags": [
+        "modern",
+        "artistic",
+        "unique",
+        "eye_catching"
+      ]
+    },
+    {
+      "id": "embellishment_014",
+      "name_en": "Cowl Embellishment",
+      "name_zh": "垂坠装饰",
+      "description_en": "Soft, draped decorative elements that create flowing, elegant folds.",
+      "description_zh": "柔软垂坠的装饰元素，营造流动优雅的褶皱。",
+      "ai_tags": [
+        "elegant",
+        "flowing",
+        "sophisticated",
+        "draped"
+      ]
+    },
+    {
+      "id": "embellishment_015",
+      "name_en": "Tiered Embellishment",
+      "name_zh": "分层装饰",
+      "description_en": "Multiple layers or tiers of decorative elements, creating a cascading effect.",
+      "description_zh": "多层或分层的装饰元素，营造层叠效果。",
+      "ai_tags": [
+        "layered",
+        "voluminous",
+        "romantic",
+        "dramatic"
+      ]
+    },
+    {
+      "id": "embellishment_016",
+      "name_en": "Ruching Embellishment",
+      "name_zh": "褶皱装饰",
+      "description_en": "Gathered or pleated decorative elements, creating texture and volume.",
+      "description_zh": "收褶或打褶的装饰元素，营造质感与体积。",
+      "ai_tags": [
+        "textured",
+        "romantic",
+        "elegant",
+        "flattering"
+      ]
+    },
+    {
+      "id": "embellishment_017",
+      "name_en": "Belted Embellishment",
+      "name_zh": "腰带装饰",
+      "description_en": "Decorative belt or sash elements, creating a structured, elegant look.",
+      "description_zh": "装饰性腰带或饰带元素，营造结构化优雅外观。",
+      "ai_tags": [
+        "elegant",
+        "structured",
+        "versatile",
+        "flattering"
+      ]
+    },
+    {
+      "id": "embellishment_018",
+      "name_en": "Wrap Embellishment",
+      "name_zh": "裹身装饰",
+      "description_en": "Decorative elements that wrap around the body, often with overlapping panels.",
+      "description_zh": "包裹身体的装饰元素，常带有重叠面板。",
+      "ai_tags": [
+        "versatile",
+        "flattering",
+        "modern",
+        "elegant"
+      ]
+    },
+    {
+      "id": "embellishment_019",
+      "name_en": "Peplum Embellishment",
+      "name_zh": "荷叶边装饰",
+      "description_en": "Decorative elements with short overskirt or ruffle that creates a flared effect.",
+      "description_zh": "带有短罩裙或荷叶边的装饰元素，营造展开效果。",
+      "ai_tags": [
+        "feminine",
+        "flirty",
+        "vintage",
+        "elegant"
+      ]
+    },
+    {
+      "id": "embellishment_020",
+      "name_en": "Minimalist Embellishment",
+      "name_zh": "极简装饰",
+      "description_en": "Clean, simple decorative elements with minimal details, focusing on form and fabric.",
+      "description_zh": "简洁干净的装饰元素，细节最少，专注于形状与面料。",
+      "ai_tags": [
+        "minimalist",
+        "clean",
+        "modern",
+        "sophisticated"
+      ]
+    },
+    {
+      "id": "embellishment_021",
+      "name_en": "Architectural Embellishment",
+      "name_zh": "建筑型装饰",
+      "description_en": "Structured, geometric decorative elements with sharp lines and defined shapes.",
+      "description_zh": "结构化几何装饰元素，线条锐利形状明确。",
+      "ai_tags": [
+        "structured",
+        "geometric",
+        "modern",
+        "artistic"
+      ]
+    },
+    {
+      "id": "embellishment_022",
+      "name_en": "Deconstructed Embellishment",
+      "name_zh": "解构型装饰",
+      "description_en": "Non-traditional decorative elements with exposed seams, raw edges, or unconventional construction.",
+      "description_zh": "非传统装饰元素，带有外露缝线、毛边或非常规结构。",
+      "ai_tags": [
+        "avant_garde",
+        "artistic",
+        "modern",
+        "unique"
+      ]
+    },
+    {
+      "id": "embellishment_023",
+      "name_en": "Couture Embellishment",
+      "name_zh": "高定装饰",
+      "description_en": "One-of-a-kind decorative elements created through advanced draping and construction techniques.",
+      "description_zh": "通过高级垂坠和结构技术创造的独一无二装饰元素。",
+      "ai_tags": [
+        "couture",
+        "unique",
+        "luxury",
+        "artistic"
+      ]
+    },
+    {
+      "id": "embellishment_024",
+      "name_en": "Transformable Embellishment",
+      "name_zh": "可变装饰",
+      "description_en": "Decorative elements that can be altered or adjusted, such as detachable panels or convertible elements.",
+      "description_zh": "可改变或调整的装饰元素，如可拆卸面板或可变元素。",
+      "ai_tags": [
+        "versatile",
+        "innovative",
+        "practical",
+        "modern"
+      ]
+    }
+  ]
+}

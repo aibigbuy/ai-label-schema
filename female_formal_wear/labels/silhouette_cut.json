@@ -1,0 +1,398 @@
+{
+  "description_en": "silhouette and cut styles for bridal and formal wear.",
+  "description_zh": "婚纱与正式礼服轮廓与剪裁风格。",
+  "category_name_en": "Silhouette / Cut",
+  "category_name_zh": "版型 / 剪裁",
+  "attributes": [
+    {
+      "id": "silhouette_001",
+      "name_en": "A-Line",
+      "name_zh": "A字型",
+      "description_en": "Classic silhouette that flares from the waist, creating an 'A' shape. Flattering for most body types.",
+      "description_zh": "从腰部向外展开的经典廓形，形成'A'字形状，适合大多数体型。",
+      "ai_tags": [
+        "classic",
+        "flattering",
+        "versatile",
+        "timeless"
+      ]
+    },
+    {
+      "id": "silhouette_002",
+      "name_en": "Ball Gown",
+      "name_zh": "蓬蓬裙",
+      "description_en": "Full, voluminous skirt with fitted bodice, creating a dramatic princess silhouette.",
+      "description_zh": "丰满蓬松的裙摆配合身胸衣，营造戏剧性的公主廓形。",
+      "ai_tags": [
+        "dramatic",
+        "princess",
+        "voluminous",
+        "formal"
+      ]
+    },
+    {
+      "id": "silhouette_003",
+      "name_en": "Mermaid",
+      "name_zh": "美人鱼型",
+      "description_en": "Fitted through the hips and flares at the knees, creating a dramatic hourglass silhouette.",
+      "description_zh": "臀部紧贴，膝盖处展开，营造戏剧性的沙漏廓形。",
+      "ai_tags": [
+        "sexy",
+        "dramatic",
+        "hourglass",
+        "glamorous"
+      ]
+    },
+    {
+      "id": "silhouette_004",
+      "name_en": "Sheath",
+      "name_zh": "直筒型",
+      "description_en": "Straight, narrow silhouette that follows the body's natural lines without flare.",
+      "description_zh": "笔直窄身的廓形，紧贴身体自然线条，无外展。",
+      "ai_tags": [
+        "minimalist",
+        "elegant",
+        "sleek",
+        "modern"
+      ]
+    },
+    {
+      "id": "silhouette_005",
+      "name_en": "Trumpet",
+      "name_zh": "喇叭型",
+      "description_en": "Fitted through the hips and gradually flares from mid-thigh, less dramatic than mermaid.",
+      "description_zh": "臀部紧贴，从中大腿处逐渐展开，比美人鱼型更温和。",
+      "ai_tags": [
+        "elegant",
+        "flattering",
+        "sophisticated",
+        "versatile"
+      ]
+    },
+    {
+      "id": "silhouette_006",
+      "name_en": "Empire",
+      "name_zh": "帝政式",
+      "description_en": "High waistline just below the bust, with skirt flowing from there. Creates a long, lean silhouette.",
+      "description_zh": "胸下高腰线，裙摆从此处垂下，营造修长优雅的廓形。",
+      "ai_tags": [
+        "flattering",
+        "vintage",
+        "elegant",
+        "elongating"
+      ]
+    },
+    {
+      "id": "silhouette_007",
+      "name_en": "Fit and Flare",
+      "name_zh": "合身外展型",
+      "description_en": "Fitted through the waist and hips, then flares out at the thighs. Combines fitted and A-line elements.",
+      "description_zh": "腰部臀部合身，大腿处向外展开，结合合身与A字型元素。",
+      "ai_tags": [
+        "versatile",
+        "flattering",
+        "balanced",
+        "modern"
+      ]
+    },
+    {
+      "id": "silhouette_008",
+      "name_en": "Column",
+      "name_zh": "圆柱型",
+      "description_en": "Straight, narrow silhouette from shoulder to hem, creating a sleek, modern look.",
+      "description_zh": "从肩部到裙摆的笔直窄身廓形，营造简洁现代感。",
+      "ai_tags": [
+        "modern",
+        "minimalist",
+        "sleek",
+        "contemporary"
+      ]
+    },
+    {
+      "id": "silhouette_009",
+      "name_en": "Princess",
+      "name_zh": "公主型",
+      "description_en": "Fitted bodice with full, voluminous skirt, often with structured boning for dramatic shape.",
+      "description_zh": "合身胸衣配丰满蓬松裙摆，常带有结构支撑营造戏剧性形状。",
+      "ai_tags": [
+        "princess",
+        "dramatic",
+        "voluminous",
+        "romantic"
+      ]
+    },
+    {
+      "id": "silhouette_010",
+      "name_en": "Bias Cut",
+      "name_zh": "斜裁型",
+      "description_en": "Cut on the diagonal grain of fabric for fluid, draping silhouette with natural movement.",
+      "description_zh": "沿面料斜纹裁剪，营造流畅垂坠的廓形，具有自然动感。",
+      "ai_tags": [
+        "fluid",
+        "draping",
+        "elegant",
+        "sophisticated"
+      ]
+    },
+    {
+      "id": "silhouette_011",
+      "name_en": "Hobble",
+      "name_zh": "束缚型",
+      "description_en": "Narrow silhouette that restricts leg movement, creating a distinctive, dramatic look.",
+      "description_zh": "窄身廓形限制腿部活动，营造独特戏剧性外观。",
+      "ai_tags": [
+        "dramatic",
+        "unique",
+        "restrictive",
+        "fashion_forward"
+      ]
+    },
+    {
+      "id": "silhouette_012",
+      "name_en": "Tulip",
+      "name_zh": "郁金香型",
+      "description_en": "Rounded, voluminous silhouette that flares out and then tapers, resembling a tulip flower.",
+      "description_zh": "圆形丰满的廓形，向外展开后收窄，形似郁金香花朵。",
+      "ai_tags": [
+        "unique",
+        "voluminous",
+        "artistic",
+        "sculptural"
+      ]
+    },
+    {
+      "id": "silhouette_013",
+      "name_en": "Bubble",
+      "name_zh": "泡泡型",
+      "description_en": "Full skirt that is gathered or pleated at the hem, creating a 'bubble' effect.",
+      "description_zh": "丰满裙摆在底边收褶或打褶，营造'泡泡'效果。",
+      "ai_tags": [
+        "playful",
+        "voluminous",
+        "unique",
+        "youthful"
+      ]
+    },
+    {
+      "id": "silhouette_014",
+      "name_en": "Asymmetrical",
+      "name_zh": "不对称型",
+      "description_en": "Uneven or off-center silhouette that creates visual interest and modern appeal.",
+      "description_zh": "不均匀或偏心的廓形，营造视觉趣味与现代感。",
+      "ai_tags": [
+        "modern",
+        "artistic",
+        "unique",
+        "fashion_forward"
+      ]
+    },
+    {
+      "id": "silhouette_015",
+      "name_en": "Peplum",
+      "name_zh": "荷叶边型",
+      "description_en": "Short overskirt or ruffle attached at the waist, creating a flared effect over the main skirt.",
+      "description_zh": "腰部附加的短罩裙或荷叶边，在主裙上营造展开效果。",
+      "ai_tags": [
+        "feminine",
+        "flirty",
+        "vintage",
+        "elegant"
+      ]
+    },
+    {
+      "id": "silhouette_016",
+      "name_en": "High-Low",
+      "name_zh": "高低型",
+      "description_en": "Asymmetrical hemline that is shorter in front and longer in back, creating a dramatic effect.",
+      "description_zh": "前短后长的不对称裙摆，营造戏剧性效果。",
+      "ai_tags": [
+        "dramatic",
+        "modern",
+        "versatile",
+        "eye_catching"
+      ]
+    },
+    {
+      "id": "silhouette_017",
+      "name_en": "Tiered",
+      "name_zh": "分层型",
+      "description_en": "Multiple layers or tiers of fabric creating a cascading, voluminous effect.",
+      "description_zh": "多层或分层面料，营造层叠丰满效果。",
+      "ai_tags": [
+        "layered",
+        "voluminous",
+        "romantic",
+        "dramatic"
+      ]
+    },
+    {
+      "id": "silhouette_018",
+      "name_en": "Cocoon",
+      "name_zh": "茧型",
+      "description_en": "Oversized, enveloping silhouette that wraps around the body like a cocoon.",
+      "description_zh": "超大廓形，像茧一样包裹身体。",
+      "ai_tags": [
+        "oversized",
+        "enveloping",
+        "modern",
+        "artistic"
+      ]
+    },
+    {
+      "id": "silhouette_019",
+      "name_en": "Dropped Waist",
+      "name_zh": "低腰型",
+      "description_en": "Waistline positioned below the natural waist, often at hip level, creating a longer torso effect.",
+      "description_zh": "腰线位置低于自然腰线，通常在臀部水平，营造长躯干效果。",
+      "ai_tags": [
+        "vintage",
+        "elongating",
+        "unique",
+        "flattering"
+      ]
+    },
+    {
+      "id": "silhouette_020",
+      "name_en": "Pencil",
+      "name_zh": "铅笔型",
+      "description_en": "Narrow, straight silhouette that follows the body closely from hip to hem.",
+      "description_zh": "窄身笔直廓形，从臀部到裙摆紧贴身体。",
+      "ai_tags": [
+        "sleek",
+        "minimalist",
+        "elegant",
+        "modern"
+      ]
+    },
+    {
+      "id": "silhouette_021",
+      "name_en": "Trapeze",
+      "name_zh": "梯形型",
+      "description_en": "Wide, flared silhouette that creates a triangular or trapezoid shape from shoulder to hem.",
+      "description_zh": "宽阔展开的廓形，从肩部到裙摆形成三角形或梯形。",
+      "ai_tags": [
+        "geometric",
+        "modern",
+        "artistic",
+        "dramatic"
+      ]
+    },
+    {
+      "id": "silhouette_022",
+      "name_en": "Cape",
+      "name_zh": "斗篷型",
+      "description_en": "Oversized, flowing silhouette with cape-like elements that drape over the shoulders.",
+      "description_zh": "超大廓形，带有斗篷式元素垂挂在肩部。",
+      "ai_tags": [
+        "dramatic",
+        "flowing",
+        "artistic",
+        "unique"
+      ]
+    },
+    {
+      "id": "silhouette_023",
+      "name_en": "Wrap",
+      "name_zh": "裹身型",
+      "description_en": "Silhouette that wraps around the body, often with overlapping panels or asymmetrical closure.",
+      "description_zh": "包裹身体的廓形，常带有重叠面板或不对称开合。",
+      "ai_tags": [
+        "versatile",
+        "flattering",
+        "modern",
+        "elegant"
+      ]
+    },
+    {
+      "id": "silhouette_024",
+      "name_en": "Oversized",
+      "name_zh": "超大廓形",
+      "description_en": "Deliberately oversized silhouette that creates a dramatic, avant-garde effect.",
+      "description_zh": "故意超大的廓形，营造戏剧性前卫效果。",
+      "ai_tags": [
+        "avant_garde",
+        "dramatic",
+        "artistic",
+        "fashion_forward"
+      ]
+    },
+    {
+      "id": "silhouette_025",
+      "name_en": "Corset",
+      "name_zh": "紧身胸衣型",
+      "description_en": "Fitted bodice with structured boning and lacing, creating a dramatic hourglass silhouette.",
+      "description_zh": "合身胸衣带有结构支撑和系带，营造戏剧性沙漏廓形。",
+      "ai_tags": [
+        "dramatic",
+        "structured",
+        "vintage",
+        "glamorous"
+      ]
+    },
+    {
+      "id": "silhouette_026",
+      "name_en": "Minimalist",
+      "name_zh": "极简型",
+      "description_en": "Clean, simple silhouette with minimal details, focusing on form and fabric.",
+      "description_zh": "简洁干净的廓形，细节最少，专注于形状与面料。",
+      "ai_tags": [
+        "minimalist",
+        "clean",
+        "modern",
+        "sophisticated"
+      ]
+    },
+    {
+      "id": "silhouette_027",
+      "name_en": "Architectural",
+      "name_zh": "建筑型",
+      "description_en": "Structured, geometric silhouette with sharp lines and defined shapes.",
+      "description_zh": "结构化几何廓形，线条锐利形状明确。",
+      "ai_tags": [
+        "structured",
+        "geometric",
+        "modern",
+        "artistic"
+      ]
+    },
+    {
+      "id": "silhouette_028",
+      "name_en": "Deconstructed",
+      "name_zh": "解构型",
+      "description_en": "Non-traditional silhouette with exposed seams, raw edges, or unconventional construction.",
+      "description_zh": "非传统廓形，带有外露缝线、毛边或非常规结构。",
+      "ai_tags": [
+        "avant_garde",
+        "artistic",
+        "modern",
+        "unique"
+      ]
+    },
+    {
+      "id": "silhouette_029",
+      "name_en": "Couture",
+      "name_zh": "高定型",
+      "description_en": "One-of-a-kind silhouette created through advanced draping and construction techniques.",
+      "description_zh": "通过高级垂坠和结构技术创造的独一无二廓形。",
+      "ai_tags": [
+        "couture",
+        "unique",
+        "luxury",
+        "artistic"
+      ]
+    },
+    {
+      "id": "silhouette_030",
+      "name_en": "Transformable",
+      "name_zh": "可变型",
+      "description_en": "Silhouette that can be altered or adjusted, such as detachable skirts or convertible elements.",
+      "description_zh": "可改变或调整的廓形，如可拆卸裙摆或可变元素。",
+      "ai_tags": [
+        "versatile",
+        "innovative",
+        "practical",
+        "modern"
+      ]
+    }
+  ]
+}

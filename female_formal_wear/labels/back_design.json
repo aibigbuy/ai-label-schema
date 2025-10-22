@@ -1,0 +1,294 @@
+{
+  "description_en": "back designs and styling for bridal and formal wear.",
+  "description_zh": "婚纱与正式礼服后背设计与造型。",
+  "category_name_en": "Back Design",
+  "category_name_zh": "后背设计",
+  "attributes": [
+    {
+      "id": "back_001",
+      "name_en": "Open Back",
+      "name_zh": "露背",
+      "description_en": "Back that is completely open, creating a dramatic, sexy look.",
+      "description_zh": "完全开放的后背，营造戏剧性性感外观。",
+      "ai_tags": [
+        "sexy",
+        "dramatic",
+        "modern",
+        "glamorous"
+      ]
+    },
+    {
+      "id": "back_003",
+      "name_en": "Illusion Back",
+      "name_zh": "透视后背",
+      "description_en": "Back with sheer fabric or mesh overlay, creating a see-through effect.",
+      "description_zh": "带有透明面料或网纱覆盖的后背，营造透视效果。",
+      "ai_tags": [
+        "sexy",
+        "modern",
+        "artistic",
+        "unique"
+      ]
+    },
+    {
+      "id": "back_002",
+      "name_en": "Keyhole Back",
+      "name_zh": "钥匙孔后背",
+      "description_en": "Back with a small opening or cutout, often circular or keyhole-shaped.",
+      "description_zh": "带有小开口或镂空的后背，通常为圆形或钥匙孔形状。",
+      "ai_tags": [
+        "unique",
+        "artistic",
+        "modern",
+        "eye_catching"
+      ]
+    },
+    {
+      "id": "back_007",
+      "name_en": "Corset Back",
+      "name_zh": "紧身胸衣后背",
+      "description_en": "Back with lacing and boning, creating a dramatic, vintage-inspired look.",
+      "description_zh": "带有系带和支撑的后背，营造戏剧性复古风格。",
+      "ai_tags": [
+        "vintage",
+        "dramatic",
+        "structured",
+        "glamorous"
+      ]
+    },
+    {
+      "id": "back_006",
+      "name_en": "Zipper Back",
+      "name_zh": "拉链后背",
+      "description_en": "Back with zipper closure, creating a modern, sleek look.",
+      "description_zh": "带有拉链开合的后背，营造现代简洁外观。",
+      "ai_tags": [
+        "modern",
+        "sleek",
+        "practical",
+        "versatile"
+      ]
+    },
+    {
+      "id": "back_018",
+      "name_en": "Minimalist Back",
+      "name_zh": "极简后背",
+      "description_en": "Clean, simple back with minimal details, focusing on form and fabric.",
+      "description_zh": "简洁干净的后背，细节最少，专注于形状与面料。",
+      "ai_tags": [
+        "minimalist",
+        "clean",
+        "modern",
+        "sophisticated"
+      ]
+    },
+    {
+      "id": "back_004",
+      "name_en": "Lace Back",
+      "name_zh": "蕾丝后背",
+      "description_en": "Back covered with lace fabric, creating a romantic, feminine look.",
+      "description_zh": "覆盖蕾丝面料的后背，营造浪漫女性化外观。",
+      "ai_tags": [
+        "romantic",
+        "feminine",
+        "elegant",
+        "delicate"
+      ]
+    },
+    {
+      "id": "back_005",
+      "name_en": "Button Back",
+      "name_zh": "纽扣后背",
+      "description_en": "Back with decorative buttons or button closures, creating a classic, elegant look.",
+      "description_zh": "带有装饰性纽扣或纽扣开合的后背，营造经典优雅外观。",
+      "ai_tags": [
+        "classic",
+        "elegant",
+        "traditional",
+        "refined"
+      ]
+    },
+    {
+      "id": "back_008",
+      "name_en": "Beaded Back",
+      "name_zh": "珠饰后背",
+      "description_en": "Back with decorative beading or embellishments, creating a glamorous, luxurious look.",
+      "description_zh": "带有装饰性珠饰或装饰的后背，营造华丽奢华外观。",
+      "ai_tags": [
+        "glamorous",
+        "luxurious",
+        "decorative",
+        "elegant"
+      ]
+    },
+    {
+      "id": "back_009",
+      "name_en": "Embroidered Back",
+      "name_zh": "刺绣后背",
+      "description_en": "Back with decorative embroidery, creating an ornate, elegant look.",
+      "description_zh": "带有装饰性刺绣的后背，营造华丽优雅外观。",
+      "ai_tags": [
+        "ornate",
+        "elegant",
+        "decorative",
+        "sophisticated"
+      ]
+    },
+    {
+      "id": "back_010",
+      "name_en": "Cutout Back",
+      "name_zh": "镂空后背",
+      "description_en": "Back with decorative cutouts or openings, creating visual interest.",
+      "description_zh": "带有装饰性镂空或开口的后背，营造视觉趣味。",
+      "ai_tags": [
+        "modern",
+        "artistic",
+        "unique",
+        "eye_catching"
+      ]
+    },
+    {
+      "id": "back_011",
+      "name_en": "Asymmetric Back",
+      "name_zh": "不对称后背",
+      "description_en": "Back with uneven or off-center design elements, creating visual interest.",
+      "description_zh": "带有不均匀或偏心设计元素的后背，营造视觉趣味。",
+      "ai_tags": [
+        "modern",
+        "artistic",
+        "unique",
+        "fashion_forward"
+      ]
+    },
+    {
+      "id": "back_012",
+      "name_en": "Cowl Back",
+      "name_zh": "垂坠后背",
+      "description_en": "Back with soft, draped fabric that creates flowing, elegant folds.",
+      "description_zh": "带有柔软垂坠面料的后背，营造流动优雅的褶皱。",
+      "ai_tags": [
+        "elegant",
+        "flowing",
+        "sophisticated",
+        "draped"
+      ]
+    },
+    {
+      "id": "back_013",
+      "name_en": "Tiered Back",
+      "name_zh": "分层后背",
+      "description_en": "Back with multiple layers or tiers, creating a cascading effect.",
+      "description_zh": "带有多层或分层的后背，营造层叠效果。",
+      "ai_tags": [
+        "layered",
+        "voluminous",
+        "romantic",
+        "dramatic"
+      ]
+    },
+    {
+      "id": "back_014",
+      "name_en": "Ruching Back",
+      "name_zh": "褶皱后背",
+      "description_en": "Back with gathered or pleated fabric, creating texture and volume.",
+      "description_zh": "带有收褶或打褶面料的后背，营造质感与体积。",
+      "ai_tags": [
+        "textured",
+        "romantic",
+        "elegant",
+        "flattering"
+      ]
+    },
+    {
+      "id": "back_015",
+      "name_en": "Belted Back",
+      "name_zh": "腰带后背",
+      "description_en": "Back with a belt or sash, creating a structured, elegant look.",
+      "description_zh": "带有腰带或饰带的后背，营造结构化优雅外观。",
+      "ai_tags": [
+        "elegant",
+        "structured",
+        "versatile",
+        "flattering"
+      ]
+    },
+    {
+      "id": "back_016",
+      "name_en": "Wrap Back",
+      "name_zh": "裹身后背",
+      "description_en": "Back that wraps around the body, often with overlapping panels.",
+      "description_zh": "包裹身体的后背，常带有重叠面板。",
+      "ai_tags": [
+        "versatile",
+        "flattering",
+        "modern",
+        "elegant"
+      ]
+    },
+    {
+      "id": "back_017",
+      "name_en": "Peplum Back",
+      "name_zh": "荷叶边后背",
+      "description_en": "Back with a short overskirt or ruffle that creates a flared effect.",
+      "description_zh": "带有短罩裙或荷叶边的后背，营造展开效果。",
+      "ai_tags": [
+        "feminine",
+        "flirty",
+        "vintage",
+        "elegant"
+      ]
+    },
+    {
+      "id": "back_019",
+      "name_en": "Architectural Back",
+      "name_zh": "建筑型后背",
+      "description_en": "Structured, geometric back with sharp lines and defined shapes.",
+      "description_zh": "结构化几何后背，线条锐利形状明确。",
+      "ai_tags": [
+        "structured",
+        "geometric",
+        "modern",
+        "artistic"
+      ]
+    },
+    {
+      "id": "back_020",
+      "name_en": "Deconstructed Back",
+      "name_zh": "解构型后背",
+      "description_en": "Non-traditional back with exposed seams, raw edges, or unconventional construction.",
+      "description_zh": "非传统后背，带有外露缝线、毛边或非常规结构。",
+      "ai_tags": [
+        "avant_garde",
+        "artistic",
+        "modern",
+        "unique"
+      ]
+    },
+    {
+      "id": "back_021",
+      "name_en": "Couture Back",
+      "name_zh": "高定后背",
+      "description_en": "One-of-a-kind back created through advanced draping and construction techniques.",
+      "description_zh": "通过高级垂坠和结构技术创造的独一无二后背。",
+      "ai_tags": [
+        "couture",
+        "unique",
+        "luxury",
+        "artistic"
+      ]
+    },
+    {
+      "id": "back_022",
+      "name_en": "Transformable Back",
+      "name_zh": "可变后背",
+      "description_en": "Back that can be altered or adjusted, such as detachable panels or convertible elements.",
+      "description_zh": "可改变或调整的后背，如可拆卸面板或可变元素。",
+      "ai_tags": [
+        "versatile",
+        "innovative",
+        "practical",
+        "modern"
+      ]
+    }
+  ]
+}

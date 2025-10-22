@@ -1,0 +1,320 @@
+{
+  "description_en": "size standards and fit options for bridal and formal wear.",
+  "description_zh": "婚纱与正式礼服尺码标准与合身选项。",
+  "category_name_en": "Size / Fit",
+  "category_name_zh": "尺码与合身度",
+  "attributes": [
+    {
+      "id": "size_001",
+      "name_en": "XS (Extra Small)",
+      "name_zh": "XS (特小)",
+      "description_en": "Extra small size, typically for petite frames.",
+      "description_zh": "特小尺码，通常适合娇小身材。",
+      "ai_tags": [
+        "petite",
+        "small",
+        "delicate",
+        "versatile"
+      ]
+    },
+    {
+      "id": "size_002",
+      "name_en": "S (Small)",
+      "name_zh": "S (小)",
+      "description_en": "Small size, typically for smaller frames.",
+      "description_zh": "小尺码，通常适合较小身材。",
+      "ai_tags": [
+        "small",
+        "versatile",
+        "elegant",
+        "classic"
+      ]
+    },
+    {
+      "id": "size_003",
+      "name_en": "M (Medium)",
+      "name_zh": "M (中)",
+      "description_en": "Medium size, typically for average frames.",
+      "description_zh": "中尺码，通常适合平均身材。",
+      "ai_tags": [
+        "average",
+        "versatile",
+        "elegant",
+        "classic"
+      ]
+    },
+    {
+      "id": "size_004",
+      "name_en": "L (Large)",
+      "name_zh": "L (大)",
+      "description_en": "Large size, typically for larger frames.",
+      "description_zh": "大尺码，通常适合较大身材。",
+      "ai_tags": [
+        "large",
+        "versatile",
+        "elegant",
+        "classic"
+      ]
+    },
+    {
+      "id": "size_005",
+      "name_en": "XL (Extra Large)",
+      "name_zh": "XL (特大)",
+      "description_en": "Extra large size, typically for larger frames.",
+      "description_zh": "特大尺码，通常适合较大身材。",
+      "ai_tags": [
+        "large",
+        "versatile",
+        "elegant",
+        "classic"
+      ]
+    },
+    {
+      "id": "size_006",
+      "name_en": "XXL (Double Extra Large)",
+      "name_zh": "XXL (双特大)",
+      "description_en": "Double extra large size, typically for larger frames.",
+      "description_zh": "双特大尺码，通常适合较大身材。",
+      "ai_tags": [
+        "large",
+        "versatile",
+        "elegant",
+        "classic"
+      ]
+    },
+    {
+      "id": "size_007",
+      "name_en": "Petite",
+      "name_zh": "娇小",
+      "description_en": "Size designed for petite frames, typically shorter in length.",
+      "description_zh": "为娇小身材设计的尺码，通常长度较短。",
+      "ai_tags": [
+        "petite",
+        "short",
+        "delicate",
+        "versatile"
+      ]
+    },
+    {
+      "id": "size_008",
+      "name_en": "Tall",
+      "name_zh": "高挑",
+      "description_en": "Size designed for tall frames, typically longer in length.",
+      "description_zh": "为高挑身材设计的尺码，通常长度较长。",
+      "ai_tags": [
+        "tall",
+        "long",
+        "elegant",
+        "versatile"
+      ]
+    },
+    {
+      "id": "size_009",
+      "name_en": "Plus Size",
+      "name_zh": "加大码",
+      "description_en": "Size designed for plus-size frames, typically larger in all dimensions.",
+      "description_zh": "为加大码身材设计的尺码，通常在所有维度都较大。",
+      "ai_tags": [
+        "plus_size",
+        "large",
+        "versatile",
+        "inclusive"
+      ]
+    },
+    {
+      "id": "size_010",
+      "name_en": "Custom Size",
+      "name_zh": "定制尺码",
+      "description_en": "Size tailored to individual measurements, creating a perfect fit.",
+      "description_zh": "根据个人尺寸定制的尺码，营造完美合身。",
+      "ai_tags": [
+        "custom",
+        "perfect_fit",
+        "luxury",
+        "personalized"
+      ]
+    },
+    {
+      "id": "size_011",
+      "name_en": "Asymmetric Size",
+      "name_zh": "不对称尺码",
+      "description_en": "Size with uneven or off-center measurements, creating visual interest.",
+      "description_zh": "带有不均匀或偏心尺寸的尺码，营造视觉趣味。",
+      "ai_tags": [
+        "modern",
+        "artistic",
+        "unique",
+        "fashion_forward"
+      ]
+    },
+    {
+      "id": "size_012",
+      "name_en": "Illusion Size",
+      "name_zh": "透视尺码",
+      "description_en": "Size with sheer fabric or mesh overlay, creating a see-through effect.",
+      "description_zh": "带有透明面料或网纱覆盖的尺码，营造透视效果。",
+      "ai_tags": [
+        "sexy",
+        "modern",
+        "artistic",
+        "unique"
+      ]
+    },
+    {
+      "id": "size_013",
+      "name_en": "Cutout Size",
+      "name_zh": "镂空尺码",
+      "description_en": "Size with decorative cutouts or openings, creating visual interest.",
+      "description_zh": "带有装饰性镂空或开口的尺码，营造视觉趣味。",
+      "ai_tags": [
+        "modern",
+        "artistic",
+        "unique",
+        "eye_catching"
+      ]
+    },
+    {
+      "id": "size_014",
+      "name_en": "Cowl Size",
+      "name_zh": "垂坠尺码",
+      "description_en": "Size with soft, draped fabric that creates flowing, elegant folds.",
+      "description_zh": "带有柔软垂坠面料的尺码，营造流动优雅的褶皱。",
+      "ai_tags": [
+        "elegant",
+        "flowing",
+        "sophisticated",
+        "draped"
+      ]
+    },
+    {
+      "id": "size_015",
+      "name_en": "Tiered Size",
+      "name_zh": "分层尺码",
+      "description_en": "Size with multiple layers or tiers, creating a cascading effect.",
+      "description_zh": "带有多层或分层的尺码，营造层叠效果。",
+      "ai_tags": [
+        "layered",
+        "voluminous",
+        "romantic",
+        "dramatic"
+      ]
+    },
+    {
+      "id": "size_016",
+      "name_en": "Ruching Size",
+      "name_zh": "褶皱尺码",
+      "description_en": "Size with gathered or pleated fabric, creating texture and volume.",
+      "description_zh": "带有收褶或打褶面料的尺码，营造质感与体积。",
+      "ai_tags": [
+        "textured",
+        "romantic",
+        "elegant",
+        "flattering"
+      ]
+    },
+    {
+      "id": "size_017",
+      "name_en": "Belted Size",
+      "name_zh": "腰带尺码",
+      "description_en": "Size with belt or sash elements, creating a structured, elegant look.",
+      "description_zh": "带有腰带或饰带元素的尺码，营造结构化优雅外观。",
+      "ai_tags": [
+        "elegant",
+        "structured",
+        "versatile",
+        "flattering"
+      ]
+    },
+    {
+      "id": "size_018",
+      "name_en": "Wrap Size",
+      "name_zh": "裹身尺码",
+      "description_en": "Size that wraps around the body, often with overlapping panels.",
+      "description_zh": "包裹身体的尺码，常带有重叠面板。",
+      "ai_tags": [
+        "versatile",
+        "flattering",
+        "modern",
+        "elegant"
+      ]
+    },
+    {
+      "id": "size_019",
+      "name_en": "Peplum Size",
+      "name_zh": "荷叶边尺码",
+      "description_en": "Size with short overskirt or ruffle elements that create a flared effect.",
+      "description_zh": "带有短罩裙或荷叶边元素的尺码，营造展开效果。",
+      "ai_tags": [
+        "feminine",
+        "flirty",
+        "vintage",
+        "elegant"
+      ]
+    },
+    {
+      "id": "size_020",
+      "name_en": "Minimalist Size",
+      "name_zh": "极简尺码",
+      "description_en": "Clean, simple size with minimal details, focusing on form and fabric.",
+      "description_zh": "简洁干净的尺码，细节最少，专注于形状与面料。",
+      "ai_tags": [
+        "minimalist",
+        "clean",
+        "modern",
+        "sophisticated"
+      ]
+    },
+    {
+      "id": "size_021",
+      "name_en": "Architectural Size",
+      "name_zh": "建筑型尺码",
+      "description_en": "Structured, geometric size with sharp lines and defined shapes.",
+      "description_zh": "结构化几何尺码，线条锐利形状明确。",
+      "ai_tags": [
+        "structured",
+        "geometric",
+        "modern",
+        "artistic"
+      ]
+    },
+    {
+      "id": "size_022",
+      "name_en": "Deconstructed Size",
+      "name_zh": "解构型尺码",
+      "description_en": "Non-traditional size with exposed seams, raw edges, or unconventional construction.",
+      "description_zh": "非传统尺码，带有外露缝线、毛边或非常规结构。",
+      "ai_tags": [
+        "avant_garde",
+        "artistic",
+        "modern",
+        "unique"
+      ]
+    },
+    {
+      "id": "size_023",
+      "name_en": "Couture Size",
+      "name_zh": "高定尺码",
+      "description_en": "One-of-a-kind size created through advanced draping and construction techniques.",
+      "description_zh": "通过高级垂坠和结构技术创造的独一无二尺码。",
+      "ai_tags": [
+        "couture",
+        "unique",
+        "luxury",
+        "artistic"
+      ]
+    },
+    {
+      "id": "size_024",
+      "name_en": "Transformable Size",
+      "name_zh": "可变尺码",
+      "description_en": "Size that can be altered or adjusted, such as detachable panels or convertible elements.",
+      "description_zh": "可改变或调整的尺码，如可拆卸面板或可变元素。",
+      "ai_tags": [
+        "versatile",
+        "innovative",
+        "practical",
+        "modern"
+      ]
+    }
+  ]
+}

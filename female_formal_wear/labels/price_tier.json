@@ -1,0 +1,255 @@
+{
+  "description_en": "price tiers and luxury levels for bridal and formal wear.",
+  "description_zh": "婚纱与正式礼服价格档与奢华程度。",
+  "category_name_en": "Price Tier / Luxury Level",
+  "category_name_zh": "价格档 / 奢华程度",
+  "attributes": [
+    {
+      "id": "price_001",
+      "name_en": "Budget",
+      "name_zh": "预算",
+      "description_en": "Affordable price range, typically under $500, suitable for budget-conscious shoppers.",
+      "description_zh": "实惠价格范围，通常在500美元以下，适合预算有限的购物者。",
+      "ai_tags": [
+        "affordable",
+        "budget",
+        "practical",
+        "accessible"
+      ]
+    },
+    {
+      "id": "price_002",
+      "name_en": "Mid-Range",
+      "name_zh": "中档",
+      "description_en": "Moderate price range, typically $500-$2000, offering good value and quality.",
+      "description_zh": "中等价格范围，通常500-2000美元，提供良好价值和质量。",
+      "ai_tags": [
+        "moderate",
+        "value",
+        "quality",
+        "versatile"
+      ]
+    },
+    {
+      "id": "price_003",
+      "name_en": "High-End",
+      "name_zh": "高端",
+      "description_en": "Premium price range, typically $2000-$5000, offering luxury and exclusivity.",
+      "description_zh": "高端价格范围，通常2000-5000美元，提供奢华和独特性。",
+      "ai_tags": [
+        "luxury",
+        "premium",
+        "exclusive",
+        "sophisticated"
+      ]
+    },
+    {
+      "id": "price_004",
+      "name_en": "Luxury",
+      "name_zh": "奢华",
+      "description_en": "Ultra-premium price range, typically $5000-$10000, offering exceptional quality and craftsmanship.",
+      "description_zh": "超高端价格范围，通常5000-10000美元，提供卓越质量和工艺。",
+      "ai_tags": [
+        "luxury",
+        "ultra_premium",
+        "exceptional",
+        "craftsmanship"
+      ]
+    },
+    {
+      "id": "price_005",
+      "name_en": "Couture",
+      "name_zh": "高定",
+      "description_en": "Ultra-luxury price range, typically $10000+, offering one-of-a-kind pieces and exceptional craftsmanship.",
+      "description_zh": "超奢华价格范围，通常10000美元以上，提供独一无二单品和卓越工艺。",
+      "ai_tags": [
+        "couture",
+        "ultra_luxury",
+        "unique",
+        "exceptional"
+      ]
+    },
+    {
+      "id": "price_006",
+      "name_en": "Asymmetric Price",
+      "name_zh": "不对称价格",
+      "description_en": "Price tiers with uneven or off-center design elements.",
+      "description_zh": "带有不均匀或偏心设计元素的价格档。",
+      "ai_tags": [
+        "modern",
+        "artistic",
+        "unique",
+        "fashion_forward"
+      ]
+    },
+    {
+      "id": "price_007",
+      "name_en": "Illusion Price",
+      "name_zh": "透视价格",
+      "description_en": "Price tiers with sheer fabric or mesh overlay.",
+      "description_zh": "带有透明面料或网纱覆盖的价格档。",
+      "ai_tags": [
+        "sexy",
+        "modern",
+        "artistic",
+        "unique"
+      ]
+    },
+    {
+      "id": "price_008",
+      "name_en": "Cutout Price",
+      "name_zh": "镂空价格",
+      "description_en": "Price tiers with decorative cutouts or openings.",
+      "description_zh": "带有装饰性镂空或开口的价格档。",
+      "ai_tags": [
+        "modern",
+        "artistic",
+        "unique",
+        "eye_catching"
+      ]
+    },
+    {
+      "id": "price_009",
+      "name_en": "Cowl Price",
+      "name_zh": "垂坠价格",
+      "description_en": "Price tiers with soft, draped fabric.",
+      "description_zh": "带有柔软垂坠面料的价格档。",
+      "ai_tags": [
+        "elegant",
+        "flowing",
+        "sophisticated",
+        "draped"
+      ]
+    },
+    {
+      "id": "price_010",
+      "name_en": "Tiered Price",
+      "name_zh": "分层价格",
+      "description_en": "Price tiers with multiple layers or tiers.",
+      "description_zh": "带有多层或分层的价格档。",
+      "ai_tags": [
+        "layered",
+        "voluminous",
+        "romantic",
+        "dramatic"
+      ]
+    },
+    {
+      "id": "price_011",
+      "name_en": "Ruching Price",
+      "name_zh": "褶皱价格",
+      "description_en": "Price tiers with gathered or pleated fabric.",
+      "description_zh": "带有收褶或打褶面料的价格档。",
+      "ai_tags": [
+        "textured",
+        "romantic",
+        "elegant",
+        "flattering"
+      ]
+    },
+    {
+      "id": "price_012",
+      "name_en": "Belted Price",
+      "name_zh": "腰带价格",
+      "description_en": "Price tiers with belt or sash elements.",
+      "description_zh": "带有腰带或饰带元素的价格档。",
+      "ai_tags": [
+        "elegant",
+        "structured",
+        "versatile",
+        "flattering"
+      ]
+    },
+    {
+      "id": "price_013",
+      "name_en": "Wrap Price",
+      "name_zh": "裹身价格",
+      "description_en": "Price tiers that wrap around the body.",
+      "description_zh": "包裹身体的价格档。",
+      "ai_tags": [
+        "versatile",
+        "flattering",
+        "modern",
+        "elegant"
+      ]
+    },
+    {
+      "id": "price_014",
+      "name_en": "Peplum Price",
+      "name_zh": "荷叶边价格",
+      "description_en": "Price tiers with short overskirt or ruffle elements.",
+      "description_zh": "带有短罩裙或荷叶边元素的价格档。",
+      "ai_tags": [
+        "feminine",
+        "flirty",
+        "vintage",
+        "elegant"
+      ]
+    },
+    {
+      "id": "price_015",
+      "name_en": "Minimalist Price",
+      "name_zh": "极简价格",
+      "description_en": "Clean, simple price tiers with minimal details.",
+      "description_zh": "简洁干净的价格档，细节最少。",
+      "ai_tags": [
+        "minimalist",
+        "clean",
+        "modern",
+        "sophisticated"
+      ]
+    },
+    {
+      "id": "price_016",
+      "name_en": "Architectural Price",
+      "name_zh": "建筑型价格",
+      "description_en": "Structured, geometric price tiers with sharp lines.",
+      "description_zh": "结构化几何价格档，线条锐利。",
+      "ai_tags": [
+        "structured",
+        "geometric",
+        "modern",
+        "artistic"
+      ]
+    },
+    {
+      "id": "price_017",
+      "name_en": "Deconstructed Price",
+      "name_zh": "解构型价格",
+      "description_en": "Non-traditional price tiers with unconventional construction.",
+      "description_zh": "非传统价格档，带有非常规结构。",
+      "ai_tags": [
+        "avant_garde",
+        "artistic",
+        "modern",
+        "unique"
+      ]
+    },
+    {
+      "id": "price_018",
+      "name_en": "Couture Price",
+      "name_zh": "高定价格",
+      "description_en": "One-of-a-kind price tiers created through advanced techniques.",
+      "description_zh": "通过高级技术创造的独一无二价格档。",
+      "ai_tags": [
+        "couture",
+        "unique",
+        "luxury",
+        "artistic"
+      ]
+    },
+    {
+      "id": "price_019",
+      "name_en": "Transformable Price",
+      "name_zh": "可变价格",
+      "description_en": "Price tiers that can be altered or adjusted.",
+      "description_zh": "可改变或调整的价格档。",
+      "ai_tags": [
+        "versatile",
+        "innovative",
+        "practical",
+        "modern"
+      ]
+    }
+  ]
+}

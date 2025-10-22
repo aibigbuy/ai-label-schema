@@ -1,0 +1,320 @@
+{
+  "description_en": "lining and inner construction options for bridal and formal wear.",
+  "description_zh": "婚纱与正式礼服内衬与内部结构选项。",
+  "category_name_en": "Lining / Inner Construction",
+  "category_name_zh": "内衬 / 内部结构",
+  "attributes": [
+    {
+      "id": "lining_001",
+      "name_en": "Fully Lined",
+      "name_zh": "全衬里",
+      "description_en": "Complete lining throughout the gown, providing structure and coverage.",
+      "description_zh": "礼服全衬里，提供结构与覆盖。",
+      "ai_tags": [
+        "structured",
+        "opaque",
+        "formal",
+        "versatile"
+      ]
+    },
+    {
+      "id": "lining_002",
+      "name_en": "Partially Lined",
+      "name_zh": "部分衬里",
+      "description_en": "Lining in key areas only, such as the bodice or skirt, providing selective coverage.",
+      "description_zh": "仅在关键区域衬里，如上身或裙摆，提供选择性覆盖。",
+      "ai_tags": [
+        "versatile",
+        "selective",
+        "practical",
+        "elegant"
+      ]
+    },
+    {
+      "id": "lining_003",
+      "name_en": "Unlined",
+      "name_zh": "无衬里",
+      "description_en": "No lining, allowing the fabric to drape naturally and create a lighter feel.",
+      "description_zh": "无衬里，让面料自然垂坠，营造轻盈感。",
+      "ai_tags": [
+        "lightweight",
+        "flowing",
+        "minimalist",
+        "modern"
+      ]
+    },
+    {
+      "id": "lining_004",
+      "name_en": "Boned Lining",
+      "name_zh": "支撑衬里",
+      "description_en": "Lining with boning for structure and support, creating a fitted silhouette.",
+      "description_zh": "带有支撑的衬里，提供结构与支撑，营造合身廓形。",
+      "ai_tags": [
+        "structured",
+        "supportive",
+        "fitted",
+        "dramatic"
+      ]
+    },
+    {
+      "id": "lining_005",
+      "name_en": "Corset Lining",
+      "name_zh": "紧身胸衣衬里",
+      "description_en": "Lining with corset construction, including boning and lacing for dramatic shaping.",
+      "description_zh": "带有紧身胸衣结构的衬里，包括支撑和系带，营造戏剧性塑形。",
+      "ai_tags": [
+        "dramatic",
+        "structured",
+        "vintage",
+        "glamorous"
+      ]
+    },
+    {
+      "id": "lining_006",
+      "name_en": "Bustier Lining",
+      "name_zh": "紧身胸衣衬里",
+      "description_en": "Lining with built-in bustier construction for support and shaping.",
+      "description_zh": "带有内置紧身胸衣结构的衬里，提供支撑与塑形。",
+      "ai_tags": [
+        "structured",
+        "sexy",
+        "dramatic",
+        "glamorous"
+      ]
+    },
+    {
+      "id": "lining_007",
+      "name_en": "Mesh Lining",
+      "name_zh": "网纱衬里",
+      "description_en": "Lining with mesh fabric for breathability and coverage while maintaining a light feel.",
+      "description_zh": "带有网纱面料的衬里，透气且覆盖，同时保持轻盈感。",
+      "ai_tags": [
+        "breathable",
+        "lightweight",
+        "versatile",
+        "modern"
+      ]
+    },
+    {
+      "id": "lining_008",
+      "name_en": "Silk Lining",
+      "name_zh": "真丝衬里",
+      "description_en": "Lining with silk fabric for luxury and comfort, creating a smooth, elegant feel.",
+      "description_zh": "带有真丝面料的衬里，奢华舒适，营造光滑优雅感。",
+      "ai_tags": [
+        "luxury",
+        "smooth",
+        "elegant",
+        "comfortable"
+      ]
+    },
+    {
+      "id": "lining_009",
+      "name_en": "Cotton Lining",
+      "name_zh": "棉质衬里",
+      "description_en": "Lining with cotton fabric for breathability and comfort, creating a natural feel.",
+      "description_zh": "带有棉质面料的衬里，透气舒适，营造自然感。",
+      "ai_tags": [
+        "breathable",
+        "comfortable",
+        "natural",
+        "practical"
+      ]
+    },
+    {
+      "id": "lining_010",
+      "name_en": "Polyester Lining",
+      "name_zh": "聚酯衬里",
+      "description_en": "Lining with polyester fabric for durability and easy care, creating a practical option.",
+      "description_zh": "带有聚酯面料的衬里，耐用易护理，营造实用选择。",
+      "ai_tags": [
+        "durable",
+        "practical",
+        "easy_care",
+        "versatile"
+      ]
+    },
+    {
+      "id": "lining_011",
+      "name_en": "Asymmetric Lining",
+      "name_zh": "不对称衬里",
+      "description_en": "Lining with uneven or off-center design elements, creating visual interest.",
+      "description_zh": "带有不均匀或偏心设计元素的衬里，营造视觉趣味。",
+      "ai_tags": [
+        "modern",
+        "artistic",
+        "unique",
+        "fashion_forward"
+      ]
+    },
+    {
+      "id": "lining_012",
+      "name_en": "Illusion Lining",
+      "name_zh": "透视衬里",
+      "description_en": "Lining with sheer fabric or mesh overlay, creating a see-through effect.",
+      "description_zh": "带有透明面料或网纱覆盖的衬里，营造透视效果。",
+      "ai_tags": [
+        "sexy",
+        "modern",
+        "artistic",
+        "unique"
+      ]
+    },
+    {
+      "id": "lining_013",
+      "name_en": "Cutout Lining",
+      "name_zh": "镂空衬里",
+      "description_en": "Lining with decorative cutouts or openings, creating visual interest.",
+      "description_zh": "带有装饰性镂空或开口的衬里，营造视觉趣味。",
+      "ai_tags": [
+        "modern",
+        "artistic",
+        "unique",
+        "eye_catching"
+      ]
+    },
+    {
+      "id": "lining_014",
+      "name_en": "Cowl Lining",
+      "name_zh": "垂坠衬里",
+      "description_en": "Lining with soft, draped fabric that creates flowing, elegant folds.",
+      "description_zh": "带有柔软垂坠面料的衬里，营造流动优雅的褶皱。",
+      "ai_tags": [
+        "elegant",
+        "flowing",
+        "sophisticated",
+        "draped"
+      ]
+    },
+    {
+      "id": "lining_015",
+      "name_en": "Tiered Lining",
+      "name_zh": "分层衬里",
+      "description_en": "Lining with multiple layers or tiers, creating a cascading effect.",
+      "description_zh": "带有多层或分层的衬里，营造层叠效果。",
+      "ai_tags": [
+        "layered",
+        "voluminous",
+        "romantic",
+        "dramatic"
+      ]
+    },
+    {
+      "id": "lining_016",
+      "name_en": "Ruching Lining",
+      "name_zh": "褶皱衬里",
+      "description_en": "Lining with gathered or pleated fabric, creating texture and volume.",
+      "description_zh": "带有收褶或打褶面料的衬里，营造质感与体积。",
+      "ai_tags": [
+        "textured",
+        "romantic",
+        "elegant",
+        "flattering"
+      ]
+    },
+    {
+      "id": "lining_017",
+      "name_en": "Belted Lining",
+      "name_zh": "腰带衬里",
+      "description_en": "Lining with a belt or sash, creating a structured, elegant look.",
+      "description_zh": "带有腰带或饰带的衬里，营造结构化优雅外观。",
+      "ai_tags": [
+        "elegant",
+        "structured",
+        "versatile",
+        "flattering"
+      ]
+    },
+    {
+      "id": "lining_018",
+      "name_en": "Wrap Lining",
+      "name_zh": "裹身衬里",
+      "description_en": "Lining that wraps around the body, often with overlapping panels.",
+      "description_zh": "包裹身体的衬里，常带有重叠面板。",
+      "ai_tags": [
+        "versatile",
+        "flattering",
+        "modern",
+        "elegant"
+      ]
+    },
+    {
+      "id": "lining_019",
+      "name_en": "Peplum Lining",
+      "name_zh": "荷叶边衬里",
+      "description_en": "Lining with a short overskirt or ruffle that creates a flared effect.",
+      "description_zh": "带有短罩裙或荷叶边的衬里，营造展开效果。",
+      "ai_tags": [
+        "feminine",
+        "flirty",
+        "vintage",
+        "elegant"
+      ]
+    },
+    {
+      "id": "lining_020",
+      "name_en": "Minimalist Lining",
+      "name_zh": "极简衬里",
+      "description_en": "Clean, simple lining with minimal details, focusing on form and fabric.",
+      "description_zh": "简洁干净的衬里，细节最少，专注于形状与面料。",
+      "ai_tags": [
+        "minimalist",
+        "clean",
+        "modern",
+        "sophisticated"
+      ]
+    },
+    {
+      "id": "lining_021",
+      "name_en": "Architectural Lining",
+      "name_zh": "建筑型衬里",
+      "description_en": "Structured, geometric lining with sharp lines and defined shapes.",
+      "description_zh": "结构化几何衬里，线条锐利形状明确。",
+      "ai_tags": [
+        "structured",
+        "geometric",
+        "modern",
+        "artistic"
+      ]
+    },
+    {
+      "id": "lining_022",
+      "name_en": "Deconstructed Lining",
+      "name_zh": "解构型衬里",
+      "description_en": "Non-traditional lining with exposed seams, raw edges, or unconventional construction.",
+      "description_zh": "非传统衬里，带有外露缝线、毛边或非常规结构。",
+      "ai_tags": [
+        "avant_garde",
+        "artistic",
+        "modern",
+        "unique"
+      ]
+    },
+    {
+      "id": "lining_023",
+      "name_en": "Couture Lining",
+      "name_zh": "高定衬里",
+      "description_en": "One-of-a-kind lining created through advanced draping and construction techniques.",
+      "description_zh": "通过高级垂坠和结构技术创造的独一无二衬里。",
+      "ai_tags": [
+        "couture",
+        "unique",
+        "luxury",
+        "artistic"
+      ]
+    },
+    {
+      "id": "lining_024",
+      "name_en": "Transformable Lining",
+      "name_zh": "可变衬里",
+      "description_en": "Lining that can be altered or adjusted, such as detachable panels or convertible elements.",
+      "description_zh": "可改变或调整的衬里，如可拆卸面板或可变元素。",
+      "ai_tags": [
+        "versatile",
+        "innovative",
+        "practical",
+        "modern"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,450 @@
+{
+  "description_en": "neckline designs for bridal and formal wear.",
+  "description_zh": "婚纱与正式礼服领型设计。",
+  "category_name_en": "Neckline Design",
+  "category_name_zh": "领型设计",
+  "attributes": [
+    {
+      "id": "neckline_001",
+      "name_en": "Sweetheart",
+      "name_zh": "心形领",
+      "description_en": "Classic neckline that curves inward at the center, creating a heart shape. Flattering and romantic.",
+      "description_zh": "中心向内弯曲的经典领型，形成心形，优雅浪漫。",
+      "ai_tags": [
+        "romantic",
+        "flattering",
+        "classic",
+        "feminine"
+      ]
+    },
+    {
+      "id": "neckline_002",
+      "name_en": "V-Neck",
+      "name_zh": "V字领",
+      "description_en": "Angular neckline that forms a 'V' shape, elongating the neck and creating a slimming effect.",
+      "description_zh": "形成'V'字形状的角形领型，拉长颈部线条，显瘦效果。",
+      "ai_tags": [
+        "slimming",
+        "elegant",
+        "versatile",
+        "modern"
+      ]
+    },
+    {
+      "id": "neckline_003",
+      "name_en": "Strapless",
+      "name_zh": "无肩带",
+      "description_en": "Neckline that sits at or just below the bust line, with no shoulder straps or sleeves.",
+      "description_zh": "位于或略低于胸线的领型，无肩带或袖子。",
+      "ai_tags": [
+        "sexy",
+        "modern",
+        "elegant",
+        "versatile"
+      ]
+    },
+    {
+      "id": "neckline_005",
+      "name_en": "Off-Shoulder",
+      "name_zh": "露肩式",
+      "description_en": "Neckline that sits below the shoulders, exposing the collarbone and upper arms.",
+      "description_zh": "位于肩部以下的领型，露出锁骨和上臂。",
+      "ai_tags": [
+        "romantic",
+        "feminine",
+        "elegant",
+        "flattering"
+      ]
+    },
+    {
+      "id": "neckline_009",
+      "name_en": "High Neck",
+      "name_zh": "高领",
+      "description_en": "Neckline that covers the neck and sits high on the chest, creating a modest, elegant look.",
+      "description_zh": "覆盖颈部的高位领型，营造端庄优雅外观。",
+      "ai_tags": [
+        "modest",
+        "elegant",
+        "sophisticated",
+        "formal"
+      ]
+    },
+    {
+      "id": "neckline_004",
+      "name_en": "Halter",
+      "name_zh": "挂脖式",
+      "description_en": "Neckline that wraps around the neck, creating a halter-style top with open back.",
+      "description_zh": "环绕颈部的领型，形成挂脖式上衣，后背开放。",
+      "ai_tags": [
+        "sexy",
+        "modern",
+        "dramatic",
+        "backless"
+      ]
+    },
+    {
+      "id": "neckline_020",
+      "name_en": "Halter with Back",
+      "name_zh": "后背挂脖式",
+      "description_en": "Halter neckline with additional back coverage, combining the halter style with more coverage.",
+      "description_zh": "带有额外后背覆盖的挂脖领型，结合挂脖风格与更多覆盖。",
+      "ai_tags": [
+        "versatile",
+        "elegant",
+        "modern",
+        "flattering"
+      ]
+    },
+    {
+      "id": "neckline_007",
+      "name_en": "Scoop",
+      "name_zh": "圆领",
+      "description_en": "Curved neckline that follows a gentle arc, creating a soft, feminine look.",
+      "description_zh": "沿柔和弧线的弯曲领型，营造柔软女性化外观。",
+      "ai_tags": [
+        "feminine",
+        "soft",
+        "classic",
+        "versatile"
+      ]
+    },
+    {
+      "id": "neckline_008",
+      "name_en": "Square",
+      "name_zh": "方领",
+      "description_en": "Straight, horizontal neckline that creates a square or rectangular shape.",
+      "description_zh": "笔直的水平领型，形成方形或矩形形状。",
+      "ai_tags": [
+        "geometric",
+        "modern",
+        "structured",
+        "elegant"
+      ]
+    },
+    {
+      "id": "neckline_010",
+      "name_en": "Plunging",
+      "name_zh": "深V领",
+      "description_en": "Deep V-neckline that extends well below the bust line, creating a dramatic, sexy look.",
+      "description_zh": "延伸至胸线以下的深V领型，营造戏剧性性感外观。",
+      "ai_tags": [
+        "sexy",
+        "dramatic",
+        "glamorous",
+        "bold"
+      ]
+    },
+    {
+      "id": "neckline_017",
+      "name_en": "Illusion",
+      "name_zh": "透视领",
+      "description_en": "Neckline with sheer fabric or mesh overlay, creating a see-through effect while maintaining coverage.",
+      "description_zh": "带有透明面料或网纱覆盖的领型，营造透视效果同时保持覆盖。",
+      "ai_tags": [
+        "sexy",
+        "modern",
+        "artistic",
+        "unique"
+      ]
+    },
+    {
+      "id": "neckline_006",
+      "name_en": "Boat Neck",
+      "name_zh": "船领",
+      "description_en": "Wide, horizontal neckline that follows the collarbone, creating a sophisticated look.",
+      "description_zh": "宽阔的水平领型，沿锁骨线条，营造精致外观。",
+      "ai_tags": [
+        "sophisticated",
+        "elegant",
+        "classic",
+        "refined"
+      ]
+    },
+    {
+      "id": "neckline_011",
+      "name_en": "Asymmetric",
+      "name_zh": "不对称领",
+      "description_en": "Uneven or off-center neckline that creates visual interest and modern appeal.",
+      "description_zh": "不均匀或偏心的领型，营造视觉趣味与现代感。",
+      "ai_tags": [
+        "modern",
+        "artistic",
+        "unique",
+        "fashion_forward"
+      ]
+    },
+    {
+      "id": "neckline_012",
+      "name_en": "Keyhole",
+      "name_zh": "钥匙孔领",
+      "description_en": "Neckline with a small opening or cutout, often circular or keyhole-shaped.",
+      "description_zh": "带有小开口或镂空的领型，通常为圆形或钥匙孔形状。",
+      "ai_tags": [
+        "unique",
+        "artistic",
+        "modern",
+        "eye_catching"
+      ]
+    },
+    {
+      "id": "neckline_013",
+      "name_en": "Cowl",
+      "name_zh": "垂坠领",
+      "description_en": "Soft, draped neckline that creates flowing, elegant folds of fabric.",
+      "description_zh": "柔软垂坠的领型，营造流动优雅的面料褶皱。",
+      "ai_tags": [
+        "elegant",
+        "flowing",
+        "sophisticated",
+        "draped"
+      ]
+    },
+    {
+      "id": "neckline_014",
+      "name_en": "Bateau",
+      "name_zh": "船型领",
+      "description_en": "Wide, horizontal neckline that extends to the shoulders, creating a boat-like shape.",
+      "description_zh": "宽阔的水平领型，延伸至肩部，形成船形。",
+      "ai_tags": [
+        "sophisticated",
+        "elegant",
+        "classic",
+        "refined"
+      ]
+    },
+    {
+      "id": "neckline_015",
+      "name_en": "Portrait",
+      "name_zh": "肖像领",
+      "description_en": "Wide, curved neckline that frames the face and shoulders, creating a flattering portrait effect.",
+      "description_zh": "宽阔弯曲的领型，衬托面部和肩部，营造优雅肖像效果。",
+      "ai_tags": [
+        "flattering",
+        "elegant",
+        "portrait",
+        "sophisticated"
+      ]
+    },
+    {
+      "id": "neckline_016",
+      "name_en": "Jewel",
+      "name_zh": "宝石领",
+      "description_en": "Small, round neckline that sits close to the neck, creating a classic, refined look.",
+      "description_zh": "小而圆的领型，紧贴颈部，营造经典精致外观。",
+      "ai_tags": [
+        "classic",
+        "refined",
+        "elegant",
+        "modest"
+      ]
+    },
+    {
+      "id": "neckline_018",
+      "name_en": "Wrap",
+      "name_zh": "裹身领",
+      "description_en": "Neckline that wraps around the body, often with overlapping panels or asymmetrical closure.",
+      "description_zh": "包裹身体的领型，常带有重叠面板或不对称开合。",
+      "ai_tags": [
+        "versatile",
+        "flattering",
+        "modern",
+        "elegant"
+      ]
+    },
+    {
+      "id": "neckline_019",
+      "name_en": "Bandeau",
+      "name_zh": "抹胸领",
+      "description_en": "Straight, horizontal neckline that sits just above the bust, creating a clean, modern look.",
+      "description_zh": "笔直的水平领型，位于胸线上方，营造简洁现代外观。",
+      "ai_tags": [
+        "modern",
+        "clean",
+        "minimalist",
+        "elegant"
+      ]
+    },
+    {
+      "id": "neckline_021",
+      "name_en": "Cowl with Straps",
+      "name_zh": "带肩带垂坠领",
+      "description_en": "Cowl neckline with thin straps or sleeves, combining the draped effect with shoulder coverage.",
+      "description_zh": "带有细肩带或袖子的垂坠领型，结合垂坠效果与肩部覆盖。",
+      "ai_tags": [
+        "elegant",
+        "draped",
+        "versatile",
+        "sophisticated"
+      ]
+    },
+    {
+      "id": "neckline_022",
+      "name_en": "Asymmetric V",
+      "name_zh": "不对称V领",
+      "description_en": "V-neckline that is off-center or uneven, creating a modern, artistic look.",
+      "description_zh": "偏心或不均匀的V领型，营造现代艺术外观。",
+      "ai_tags": [
+        "modern",
+        "artistic",
+        "unique",
+        "fashion_forward"
+      ]
+    },
+    {
+      "id": "neckline_023",
+      "name_en": "Peplum",
+      "name_zh": "荷叶边领",
+      "description_en": "Neckline with a short overskirt or ruffle that creates a flared effect around the bust.",
+      "description_zh": "带有短罩裙或荷叶边的领型，在胸部周围营造展开效果。",
+      "ai_tags": [
+        "feminine",
+        "flirty",
+        "vintage",
+        "elegant"
+      ]
+    },
+    {
+      "id": "neckline_024",
+      "name_en": "Cutout",
+      "name_zh": "镂空领",
+      "description_en": "Neckline with decorative cutouts or openings, creating visual interest and modern appeal.",
+      "description_zh": "带有装饰性镂空或开口的领型，营造视觉趣味与现代感。",
+      "ai_tags": [
+        "modern",
+        "artistic",
+        "unique",
+        "eye_catching"
+      ]
+    },
+    {
+      "id": "neckline_025",
+      "name_en": "Turtleneck",
+      "name_zh": "高领毛衣式",
+      "description_en": "High neckline that covers the neck completely, creating a modest, sophisticated look.",
+      "description_zh": "完全覆盖颈部的高领型，营造端庄精致外观。",
+      "ai_tags": [
+        "modest",
+        "sophisticated",
+        "elegant",
+        "formal"
+      ]
+    },
+    {
+      "id": "neckline_026",
+      "name_en": "Bustier",
+      "name_zh": "紧身胸衣领",
+      "description_en": "Structured neckline with boning and support, often with a sweetheart or V-shape.",
+      "description_zh": "带有支撑结构的领型，常为心形或V形。",
+      "ai_tags": [
+        "structured",
+        "sexy",
+        "dramatic",
+        "glamorous"
+      ]
+    },
+    {
+      "id": "neckline_027",
+      "name_en": "Corset",
+      "name_zh": "紧身胸衣领",
+      "description_en": "Structured neckline with lacing and boning, creating a dramatic, vintage-inspired look.",
+      "description_zh": "带有系带和支撑的领型，营造戏剧性复古风格。",
+      "ai_tags": [
+        "vintage",
+        "dramatic",
+        "structured",
+        "glamorous"
+      ]
+    },
+    {
+      "id": "neckline_028",
+      "name_en": "Empire",
+      "name_zh": "帝政式领",
+      "description_en": "High neckline that sits just below the bust, with the waistline positioned high.",
+      "description_zh": "位于胸线下方的高领型，腰线位置较高。",
+      "ai_tags": [
+        "vintage",
+        "elegant",
+        "flattering",
+        "elongating"
+      ]
+    },
+    {
+      "id": "neckline_029",
+      "name_en": "Cowl with Back",
+      "name_zh": "后背垂坠领",
+      "description_en": "Cowl neckline that extends to the back, creating a draped effect throughout.",
+      "description_zh": "延伸至后背的垂坠领型，营造整体垂坠效果。",
+      "ai_tags": [
+        "elegant",
+        "draped",
+        "sophisticated",
+        "unique"
+      ]
+    },
+    {
+      "id": "neckline_030",
+      "name_en": "Minimalist",
+      "name_zh": "极简领",
+      "description_en": "Clean, simple neckline with minimal details, focusing on form and fabric.",
+      "description_zh": "简洁干净的领型，细节最少，专注于形状与面料。",
+      "ai_tags": [
+        "minimalist",
+        "clean",
+        "modern",
+        "sophisticated"
+      ]
+    },
+    {
+      "id": "neckline_031",
+      "name_en": "Architectural",
+      "name_zh": "建筑型领",
+      "description_en": "Structured, geometric neckline with sharp lines and defined shapes.",
+      "description_zh": "结构化几何领型，线条锐利形状明确。",
+      "ai_tags": [
+        "structured",
+        "geometric",
+        "modern",
+        "artistic"
+      ]
+    },
+    {
+      "id": "neckline_032",
+      "name_en": "Deconstructed",
+      "name_zh": "解构型领",
+      "description_en": "Non-traditional neckline with exposed seams, raw edges, or unconventional construction.",
+      "description_zh": "非传统领型，带有外露缝线、毛边或非常规结构。",
+      "ai_tags": [
+        "avant_garde",
+        "artistic",
+        "modern",
+        "unique"
+      ]
+    },
+    {
+      "id": "neckline_033",
+      "name_en": "Couture",
+      "name_zh": "高定领",
+      "description_en": "One-of-a-kind neckline created through advanced draping and construction techniques.",
+      "description_zh": "通过高级垂坠和结构技术创造的独一无二领型。",
+      "ai_tags": [
+        "couture",
+        "unique",
+        "luxury",
+        "artistic"
+      ]
+    },
+    {
+      "id": "neckline_034",
+      "name_en": "Transformable",
+      "name_zh": "可变领",
+      "description_en": "Neckline that can be altered or adjusted, such as detachable panels or convertible elements.",
+      "description_zh": "可改变或调整的领型，如可拆卸面板或可变元素。",
+      "ai_tags": [
+        "versatile",
+        "innovative",
+        "practical",
+        "modern"
+      ]
+    }
+  ]
+}

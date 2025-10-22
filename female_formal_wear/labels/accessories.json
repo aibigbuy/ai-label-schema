@@ -1,0 +1,320 @@
+{
+  "description_en": "accessories and complementary pieces for bridal and formal wear.",
+  "description_zh": "婚纱与正式礼服配件与互补单品。",
+  "category_name_en": "Accessories",
+  "category_name_zh": "配件",
+  "attributes": [
+    {
+      "id": "accessories_001",
+      "name_en": "Veil",
+      "name_zh": "面纱",
+      "description_en": "Traditional bridal veil, typically worn over the head and face during the ceremony.",
+      "description_zh": "传统新娘面纱，通常在仪式期间戴在头上和脸上。",
+      "ai_tags": [
+        "traditional",
+        "bridal",
+        "elegant",
+        "ceremonial"
+      ]
+    },
+    {
+      "id": "accessories_002",
+      "name_en": "Belt",
+      "name_zh": "腰带",
+      "description_en": "Decorative belt or sash, typically worn around the waist for definition and style.",
+      "description_zh": "装饰性腰带或饰带，通常戴在腰部以增加定义和风格。",
+      "ai_tags": [
+        "decorative",
+        "elegant",
+        "versatile",
+        "flattering"
+      ]
+    },
+    {
+      "id": "accessories_017",
+      "name_en": "Belted Accessories",
+      "name_zh": "腰带配件",
+      "description_en": "Accessories with belt or sash elements.",
+      "description_zh": "带有腰带或饰带元素的配件。",
+      "ai_tags": [
+        "elegant",
+        "structured",
+        "versatile",
+        "flattering"
+      ]
+    },
+    {
+      "id": "accessories_003",
+      "name_en": "Shawl",
+      "name_zh": "披肩",
+      "description_en": "Decorative shawl or wrap, typically worn over the shoulders for warmth and style.",
+      "description_zh": "装饰性披肩或围巾，通常戴在肩上以保暖和增加风格。",
+      "ai_tags": [
+        "warm",
+        "elegant",
+        "versatile",
+        "practical"
+      ]
+    },
+    {
+      "id": "accessories_004",
+      "name_en": "Gloves",
+      "name_zh": "手套",
+      "description_en": "Decorative gloves, typically worn for formal occasions and elegance.",
+      "description_zh": "装饰性手套，通常用于正式场合和优雅。",
+      "ai_tags": [
+        "formal",
+        "elegant",
+        "sophisticated",
+        "classic"
+      ]
+    },
+    {
+      "id": "accessories_005",
+      "name_en": "Headpiece",
+      "name_zh": "头饰",
+      "description_en": "Decorative headpiece or hair accessory, typically worn for special occasions.",
+      "description_zh": "装饰性头饰或发饰，通常用于特殊场合。",
+      "ai_tags": [
+        "decorative",
+        "elegant",
+        "special",
+        "memorable"
+      ]
+    },
+    {
+      "id": "accessories_006",
+      "name_en": "Jewelry",
+      "name_zh": "珠宝",
+      "description_en": "Decorative jewelry pieces, including necklaces, earrings, and bracelets.",
+      "description_zh": "装饰性珠宝单品，包括项链、耳环和手镯。",
+      "ai_tags": [
+        "decorative",
+        "elegant",
+        "luxurious",
+        "memorable"
+      ]
+    },
+    {
+      "id": "accessories_007",
+      "name_en": "Shoes",
+      "name_zh": "鞋子",
+      "description_en": "Formal shoes or heels, typically worn to complete the formal look.",
+      "description_zh": "正式鞋子或高跟鞋，通常用于完成正式外观。",
+      "ai_tags": [
+        "formal",
+        "elegant",
+        "practical",
+        "versatile"
+      ]
+    },
+    {
+      "id": "accessories_008",
+      "name_en": "Handbag",
+      "name_zh": "手袋",
+      "description_en": "Decorative handbag or clutch, typically worn for carrying essentials.",
+      "description_zh": "装饰性手袋或手拿包，通常用于携带必需品。",
+      "ai_tags": [
+        "practical",
+        "elegant",
+        "versatile",
+        "functional"
+      ]
+    },
+    {
+      "id": "accessories_018",
+      "name_en": "Wrap Accessories",
+      "name_zh": "裹身配件",
+      "description_en": "Accessories that wrap around the body.",
+      "description_zh": "包裹身体的配件。",
+      "ai_tags": [
+        "versatile",
+        "flattering",
+        "modern",
+        "elegant"
+      ]
+    },
+    {
+      "id": "accessories_020",
+      "name_en": "Minimalist Accessories",
+      "name_zh": "极简配件",
+      "description_en": "Clean, simple accessories with minimal details.",
+      "description_zh": "简洁干净的配件，细节最少。",
+      "ai_tags": [
+        "minimalist",
+        "clean",
+        "modern",
+        "sophisticated"
+      ]
+    },
+    {
+      "id": "accessories_009",
+      "name_en": "Scarf",
+      "name_zh": "围巾",
+      "description_en": "Decorative scarf or wrap, typically worn for warmth and style.",
+      "description_zh": "装饰性围巾或围巾，通常用于保暖和增加风格。",
+      "ai_tags": [
+        "warm",
+        "elegant",
+        "versatile",
+        "practical"
+      ]
+    },
+    {
+      "id": "accessories_010",
+      "name_en": "Hat",
+      "name_zh": "帽子",
+      "description_en": "Decorative hat or fascinator, typically worn for special occasions.",
+      "description_zh": "装饰性帽子或头饰，通常用于特殊场合。",
+      "ai_tags": [
+        "decorative",
+        "elegant",
+        "special",
+        "memorable"
+      ]
+    },
+    {
+      "id": "accessories_011",
+      "name_en": "Asymmetric Accessories",
+      "name_zh": "不对称配件",
+      "description_en": "Accessories with uneven or off-center design elements.",
+      "description_zh": "带有不均匀或偏心设计元素的配件。",
+      "ai_tags": [
+        "modern",
+        "artistic",
+        "unique",
+        "fashion_forward"
+      ]
+    },
+    {
+      "id": "accessories_012",
+      "name_en": "Illusion Accessories",
+      "name_zh": "透视配件",
+      "description_en": "Accessories with sheer fabric or mesh overlay.",
+      "description_zh": "带有透明面料或网纱覆盖的配件。",
+      "ai_tags": [
+        "sexy",
+        "modern",
+        "artistic",
+        "unique"
+      ]
+    },
+    {
+      "id": "accessories_013",
+      "name_en": "Cutout Accessories",
+      "name_zh": "镂空配件",
+      "description_en": "Accessories with decorative cutouts or openings.",
+      "description_zh": "带有装饰性镂空或开口的配件。",
+      "ai_tags": [
+        "modern",
+        "artistic",
+        "unique",
+        "eye_catching"
+      ]
+    },
+    {
+      "id": "accessories_014",
+      "name_en": "Cowl Accessories",
+      "name_zh": "垂坠配件",
+      "description_en": "Accessories with soft, draped fabric.",
+      "description_zh": "带有柔软垂坠面料的配件。",
+      "ai_tags": [
+        "elegant",
+        "flowing",
+        "sophisticated",
+        "draped"
+      ]
+    },
+    {
+      "id": "accessories_015",
+      "name_en": "Tiered Accessories",
+      "name_zh": "分层配件",
+      "description_en": "Accessories with multiple layers or tiers.",
+      "description_zh": "带有多层或分层的配件。",
+      "ai_tags": [
+        "layered",
+        "voluminous",
+        "romantic",
+        "dramatic"
+      ]
+    },
+    {
+      "id": "accessories_016",
+      "name_en": "Ruching Accessories",
+      "name_zh": "褶皱配件",
+      "description_en": "Accessories with gathered or pleated fabric.",
+      "description_zh": "带有收褶或打褶面料的配件。",
+      "ai_tags": [
+        "textured",
+        "romantic",
+        "elegant",
+        "flattering"
+      ]
+    },
+    {
+      "id": "accessories_019",
+      "name_en": "Peplum Accessories",
+      "name_zh": "荷叶边配件",
+      "description_en": "Accessories with short overskirt or ruffle elements.",
+      "description_zh": "带有短罩裙或荷叶边元素的配件。",
+      "ai_tags": [
+        "feminine",
+        "flirty",
+        "vintage",
+        "elegant"
+      ]
+    },
+    {
+      "id": "accessories_021",
+      "name_en": "Architectural Accessories",
+      "name_zh": "建筑型配件",
+      "description_en": "Structured, geometric accessories with sharp lines.",
+      "description_zh": "结构化几何配件，线条锐利。",
+      "ai_tags": [
+        "structured",
+        "geometric",
+        "modern",
+        "artistic"
+      ]
+    },
+    {
+      "id": "accessories_022",
+      "name_en": "Deconstructed Accessories",
+      "name_zh": "解构型配件",
+      "description_en": "Non-traditional accessories with unconventional construction.",
+      "description_zh": "非传统配件，带有非常规结构。",
+      "ai_tags": [
+        "avant_garde",
+        "artistic",
+        "modern",
+        "unique"
+      ]
+    },
+    {
+      "id": "accessories_023",
+      "name_en": "Couture Accessories",
+      "name_zh": "高定配件",
+      "description_en": "One-of-a-kind accessories created through advanced techniques.",
+      "description_zh": "通过高级技术创造的独一无二配件。",
+      "ai_tags": [
+        "couture",
+        "unique",
+        "luxury",
+        "artistic"
+      ]
+    },
+    {
+      "id": "accessories_024",
+      "name_en": "Transformable Accessories",
+      "name_zh": "可变配件",
+      "description_en": "Accessories that can be altered or adjusted.",
+      "description_zh": "可改变或调整的配件。",
+      "ai_tags": [
+        "versatile",
+        "innovative",
+        "practical",
+        "modern"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,320 @@
+{
+  "description_en": "occasion and usage scenarios for bridal and formal wear.",
+  "description_zh": "婚纱与正式礼服场合与使用场景。",
+  "category_name_en": "Occasion / Use",
+  "category_name_zh": "场合",
+  "attributes": [
+    {
+      "id": "occasion_001",
+      "name_en": "Wedding",
+      "name_zh": "婚礼",
+      "description_en": "Traditional wedding ceremony, the most formal and important occasion.",
+      "description_zh": "传统婚礼仪式，最正式重要的场合。",
+      "ai_tags": [
+        "traditional",
+        "formal",
+        "important",
+        "ceremonial"
+      ]
+    },
+    {
+      "id": "occasion_002",
+      "name_en": "Reception",
+      "name_zh": "婚宴",
+      "description_en": "Wedding reception or celebration party, typically less formal than ceremony.",
+      "description_zh": "婚宴或庆祝派对，通常比仪式更不正式。",
+      "ai_tags": [
+        "celebratory",
+        "social",
+        "elegant",
+        "versatile"
+      ]
+    },
+    {
+      "id": "occasion_003",
+      "name_en": "Engagement Party",
+      "name_zh": "订婚派对",
+      "description_en": "Celebration of engagement, typically semi-formal to formal.",
+      "description_zh": "订婚庆祝，通常半正式到正式。",
+      "ai_tags": [
+        "celebratory",
+        "romantic",
+        "elegant",
+        "social"
+      ]
+    },
+    {
+      "id": "occasion_004",
+      "name_en": "Bridal Shower",
+      "name_zh": "新娘派对",
+      "description_en": "Pre-wedding celebration for the bride, typically semi-formal.",
+      "description_zh": "新娘婚前庆祝，通常半正式。",
+      "ai_tags": [
+        "celebratory",
+        "feminine",
+        "elegant",
+        "social"
+      ]
+    },
+    {
+      "id": "occasion_005",
+      "name_en": "Bachelor Party",
+      "name_zh": "单身派对",
+      "description_en": "Pre-wedding celebration for the groom, typically casual to semi-formal.",
+      "description_zh": "新郎婚前庆祝，通常休闲到半正式。",
+      "ai_tags": [
+        "celebratory",
+        "casual",
+        "social",
+        "fun"
+      ]
+    },
+    {
+      "id": "occasion_006",
+      "name_en": "Anniversary",
+      "name_zh": "周年纪念",
+      "description_en": "Celebration of wedding anniversary, typically formal to semi-formal.",
+      "description_zh": "结婚周年庆祝，通常正式到半正式。",
+      "ai_tags": [
+        "celebratory",
+        "romantic",
+        "elegant",
+        "formal"
+      ]
+    },
+    {
+      "id": "occasion_007",
+      "name_en": "Formal Dinner",
+      "name_zh": "正式晚宴",
+      "description_en": "Elegant dinner party or formal dining event, typically black-tie.",
+      "description_zh": "优雅晚宴或正式用餐活动，通常黑领结。",
+      "ai_tags": [
+        "formal",
+        "elegant",
+        "sophisticated",
+        "dining"
+      ]
+    },
+    {
+      "id": "occasion_008",
+      "name_en": "Gala",
+      "name_zh": "晚会",
+      "description_en": "Charity or fundraising gala, typically very formal and glamorous.",
+      "description_zh": "慈善或筹款晚会，通常非常正式华丽。",
+      "ai_tags": [
+        "formal",
+        "glamorous",
+        "charitable",
+        "sophisticated"
+      ]
+    },
+    {
+      "id": "occasion_009",
+      "name_en": "Awards Ceremony",
+      "name_zh": "颁奖典礼",
+      "description_en": "Formal awards ceremony or recognition event, typically black-tie.",
+      "description_zh": "正式颁奖典礼或表彰活动，通常黑领结。",
+      "ai_tags": [
+        "formal",
+        "prestigious",
+        "elegant",
+        "sophisticated"
+      ]
+    },
+    {
+      "id": "occasion_010",
+      "name_en": "Prom",
+      "name_zh": "毕业舞会",
+      "description_en": "High school or college prom, typically semi-formal to formal.",
+      "description_zh": "高中或大学舞会，通常半正式到正式。",
+      "ai_tags": [
+        "youthful",
+        "elegant",
+        "romantic",
+        "memorable"
+      ]
+    },
+    {
+      "id": "occasion_011",
+      "name_en": "Asymmetric Occasion",
+      "name_zh": "不对称场合",
+      "description_en": "Occasions with uneven or off-center design elements.",
+      "description_zh": "带有不均匀或偏心设计元素的场合。",
+      "ai_tags": [
+        "modern",
+        "artistic",
+        "unique",
+        "fashion_forward"
+      ]
+    },
+    {
+      "id": "occasion_012",
+      "name_en": "Illusion Occasion",
+      "name_zh": "透视场合",
+      "description_en": "Occasions with sheer fabric or mesh overlay.",
+      "description_zh": "带有透明面料或网纱覆盖的场合。",
+      "ai_tags": [
+        "sexy",
+        "modern",
+        "artistic",
+        "unique"
+      ]
+    },
+    {
+      "id": "occasion_013",
+      "name_en": "Cutout Occasion",
+      "name_zh": "镂空场合",
+      "description_en": "Occasions with decorative cutouts or openings.",
+      "description_zh": "带有装饰性镂空或开口的场合。",
+      "ai_tags": [
+        "modern",
+        "artistic",
+        "unique",
+        "eye_catching"
+      ]
+    },
+    {
+      "id": "occasion_014",
+      "name_en": "Cowl Occasion",
+      "name_zh": "垂坠场合",
+      "description_en": "Occasions with soft, draped fabric.",
+      "description_zh": "带有柔软垂坠面料的场合。",
+      "ai_tags": [
+        "elegant",
+        "flowing",
+        "sophisticated",
+        "draped"
+      ]
+    },
+    {
+      "id": "occasion_015",
+      "name_en": "Tiered Occasion",
+      "name_zh": "分层场合",
+      "description_en": "Occasions with multiple layers or tiers.",
+      "description_zh": "带有多层或分层的场合。",
+      "ai_tags": [
+        "layered",
+        "voluminous",
+        "romantic",
+        "dramatic"
+      ]
+    },
+    {
+      "id": "occasion_016",
+      "name_en": "Ruching Occasion",
+      "name_zh": "褶皱场合",
+      "description_en": "Occasions with gathered or pleated fabric.",
+      "description_zh": "带有收褶或打褶面料的场合。",
+      "ai_tags": [
+        "textured",
+        "romantic",
+        "elegant",
+        "flattering"
+      ]
+    },
+    {
+      "id": "occasion_017",
+      "name_en": "Belted Occasion",
+      "name_zh": "腰带场合",
+      "description_en": "Occasions with belt or sash elements.",
+      "description_zh": "带有腰带或饰带元素的场合。",
+      "ai_tags": [
+        "elegant",
+        "structured",
+        "versatile",
+        "flattering"
+      ]
+    },
+    {
+      "id": "occasion_018",
+      "name_en": "Wrap Occasion",
+      "name_zh": "裹身场合",
+      "description_en": "Occasions that wrap around the body.",
+      "description_zh": "包裹身体的场合。",
+      "ai_tags": [
+        "versatile",
+        "flattering",
+        "modern",
+        "elegant"
+      ]
+    },
+    {
+      "id": "occasion_019",
+      "name_en": "Peplum Occasion",
+      "name_zh": "荷叶边场合",
+      "description_en": "Occasions with short overskirt or ruffle elements.",
+      "description_zh": "带有短罩裙或荷叶边元素的场合。",
+      "ai_tags": [
+        "feminine",
+        "flirty",
+        "vintage",
+        "elegant"
+      ]
+    },
+    {
+      "id": "occasion_020",
+      "name_en": "Minimalist Occasion",
+      "name_zh": "极简场合",
+      "description_en": "Clean, simple occasions with minimal details.",
+      "description_zh": "简洁干净的场合，细节最少。",
+      "ai_tags": [
+        "minimalist",
+        "clean",
+        "modern",
+        "sophisticated"
+      ]
+    },
+    {
+      "id": "occasion_021",
+      "name_en": "Architectural Occasion",
+      "name_zh": "建筑型场合",
+      "description_en": "Structured, geometric occasions with sharp lines.",
+      "description_zh": "结构化几何场合，线条锐利。",
+      "ai_tags": [
+        "structured",
+        "geometric",
+        "modern",
+        "artistic"
+      ]
+    },
+    {
+      "id": "occasion_022",
+      "name_en": "Deconstructed Occasion",
+      "name_zh": "解构型场合",
+      "description_en": "Non-traditional occasions with unconventional construction.",
+      "description_zh": "非传统场合，带有非常规结构。",
+      "ai_tags": [
+        "avant_garde",
+        "artistic",
+        "modern",
+        "unique"
+      ]
+    },
+    {
+      "id": "occasion_023",
+      "name_en": "Couture Occasion",
+      "name_zh": "高定场合",
+      "description_en": "One-of-a-kind occasions created through advanced techniques.",
+      "description_zh": "通过高级技术创造的独一无二场合。",
+      "ai_tags": [
+        "couture",
+        "unique",
+        "luxury",
+        "artistic"
+      ]
+    },
+    {
+      "id": "occasion_024",
+      "name_en": "Transformable Occasion",
+      "name_zh": "可变场合",
+      "description_en": "Occasions that can be altered or adjusted.",
+      "description_zh": "可改变或调整的场合。",
+      "ai_tags": [
+        "versatile",
+        "innovative",
+        "practical",
+        "modern"
+      ]
+    }
+  ]
+}

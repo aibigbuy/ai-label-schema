@@ -1,0 +1,320 @@
+{
+  "description_en": "patterns and prints for bridal and formal wear.",
+  "description_zh": "婚纱与正式礼服图案与印花。",
+  "category_name_en": "Pattern / Print",
+  "category_name_zh": "图案 / 印花",
+  "attributes": [
+    {
+      "id": "pattern_001",
+      "name_en": "Solid",
+      "name_zh": "纯色",
+      "description_en": "No pattern, single color throughout the fabric.",
+      "description_zh": "无图案，面料为单一颜色。",
+      "ai_tags": [
+        "minimalist",
+        "elegant",
+        "versatile",
+        "classic"
+      ]
+    },
+    {
+      "id": "pattern_002",
+      "name_en": "Floral",
+      "name_zh": "花卉",
+      "description_en": "Decorative flower patterns, creating romantic, feminine designs.",
+      "description_zh": "装饰性花卉图案，营造浪漫女性化设计。",
+      "ai_tags": [
+        "romantic",
+        "feminine",
+        "elegant",
+        "natural"
+      ]
+    },
+    {
+      "id": "pattern_003",
+      "name_en": "Geometric",
+      "name_zh": "几何",
+      "description_en": "Decorative geometric patterns, creating modern, structured designs.",
+      "description_zh": "装饰性几何图案，营造现代结构化设计。",
+      "ai_tags": [
+        "modern",
+        "structured",
+        "artistic",
+        "contemporary"
+      ]
+    },
+    {
+      "id": "pattern_004",
+      "name_en": "Stripes",
+      "name_zh": "条纹",
+      "description_en": "Decorative stripe patterns, creating visual interest and movement.",
+      "description_zh": "装饰性条纹图案，营造视觉趣味与动感。",
+      "ai_tags": [
+        "classic",
+        "versatile",
+        "elegant",
+        "timeless"
+      ]
+    },
+    {
+      "id": "pattern_005",
+      "name_en": "Polka Dots",
+      "name_zh": "圆点",
+      "description_en": "Decorative polka dot patterns, creating playful, feminine designs.",
+      "description_zh": "装饰性圆点图案，营造俏皮女性化设计。",
+      "ai_tags": [
+        "playful",
+        "feminine",
+        "vintage",
+        "charming"
+      ]
+    },
+    {
+      "id": "pattern_006",
+      "name_en": "Paisley",
+      "name_zh": "佩斯利",
+      "description_en": "Decorative paisley patterns, creating intricate, artistic designs.",
+      "description_zh": "装饰性佩斯利图案，营造复杂艺术设计。",
+      "ai_tags": [
+        "artistic",
+        "intricate",
+        "elegant",
+        "sophisticated"
+      ]
+    },
+    {
+      "id": "pattern_007",
+      "name_en": "Damask",
+      "name_zh": "锦缎",
+      "description_en": "Decorative damask patterns, creating luxurious, formal designs.",
+      "description_zh": "装饰性锦缎图案，营造奢华正式设计。",
+      "ai_tags": [
+        "luxurious",
+        "formal",
+        "elegant",
+        "sophisticated"
+      ]
+    },
+    {
+      "id": "pattern_008",
+      "name_en": "Brocade",
+      "name_zh": "提花",
+      "description_en": "Decorative brocade patterns, creating ornate, luxurious designs.",
+      "description_zh": "装饰性提花图案，营造华丽奢华设计。",
+      "ai_tags": [
+        "ornate",
+        "luxurious",
+        "traditional",
+        "elegant"
+      ]
+    },
+    {
+      "id": "pattern_009",
+      "name_en": "Lace",
+      "name_zh": "蕾丝",
+      "description_en": "Decorative lace patterns, creating romantic, feminine designs.",
+      "description_zh": "装饰性蕾丝图案，营造浪漫女性化设计。",
+      "ai_tags": [
+        "romantic",
+        "feminine",
+        "delicate",
+        "elegant"
+      ]
+    },
+    {
+      "id": "pattern_010",
+      "name_en": "Embroidered",
+      "name_zh": "刺绣",
+      "description_en": "Decorative embroidered patterns, creating intricate, artistic designs.",
+      "description_zh": "装饰性刺绣图案，营造复杂艺术设计。",
+      "ai_tags": [
+        "ornate",
+        "elegant",
+        "traditional",
+        "sophisticated"
+      ]
+    },
+    {
+      "id": "pattern_011",
+      "name_en": "Asymmetric Pattern",
+      "name_zh": "不对称图案",
+      "description_en": "Uneven or off-center patterns, creating visual interest.",
+      "description_zh": "不均匀或偏心的图案，营造视觉趣味。",
+      "ai_tags": [
+        "modern",
+        "artistic",
+        "unique",
+        "fashion_forward"
+      ]
+    },
+    {
+      "id": "pattern_012",
+      "name_en": "Illusion Pattern",
+      "name_zh": "透视图案",
+      "description_en": "Patterns with sheer fabric or mesh overlay, creating a see-through effect.",
+      "description_zh": "带有透明面料或网纱覆盖的图案，营造透视效果。",
+      "ai_tags": [
+        "sexy",
+        "modern",
+        "artistic",
+        "unique"
+      ]
+    },
+    {
+      "id": "pattern_013",
+      "name_en": "Cutout Pattern",
+      "name_zh": "镂空图案",
+      "description_en": "Patterns with decorative cutouts or openings, creating visual interest.",
+      "description_zh": "带有装饰性镂空或开口的图案，营造视觉趣味。",
+      "ai_tags": [
+        "modern",
+        "artistic",
+        "unique",
+        "eye_catching"
+      ]
+    },
+    {
+      "id": "pattern_014",
+      "name_en": "Cowl Pattern",
+      "name_zh": "垂坠图案",
+      "description_en": "Soft, draped patterns that create flowing, elegant folds.",
+      "description_zh": "柔软垂坠的图案，营造流动优雅的褶皱。",
+      "ai_tags": [
+        "elegant",
+        "flowing",
+        "sophisticated",
+        "draped"
+      ]
+    },
+    {
+      "id": "pattern_015",
+      "name_en": "Tiered Pattern",
+      "name_zh": "分层图案",
+      "description_en": "Multiple layers or tiers of patterns, creating a cascading effect.",
+      "description_zh": "多层或分层的图案，营造层叠效果。",
+      "ai_tags": [
+        "layered",
+        "voluminous",
+        "romantic",
+        "dramatic"
+      ]
+    },
+    {
+      "id": "pattern_016",
+      "name_en": "Ruching Pattern",
+      "name_zh": "褶皱图案",
+      "description_en": "Gathered or pleated patterns, creating texture and volume.",
+      "description_zh": "收褶或打褶的图案，营造质感与体积。",
+      "ai_tags": [
+        "textured",
+        "romantic",
+        "elegant",
+        "flattering"
+      ]
+    },
+    {
+      "id": "pattern_017",
+      "name_en": "Belted Pattern",
+      "name_zh": "腰带图案",
+      "description_en": "Patterns with belt or sash elements, creating a structured, elegant look.",
+      "description_zh": "带有腰带或饰带元素的图案，营造结构化优雅外观。",
+      "ai_tags": [
+        "elegant",
+        "structured",
+        "versatile",
+        "flattering"
+      ]
+    },
+    {
+      "id": "pattern_018",
+      "name_en": "Wrap Pattern",
+      "name_zh": "裹身图案",
+      "description_en": "Patterns that wrap around the body, often with overlapping panels.",
+      "description_zh": "包裹身体的图案，常带有重叠面板。",
+      "ai_tags": [
+        "versatile",
+        "flattering",
+        "modern",
+        "elegant"
+      ]
+    },
+    {
+      "id": "pattern_019",
+      "name_en": "Peplum Pattern",
+      "name_zh": "荷叶边图案",
+      "description_en": "Patterns with short overskirt or ruffle elements that create a flared effect.",
+      "description_zh": "带有短罩裙或荷叶边元素的图案，营造展开效果。",
+      "ai_tags": [
+        "feminine",
+        "flirty",
+        "vintage",
+        "elegant"
+      ]
+    },
+    {
+      "id": "pattern_020",
+      "name_en": "Minimalist Pattern",
+      "name_zh": "极简图案",
+      "description_en": "Clean, simple patterns with minimal details, focusing on form and fabric.",
+      "description_zh": "简洁干净的图案，细节最少，专注于形状与面料。",
+      "ai_tags": [
+        "minimalist",
+        "clean",
+        "modern",
+        "sophisticated"
+      ]
+    },
+    {
+      "id": "pattern_021",
+      "name_en": "Architectural Pattern",
+      "name_zh": "建筑型图案",
+      "description_en": "Structured, geometric patterns with sharp lines and defined shapes.",
+      "description_zh": "结构化几何图案，线条锐利形状明确。",
+      "ai_tags": [
+        "structured",
+        "geometric",
+        "modern",
+        "artistic"
+      ]
+    },
+    {
+      "id": "pattern_022",
+      "name_en": "Deconstructed Pattern",
+      "name_zh": "解构型图案",
+      "description_en": "Non-traditional patterns with exposed seams, raw edges, or unconventional construction.",
+      "description_zh": "非传统图案，带有外露缝线、毛边或非常规结构。",
+      "ai_tags": [
+        "avant_garde",
+        "artistic",
+        "modern",
+        "unique"
+      ]
+    },
+    {
+      "id": "pattern_023",
+      "name_en": "Couture Pattern",
+      "name_zh": "高定图案",
+      "description_en": "One-of-a-kind patterns created through advanced draping and construction techniques.",
+      "description_zh": "通过高级垂坠和结构技术创造的独一无二图案。",
+      "ai_tags": [
+        "couture",
+        "unique",
+        "luxury",
+        "artistic"
+      ]
+    },
+    {
+      "id": "pattern_024",
+      "name_en": "Transformable Pattern",
+      "name_zh": "可变图案",
+      "description_en": "Patterns that can be altered or adjusted, such as detachable panels or convertible elements.",
+      "description_zh": "可改变或调整的图案，如可拆卸面板或可变元素。",
+      "ai_tags": [
+        "versatile",
+        "innovative",
+        "practical",
+        "modern"
+      ]
+    }
+  ]
+}

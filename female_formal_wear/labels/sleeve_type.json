@@ -1,0 +1,385 @@
+{
+  "description_en": "sleeve types and designs for bridal and formal wear.",
+  "description_zh": "婚纱与正式礼服袖型与设计。",
+  "category_name_en": "Sleeve Type",
+  "category_name_zh": "袖型",
+  "attributes": [
+    {
+      "id": "sleeve_002",
+      "name_en": "Cap Sleeve",
+      "name_zh": "帽袖",
+      "description_en": "Very short sleeve that just covers the shoulder, creating a delicate, feminine look.",
+      "description_zh": "仅覆盖肩部的极短袖子，营造精致女性化外观。",
+      "ai_tags": [
+        "feminine",
+        "delicate",
+        "elegant",
+        "versatile"
+      ]
+    },
+    {
+      "id": "sleeve_003",
+      "name_en": "Short Sleeve",
+      "name_zh": "短袖",
+      "description_en": "Sleeve that extends to the upper arm, providing moderate coverage.",
+      "description_zh": "延伸至上臂的袖子，提供适度覆盖。",
+      "ai_tags": [
+        "versatile",
+        "comfortable",
+        "elegant",
+        "practical"
+      ]
+    },
+    {
+      "id": "sleeve_005",
+      "name_en": "Long Sleeve",
+      "name_zh": "长袖",
+      "description_en": "Sleeve that extends to the wrist, providing full arm coverage.",
+      "description_zh": "延伸至手腕的袖子，提供全臂覆盖。",
+      "ai_tags": [
+        "formal",
+        "elegant",
+        "modest",
+        "sophisticated"
+      ]
+    },
+    {
+      "id": "sleeve_004",
+      "name_en": "Three-Quarter Sleeve",
+      "name_zh": "七分袖",
+      "description_en": "Sleeve that extends to the forearm, creating an elegant, sophisticated look.",
+      "description_zh": "延伸至前臂的袖子，营造优雅精致外观。",
+      "ai_tags": [
+        "elegant",
+        "sophisticated",
+        "formal",
+        "refined"
+      ]
+    },
+    {
+      "id": "sleeve_006",
+      "name_en": "Off-Shoulder",
+      "name_zh": "露肩袖",
+      "description_en": "Sleeve that sits below the shoulders, exposing the collarbone and upper arms.",
+      "description_zh": "位于肩部以下的袖子，露出锁骨和上臂。",
+      "ai_tags": [
+        "romantic",
+        "feminine",
+        "elegant",
+        "flattering"
+      ]
+    },
+    {
+      "id": "sleeve_011",
+      "name_en": "Bell Sleeve",
+      "name_zh": "钟形袖",
+      "description_en": "Sleeve that flares out from the elbow, creating a bell-like shape.",
+      "description_zh": "从肘部向外展开的袖子，形成钟形。",
+      "ai_tags": [
+        "romantic",
+        "feminine",
+        "vintage",
+        "elegant"
+      ]
+    },
+    {
+      "id": "sleeve_014",
+      "name_en": "Bishop Sleeve",
+      "name_zh": "主教袖",
+      "description_en": "Sleeve that is full at the wrist and gathered with a cuff, creating an elegant, flowing look.",
+      "description_zh": "手腕处丰满、带袖口收褶的袖子，营造优雅流动外观。",
+      "ai_tags": [
+        "elegant",
+        "flowing",
+        "sophisticated",
+        "romantic"
+      ]
+    },
+    {
+      "id": "sleeve_001",
+      "name_en": "Strapless",
+      "name_zh": "无袖",
+      "description_en": "No sleeves, with the bodice ending at the shoulder line.",
+      "description_zh": "无袖子，上身结束于肩线。",
+      "ai_tags": [
+        "sexy",
+        "modern",
+        "elegant",
+        "versatile"
+      ]
+    },
+    {
+      "id": "sleeve_007",
+      "name_en": "Halter",
+      "name_zh": "挂脖袖",
+      "description_en": "Sleeve that wraps around the neck, creating a halter-style top.",
+      "description_zh": "环绕颈部的袖子，形成挂脖式上衣。",
+      "ai_tags": [
+        "sexy",
+        "modern",
+        "dramatic",
+        "backless"
+      ]
+    },
+    {
+      "id": "sleeve_008",
+      "name_en": "Boat Neck",
+      "name_zh": "船领袖",
+      "description_en": "Sleeve with wide, horizontal neckline that follows the collarbone.",
+      "description_zh": "带有宽阔水平领型的袖子，沿锁骨线条。",
+      "ai_tags": [
+        "sophisticated",
+        "elegant",
+        "classic",
+        "refined"
+      ]
+    },
+    {
+      "id": "sleeve_009",
+      "name_en": "V-Neck",
+      "name_zh": "V领袖",
+      "description_en": "Sleeve with angular neckline that forms a 'V' shape.",
+      "description_zh": "带有角形领型的袖子，形成'V'字形状。",
+      "ai_tags": [
+        "slimming",
+        "elegant",
+        "versatile",
+        "modern"
+      ]
+    },
+    {
+      "id": "sleeve_010",
+      "name_en": "Sweetheart",
+      "name_zh": "心形袖",
+      "description_en": "Sleeve with neckline that curves inward at the center, creating a heart shape.",
+      "description_zh": "中心向内弯曲的领型袖子，形成心形。",
+      "ai_tags": [
+        "romantic",
+        "flattering",
+        "classic",
+        "feminine"
+      ]
+    },
+    {
+      "id": "sleeve_012",
+      "name_en": "Puff Sleeve",
+      "name_zh": "泡泡袖",
+      "description_en": "Sleeve with gathered fabric at the shoulder, creating a voluminous, romantic look.",
+      "description_zh": "肩部收褶面料的袖子，营造丰满浪漫外观。",
+      "ai_tags": [
+        "romantic",
+        "feminine",
+        "vintage",
+        "dramatic"
+      ]
+    },
+    {
+      "id": "sleeve_013",
+      "name_en": "Leg-of-Mutton Sleeve",
+      "name_zh": "羊腿袖",
+      "description_en": "Sleeve that is full at the shoulder and tapers to the wrist, creating a dramatic silhouette.",
+      "description_zh": "肩部丰满、向手腕收窄的袖子，营造戏剧性廓形。",
+      "ai_tags": [
+        "dramatic",
+        "vintage",
+        "romantic",
+        "elegant"
+      ]
+    },
+    {
+      "id": "sleeve_015",
+      "name_en": "Lantern Sleeve",
+      "name_zh": "灯笼袖",
+      "description_en": "Sleeve that is full at both the shoulder and wrist, with a gathered section in between.",
+      "description_zh": "肩部和手腕都丰满、中间收褶的袖子。",
+      "ai_tags": [
+        "romantic",
+        "feminine",
+        "vintage",
+        "elegant"
+      ]
+    },
+    {
+      "id": "sleeve_016",
+      "name_en": "Juliet Sleeve",
+      "name_zh": "朱丽叶袖",
+      "description_en": "Sleeve that is full at the shoulder and tapers to a fitted wrist, creating a romantic look.",
+      "description_zh": "肩部丰满、向合身手腕收窄的袖子，营造浪漫外观。",
+      "ai_tags": [
+        "romantic",
+        "feminine",
+        "elegant",
+        "vintage"
+      ]
+    },
+    {
+      "id": "sleeve_017",
+      "name_en": "Kimono Sleeve",
+      "name_zh": "和服袖",
+      "description_en": "Sleeve that is cut in one piece with the bodice, creating a flowing, elegant look.",
+      "description_zh": "与上身一体裁剪的袖子，营造流动优雅外观。",
+      "ai_tags": [
+        "elegant",
+        "flowing",
+        "cultural",
+        "sophisticated"
+      ]
+    },
+    {
+      "id": "sleeve_018",
+      "name_en": "Raglan Sleeve",
+      "name_zh": "插肩袖",
+      "description_en": "Sleeve that extends from the neckline to the underarm, creating a diagonal seam.",
+      "description_zh": "从领线延伸至腋下的袖子，形成斜接缝。",
+      "ai_tags": [
+        "sporty",
+        "modern",
+        "comfortable",
+        "versatile"
+      ]
+    },
+    {
+      "id": "sleeve_019",
+      "name_en": "Dolman Sleeve",
+      "name_zh": "蝙蝠袖",
+      "description_en": "Sleeve that is wide at the armhole and tapers to the wrist, creating a bat-like shape.",
+      "description_zh": "袖窿宽阔、向手腕收窄的袖子，形成蝙蝠形状。",
+      "ai_tags": [
+        "modern",
+        "artistic",
+        "unique",
+        "fashion_forward"
+      ]
+    },
+    {
+      "id": "sleeve_020",
+      "name_en": "Asymmetric Sleeve",
+      "name_zh": "不对称袖",
+      "description_en": "Sleeve with uneven or off-center design elements, creating visual interest.",
+      "description_zh": "带有不均匀或偏心设计元素的袖子，营造视觉趣味。",
+      "ai_tags": [
+        "modern",
+        "artistic",
+        "unique",
+        "fashion_forward"
+      ]
+    },
+    {
+      "id": "sleeve_021",
+      "name_en": "Illusion Sleeve",
+      "name_zh": "透视袖",
+      "description_en": "Sleeve with sheer fabric or mesh overlay, creating a see-through effect.",
+      "description_zh": "带有透明面料或网纱覆盖的袖子，营造透视效果。",
+      "ai_tags": [
+        "sexy",
+        "modern",
+        "artistic",
+        "unique"
+      ]
+    },
+    {
+      "id": "sleeve_022",
+      "name_en": "Cowl Sleeve",
+      "name_zh": "垂坠袖",
+      "description_en": "Sleeve with soft, draped fabric that creates flowing, elegant folds.",
+      "description_zh": "带有柔软垂坠面料的袖子，营造流动优雅的褶皱。",
+      "ai_tags": [
+        "elegant",
+        "flowing",
+        "sophisticated",
+        "draped"
+      ]
+    },
+    {
+      "id": "sleeve_023",
+      "name_en": "Cutout Sleeve",
+      "name_zh": "镂空袖",
+      "description_en": "Sleeve with decorative cutouts or openings, creating visual interest.",
+      "description_zh": "带有装饰性镂空或开口的袖子，营造视觉趣味。",
+      "ai_tags": [
+        "modern",
+        "artistic",
+        "unique",
+        "eye_catching"
+      ]
+    },
+    {
+      "id": "sleeve_024",
+      "name_en": "Wrap Sleeve",
+      "name_zh": "裹身袖",
+      "description_en": "Sleeve that wraps around the arm, often with overlapping panels.",
+      "description_zh": "包裹手臂的袖子，常带有重叠面板。",
+      "ai_tags": [
+        "versatile",
+        "flattering",
+        "modern",
+        "elegant"
+      ]
+    },
+    {
+      "id": "sleeve_025",
+      "name_en": "Minimalist Sleeve",
+      "name_zh": "极简袖",
+      "description_en": "Clean, simple sleeve with minimal details, focusing on form and fabric.",
+      "description_zh": "简洁干净的袖子，细节最少，专注于形状与面料。",
+      "ai_tags": [
+        "minimalist",
+        "clean",
+        "modern",
+        "sophisticated"
+      ]
+    },
+    {
+      "id": "sleeve_026",
+      "name_en": "Architectural Sleeve",
+      "name_zh": "建筑型袖",
+      "description_en": "Structured, geometric sleeve with sharp lines and defined shapes.",
+      "description_zh": "结构化几何袖子，线条锐利形状明确。",
+      "ai_tags": [
+        "structured",
+        "geometric",
+        "modern",
+        "artistic"
+      ]
+    },
+    {
+      "id": "sleeve_027",
+      "name_en": "Deconstructed Sleeve",
+      "name_zh": "解构型袖",
+      "description_en": "Non-traditional sleeve with exposed seams, raw edges, or unconventional construction.",
+      "description_zh": "非传统袖子，带有外露缝线、毛边或非常规结构。",
+      "ai_tags": [
+        "avant_garde",
+        "artistic",
+        "modern",
+        "unique"
+      ]
+    },
+    {
+      "id": "sleeve_028",
+      "name_en": "Couture Sleeve",
+      "name_zh": "高定袖",
+      "description_en": "One-of-a-kind sleeve created through advanced draping and construction techniques.",
+      "description_zh": "通过高级垂坠和结构技术创造的独一无二袖子。",
+      "ai_tags": [
+        "couture",
+        "unique",
+        "luxury",
+        "artistic"
+      ]
+    },
+    {
+      "id": "sleeve_029",
+      "name_en": "Transformable Sleeve",
+      "name_zh": "可变袖",
+      "description_en": "Sleeve that can be altered or adjusted, such as detachable panels or convertible elements.",
+      "description_zh": "可改变或调整的袖子，如可拆卸面板或可变元素。",
+      "ai_tags": [
+        "versatile",
+        "innovative",
+        "practical",
+        "modern"
+      ]
+    }
+  ]
+}

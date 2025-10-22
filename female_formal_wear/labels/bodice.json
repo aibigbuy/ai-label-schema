@@ -1,0 +1,294 @@
+{
+  "description_en": "bodice and upper body structure options for bridal and formal wear.",
+  "description_zh": "婚纱与正式礼服上身结构与支撑选项。",
+  "category_name_en": "Bodice / Upper Body",
+  "category_name_zh": "上身结构",
+  "attributes": [
+    {
+      "id": "bodice_001",
+      "name_en": "Fitted Bodice",
+      "name_zh": "合身上身",
+      "description_en": "Structured bodice that follows the body's natural curves, providing support and shape.",
+      "description_zh": "跟随身体自然曲线的结构化上身，提供支撑与塑形。",
+      "ai_tags": [
+        "flattering",
+        "structured",
+        "supportive",
+        "versatile"
+      ]
+    },
+    {
+      "id": "bodice_002",
+      "name_en": "Corset Bodice",
+      "name_zh": "紧身胸衣上身",
+      "description_en": "Structured bodice with boning and lacing, creating a dramatic hourglass silhouette.",
+      "description_zh": "带有支撑和系带的结构化上身，营造戏剧性沙漏廓形。",
+      "ai_tags": [
+        "dramatic",
+        "structured",
+        "vintage",
+        "glamorous"
+      ]
+    },
+    {
+      "id": "bodice_003",
+      "name_en": "Bustier Bodice",
+      "name_zh": "紧身胸衣上身",
+      "description_en": "Structured bodice with built-in support and shaping, often extending to the hips.",
+      "description_zh": "带有内置支撑和塑形的结构化上身，常延伸至臀部。",
+      "ai_tags": [
+        "structured",
+        "sexy",
+        "dramatic",
+        "glamorous"
+      ]
+    },
+    {
+      "id": "bodice_004",
+      "name_en": "Strapless Bodice",
+      "name_zh": "无肩带上身",
+      "description_en": "Bodice without shoulder straps, relying on structure and fit for support.",
+      "description_zh": "无肩带的上身，依靠结构和合身度提供支撑。",
+      "ai_tags": [
+        "sexy",
+        "modern",
+        "elegant",
+        "versatile"
+      ]
+    },
+    {
+      "id": "bodice_005",
+      "name_en": "Halter Bodice",
+      "name_zh": "挂脖式上身",
+      "description_en": "Bodice that wraps around the neck, creating a halter-style top with open back.",
+      "description_zh": "环绕颈部的上身，形成挂脖式上衣，后背开放。",
+      "ai_tags": [
+        "sexy",
+        "modern",
+        "dramatic",
+        "backless"
+      ]
+    },
+    {
+      "id": "bodice_006",
+      "name_en": "Off-Shoulder Bodice",
+      "name_zh": "露肩上身",
+      "description_en": "Bodice that sits below the shoulders, exposing the collarbone and upper arms.",
+      "description_zh": "位于肩部以下的上身，露出锁骨和上臂。",
+      "ai_tags": [
+        "romantic",
+        "feminine",
+        "elegant",
+        "flattering"
+      ]
+    },
+    {
+      "id": "bodice_007",
+      "name_en": "Empire Bodice",
+      "name_zh": "帝政式上身",
+      "description_en": "High-waisted bodice that sits just below the bust, creating a long, lean silhouette.",
+      "description_zh": "位于胸线下方的高腰上身，营造修长优雅的廓形。",
+      "ai_tags": [
+        "flattering",
+        "elongating",
+        "vintage",
+        "elegant"
+      ]
+    },
+    {
+      "id": "bodice_008",
+      "name_en": "Boat Neck Bodice",
+      "name_zh": "船领上身",
+      "description_en": "Bodice with wide, horizontal neckline that follows the collarbone.",
+      "description_zh": "带有宽阔水平领型的上身，沿锁骨线条。",
+      "ai_tags": [
+        "sophisticated",
+        "elegant",
+        "classic",
+        "refined"
+      ]
+    },
+    {
+      "id": "bodice_009",
+      "name_en": "V-Neck Bodice",
+      "name_zh": "V领上身",
+      "description_en": "Bodice with angular neckline that forms a 'V' shape, elongating the neck.",
+      "description_zh": "带有角形领型的上身，形成'V'字形状，拉长颈部线条。",
+      "ai_tags": [
+        "slimming",
+        "elegant",
+        "versatile",
+        "modern"
+      ]
+    },
+    {
+      "id": "bodice_010",
+      "name_en": "Sweetheart Bodice",
+      "name_zh": "心形上身",
+      "description_en": "Bodice with neckline that curves inward at the center, creating a heart shape.",
+      "description_zh": "中心向内弯曲的领型上身，形成心形。",
+      "ai_tags": [
+        "romantic",
+        "flattering",
+        "classic",
+        "feminine"
+      ]
+    },
+    {
+      "id": "bodice_011",
+      "name_en": "Asymmetric Bodice",
+      "name_zh": "不对称上身",
+      "description_en": "Bodice with uneven or off-center design elements, creating visual interest.",
+      "description_zh": "带有不均匀或偏心设计元素的上身，营造视觉趣味。",
+      "ai_tags": [
+        "modern",
+        "artistic",
+        "unique",
+        "fashion_forward"
+      ]
+    },
+    {
+      "id": "bodice_012",
+      "name_en": "Illusion Bodice",
+      "name_zh": "透视上身",
+      "description_en": "Bodice with sheer fabric or mesh overlay, creating a see-through effect.",
+      "description_zh": "带有透明面料或网纱覆盖的上身，营造透视效果。",
+      "ai_tags": [
+        "sexy",
+        "modern",
+        "artistic",
+        "unique"
+      ]
+    },
+    {
+      "id": "bodice_013",
+      "name_en": "Cowl Bodice",
+      "name_zh": "垂坠上身",
+      "description_en": "Bodice with soft, draped fabric that creates flowing, elegant folds.",
+      "description_zh": "带有柔软垂坠面料的上身，营造流动优雅的褶皱。",
+      "ai_tags": [
+        "elegant",
+        "flowing",
+        "sophisticated",
+        "draped"
+      ]
+    },
+    {
+      "id": "bodice_014",
+      "name_en": "Cutout Bodice",
+      "name_zh": "镂空上身",
+      "description_en": "Bodice with decorative cutouts or openings, creating visual interest.",
+      "description_zh": "带有装饰性镂空或开口的上身，营造视觉趣味。",
+      "ai_tags": [
+        "modern",
+        "artistic",
+        "unique",
+        "eye_catching"
+      ]
+    },
+    {
+      "id": "bodice_015",
+      "name_en": "Wrap Bodice",
+      "name_zh": "裹身上身",
+      "description_en": "Bodice that wraps around the body, often with overlapping panels.",
+      "description_zh": "包裹身体的上身，常带有重叠面板。",
+      "ai_tags": [
+        "versatile",
+        "flattering",
+        "modern",
+        "elegant"
+      ]
+    },
+    {
+      "id": "bodice_016",
+      "name_en": "Peplum Bodice",
+      "name_zh": "荷叶边上身",
+      "description_en": "Bodice with a short overskirt or ruffle that creates a flared effect.",
+      "description_zh": "带有短罩裙或荷叶边的上身，营造展开效果。",
+      "ai_tags": [
+        "feminine",
+        "flirty",
+        "vintage",
+        "elegant"
+      ]
+    },
+    {
+      "id": "bodice_017",
+      "name_en": "Ruching Bodice",
+      "name_zh": "褶皱上身",
+      "description_en": "Bodice with gathered or pleated fabric, creating texture and volume.",
+      "description_zh": "带有收褶或打褶面料的上身，营造质感与体积。",
+      "ai_tags": [
+        "textured",
+        "romantic",
+        "elegant",
+        "flattering"
+      ]
+    },
+    {
+      "id": "bodice_018",
+      "name_en": "Minimalist Bodice",
+      "name_zh": "极简上身",
+      "description_en": "Clean, simple bodice with minimal details, focusing on form and fabric.",
+      "description_zh": "简洁干净的上身，细节最少，专注于形状与面料。",
+      "ai_tags": [
+        "minimalist",
+        "clean",
+        "modern",
+        "sophisticated"
+      ]
+    },
+    {
+      "id": "bodice_019",
+      "name_en": "Architectural Bodice",
+      "name_zh": "建筑型上身",
+      "description_en": "Structured, geometric bodice with sharp lines and defined shapes.",
+      "description_zh": "结构化几何上身，线条锐利形状明确。",
+      "ai_tags": [
+        "structured",
+        "geometric",
+        "modern",
+        "artistic"
+      ]
+    },
+    {
+      "id": "bodice_020",
+      "name_en": "Deconstructed Bodice",
+      "name_zh": "解构型上身",
+      "description_en": "Non-traditional bodice with exposed seams, raw edges, or unconventional construction.",
+      "description_zh": "非传统上身，带有外露缝线、毛边或非常规结构。",
+      "ai_tags": [
+        "avant_garde",
+        "artistic",
+        "modern",
+        "unique"
+      ]
+    },
+    {
+      "id": "bodice_021",
+      "name_en": "Couture Bodice",
+      "name_zh": "高定上身",
+      "description_en": "One-of-a-kind bodice created through advanced draping and construction techniques.",
+      "description_zh": "通过高级垂坠和结构技术创造的独一无二上身。",
+      "ai_tags": [
+        "couture",
+        "unique",
+        "luxury",
+        "artistic"
+      ]
+    },
+    {
+      "id": "bodice_022",
+      "name_en": "Transformable Bodice",
+      "name_zh": "可变上身",
+      "description_en": "Bodice that can be altered or adjusted, such as detachable panels or convertible elements.",
+      "description_zh": "可改变或调整的上身，如可拆卸面板或可变元素。",
+      "ai_tags": [
+        "versatile",
+        "innovative",
+        "practical",
+        "modern"
+      ]
+    }
+  ]
+}

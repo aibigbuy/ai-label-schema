@@ -1,0 +1,307 @@
+{
+  "description_en": "closure and fastening options for bridal and formal wear.",
+  "description_zh": "婚纱与正式礼服开合方式与扣件选项。",
+  "category_name_en": "Closure / Fastening",
+  "category_name_zh": "开合方式",
+  "attributes": [
+    {
+      "id": "closure_001",
+      "name_en": "Zipper",
+      "name_zh": "拉链",
+      "description_en": "Metal or plastic zipper closure, providing a secure and easy-to-use fastening.",
+      "description_zh": "金属或塑料拉链开合，提供安全易用的扣件。",
+      "ai_tags": [
+        "practical",
+        "secure",
+        "versatile",
+        "modern"
+      ]
+    },
+    {
+      "id": "closure_002",
+      "name_en": "Buttons",
+      "name_zh": "纽扣",
+      "description_en": "Decorative or functional buttons for closure, creating a classic, elegant look.",
+      "description_zh": "装饰性或功能性纽扣开合，营造经典优雅外观。",
+      "ai_tags": [
+        "classic",
+        "elegant",
+        "traditional",
+        "decorative"
+      ]
+    },
+    {
+      "id": "closure_003",
+      "name_en": "Hooks and Eyes",
+      "name_zh": "钩眼扣",
+      "description_en": "Small metal hooks and eyes for closure, providing a secure and discreet fastening.",
+      "description_zh": "小型金属钩眼扣开合，提供安全隐蔽的扣件。",
+      "ai_tags": [
+        "secure",
+        "discreet",
+        "traditional",
+        "reliable"
+      ]
+    },
+    {
+      "id": "closure_004",
+      "name_en": "Lacing",
+      "name_zh": "系带",
+      "description_en": "Ribbon or cord lacing for closure, creating a romantic, vintage-inspired look.",
+      "description_zh": "丝带或绳索系带开合，营造浪漫复古风格。",
+      "ai_tags": [
+        "romantic",
+        "vintage",
+        "adjustable",
+        "elegant"
+      ]
+    },
+    {
+      "id": "closure_005",
+      "name_en": "Corset Lacing",
+      "name_zh": "紧身胸衣系带",
+      "description_en": "Structured lacing with boning for dramatic shaping and closure.",
+      "description_zh": "带有支撑的结构化系带，营造戏剧性塑形与开合。",
+      "ai_tags": [
+        "dramatic",
+        "structured",
+        "vintage",
+        "glamorous"
+      ]
+    },
+    {
+      "id": "closure_006",
+      "name_en": "Velcro",
+      "name_zh": "魔术贴",
+      "description_en": "Hook and loop fastening for easy closure and adjustment.",
+      "description_zh": "钩环扣件，便于开合与调整。",
+      "ai_tags": [
+        "practical",
+        "easy",
+        "adjustable",
+        "versatile"
+      ]
+    },
+    {
+      "id": "closure_007",
+      "name_en": "Snaps",
+      "name_zh": "按扣",
+      "description_en": "Metal or plastic snap fasteners for secure closure.",
+      "description_zh": "金属或塑料按扣，提供安全开合。",
+      "ai_tags": [
+        "secure",
+        "practical",
+        "versatile",
+        "reliable"
+      ]
+    },
+    {
+      "id": "closure_008",
+      "name_en": "Magnetic Closures",
+      "name_zh": "磁扣",
+      "description_en": "Magnetic fasteners for easy closure and opening.",
+      "description_zh": "磁性扣件，便于开合。",
+      "ai_tags": [
+        "modern",
+        "easy",
+        "innovative",
+        "practical"
+      ]
+    },
+    {
+      "id": "closure_009",
+      "name_en": "Ties",
+      "name_zh": "系带",
+      "description_en": "Fabric ties for closure, creating a soft, romantic look.",
+      "description_zh": "面料系带开合，营造柔软浪漫外观。",
+      "ai_tags": [
+        "romantic",
+        "soft",
+        "adjustable",
+        "elegant"
+      ]
+    },
+    {
+      "id": "closure_010",
+      "name_en": "Belt Closure",
+      "name_zh": "腰带扣",
+      "description_en": "Belt or sash for closure, creating a structured, elegant look.",
+      "description_zh": "腰带或饰带开合，营造结构化优雅外观。",
+      "ai_tags": [
+        "elegant",
+        "structured",
+        "versatile",
+        "flattering"
+      ]
+    },
+    {
+      "id": "closure_011",
+      "name_en": "Asymmetric Closure",
+      "name_zh": "不对称开合",
+      "description_en": "Uneven or off-center closure design, creating visual interest.",
+      "description_zh": "不均匀或偏心的开合设计，营造视觉趣味。",
+      "ai_tags": [
+        "modern",
+        "artistic",
+        "unique",
+        "fashion_forward"
+      ]
+    },
+    {
+      "id": "closure_012",
+      "name_en": "Illusion Closure",
+      "name_zh": "透视开合",
+      "description_en": "Closure with sheer fabric or mesh overlay, creating a see-through effect.",
+      "description_zh": "带有透明面料或网纱覆盖的开合，营造透视效果。",
+      "ai_tags": [
+        "sexy",
+        "modern",
+        "artistic",
+        "unique"
+      ]
+    },
+    {
+      "id": "closure_013",
+      "name_en": "Cutout Closure",
+      "name_zh": "镂空开合",
+      "description_en": "Closure with decorative cutouts or openings, creating visual interest.",
+      "description_zh": "带有装饰性镂空或开口的开合，营造视觉趣味。",
+      "ai_tags": [
+        "modern",
+        "artistic",
+        "unique",
+        "eye_catching"
+      ]
+    },
+    {
+      "id": "closure_014",
+      "name_en": "Cowl Closure",
+      "name_zh": "垂坠开合",
+      "description_en": "Closure with soft, draped fabric that creates flowing, elegant folds.",
+      "description_zh": "带有柔软垂坠面料的开合，营造流动优雅的褶皱。",
+      "ai_tags": [
+        "elegant",
+        "flowing",
+        "sophisticated",
+        "draped"
+      ]
+    },
+    {
+      "id": "closure_015",
+      "name_en": "Tiered Closure",
+      "name_zh": "分层开合",
+      "description_en": "Closure with multiple layers or tiers, creating a cascading effect.",
+      "description_zh": "带有多层或分层的开合，营造层叠效果。",
+      "ai_tags": [
+        "layered",
+        "voluminous",
+        "romantic",
+        "dramatic"
+      ]
+    },
+    {
+      "id": "closure_016",
+      "name_en": "Ruching Closure",
+      "name_zh": "褶皱开合",
+      "description_en": "Closure with gathered or pleated fabric, creating texture and volume.",
+      "description_zh": "带有收褶或打褶面料的开合，营造质感与体积。",
+      "ai_tags": [
+        "textured",
+        "romantic",
+        "elegant",
+        "flattering"
+      ]
+    },
+    {
+      "id": "closure_017",
+      "name_en": "Wrap Closure",
+      "name_zh": "裹身开合",
+      "description_en": "Closure that wraps around the body, often with overlapping panels.",
+      "description_zh": "包裹身体的开合，常带有重叠面板。",
+      "ai_tags": [
+        "versatile",
+        "flattering",
+        "modern",
+        "elegant"
+      ]
+    },
+    {
+      "id": "closure_018",
+      "name_en": "Peplum Closure",
+      "name_zh": "荷叶边开合",
+      "description_en": "Closure with a short overskirt or ruffle that creates a flared effect.",
+      "description_zh": "带有短罩裙或荷叶边的开合，营造展开效果。",
+      "ai_tags": [
+        "feminine",
+        "flirty",
+        "vintage",
+        "elegant"
+      ]
+    },
+    {
+      "id": "closure_019",
+      "name_en": "Minimalist Closure",
+      "name_zh": "极简开合",
+      "description_en": "Clean, simple closure with minimal details, focusing on form and function.",
+      "description_zh": "简洁干净的开合，细节最少，专注于形状与功能。",
+      "ai_tags": [
+        "minimalist",
+        "clean",
+        "modern",
+        "sophisticated"
+      ]
+    },
+    {
+      "id": "closure_020",
+      "name_en": "Architectural Closure",
+      "name_zh": "建筑型开合",
+      "description_en": "Structured, geometric closure with sharp lines and defined shapes.",
+      "description_zh": "结构化几何开合，线条锐利形状明确。",
+      "ai_tags": [
+        "structured",
+        "geometric",
+        "modern",
+        "artistic"
+      ]
+    },
+    {
+      "id": "closure_021",
+      "name_en": "Deconstructed Closure",
+      "name_zh": "解构型开合",
+      "description_en": "Non-traditional closure with exposed seams, raw edges, or unconventional construction.",
+      "description_zh": "非传统开合，带有外露缝线、毛边或非常规结构。",
+      "ai_tags": [
+        "avant_garde",
+        "artistic",
+        "modern",
+        "unique"
+      ]
+    },
+    {
+      "id": "closure_022",
+      "name_en": "Couture Closure",
+      "name_zh": "高定开合",
+      "description_en": "One-of-a-kind closure created through advanced draping and construction techniques.",
+      "description_zh": "通过高级垂坠和结构技术创造的独一无二开合。",
+      "ai_tags": [
+        "couture",
+        "unique",
+        "luxury",
+        "artistic"
+      ]
+    },
+    {
+      "id": "closure_023",
+      "name_en": "Transformable Closure",
+      "name_zh": "可变开合",
+      "description_en": "Closure that can be altered or adjusted, such as detachable panels or convertible elements.",
+      "description_zh": "可改变或调整的开合，如可拆卸面板或可变元素。",
+      "ai_tags": [
+        "versatile",
+        "innovative",
+        "practical",
+        "modern"
+      ]
+    }
+  ]
+}
